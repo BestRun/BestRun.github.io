@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>b1ue0cean&#39;s world</title>
+    <link>/</link>
+    <description>b1ue0cean&#39;s world</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Sep 2023 11:15:13 +0800</lastBuildDate>
+    
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MalwareClassificationPaper</title>
+      <link>/posts/malwareclassificationpaper/</link>
+      <pubDate>Fri, 29 Sep 2023 11:15:13 +0800</pubDate>
+      
+      <guid>/posts/malwareclassificationpaper/</guid>
+      <description>&lt;p&gt;2222&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>about &amp; CV</title>
+      <link>/about/about/</link>
+      <pubDate>Tue, 29 Aug 2023 18:37:28 +0800</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>&lt;h2 id=&#34;whoami&#34; &gt;WHOAMI
+&lt;span&gt;
+    &lt;a href=&#34;#whoami&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;FZU, a 211 university in Southeast China&lt;/li&gt;
+&lt;li&gt;a baby AI researcher and a CTF player&lt;/li&gt;
+&lt;li&gt;current CTF team: r3kapig&lt;/li&gt;
+&lt;li&gt;Lab: Key Laboratory of Network Computing and Intelligent Information Processing of Fujian Province&lt;/li&gt;
+&lt;li&gt;Research interests: FUZZ / WebSec&lt;/li&gt;
+&lt;li&gt;Current status: Internship at ISCAS&lt;/li&gt;
+&lt;li&gt;Looking for a phd or master&amp;rsquo;s position in the field of cybersecurity&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;internship-experiences&#34; &gt;Internship experiences
+&lt;span&gt;
+    &lt;a href=&#34;#internship-experiences&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;Yigeyun (Jan 2023 - Mar 2023)&lt;/li&gt;
+&lt;li&gt;ISCAS (Jul 2023 - )&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;research-experiences&#34; &gt;Research experiences:
+&lt;span&gt;
+    &lt;a href=&#34;#research-experiences&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Worked on two research projects in the aforementioned lab, both related to traffic prediction. Co-authored two EI-indexed papers as a second or third author.&lt;/p&gt;
+&lt;h2 id=&#34;ctf-competition-experiences&#34; &gt;CTF competition experiences:
+&lt;span&gt;
+    &lt;a href=&#34;#ctf-competition-experiences&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Participated in competitions with ROIS during the first and second years. Subsequently, joined r3kapig for competitions in 2022. However, limited participation in 2023 due to ongoing application procedures; expecting more time availability after the current semester.&lt;/p&gt;
+&lt;h2 id=&#34;personal-skills&#34; &gt;Personal skills:
+&lt;span&gt;
+    &lt;a href=&#34;#personal-skills&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Skills can be broadly categorized into two areas: machine learning and security.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Machine learning basics including SVM, clustering, etc.&lt;/li&gt;
+&lt;li&gt;Familiarity with time series analysis, RNN, and related concepts.&lt;/li&gt;
+&lt;li&gt;Some knowledge of Graph Neural Networks (GNN), GCN, GAT, etc.&lt;/li&gt;
+&lt;li&gt;Foundational understanding of NLP techniques, including BERT.&lt;/li&gt;
+&lt;li&gt;Proficient in using PyTorch and TensorFlow.&lt;/li&gt;
+&lt;li&gt;Skilled in code auditing for JAVA and PHP.&lt;/li&gt;
+&lt;li&gt;Basic familiarity with node.js and C++.&lt;/li&gt;
+&lt;li&gt;A modest understanding of CodeQL.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Blog Intro</title>
+      <link>/posts/introduction/</link>
+      <pubDate>Tue, 29 Aug 2023 18:37:28 +0800</pubDate>
+      
+      <guid>/posts/introduction/</guid>
+      <description>&lt;h2 id=&#34;hello-everyone&#34; &gt;Hello, everyone!
+&lt;span&gt;
+    &lt;a href=&#34;#hello-everyone&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;This website is the blog site launched from my secondary GitHub account. Its primary purpose is to migrate Chinese articles after transforming them into English versions. You can visit my original blog at: &lt;a href=&#34;https://b1ue0ceanrun.github.io/&#34;&gt;https://b1ue0ceanrun.github.io/&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
