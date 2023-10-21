@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>LLM on b1ue0cean&#39;s world</title>
+    <link>https://BestRun.github.io/tags/llm/</link>
+    <description>b1ue0cean&#39;s world (LLM)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Oct 2023 17:35:46 +0800</lastBuildDate>
+    
+    <atom:link href="https://BestRun.github.io/tags/llm/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research on in Context Few Shot Learning</title>
+      <link>https://BestRun.github.io/posts/research-on-in-context-few-shot-learning/</link>
+      <pubDate>Sat, 21 Oct 2023 17:35:46 +0800</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/research-on-in-context-few-shot-learning/</guid>
+      <description>&lt;p&gt;waiting to write&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

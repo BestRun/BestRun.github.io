@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bachelor thesis on b1ue0cean&#39;s world</title>
+    <link>https://BestRun.github.io/tags/bachelor-thesis/</link>
+    <description>b1ue0cean&#39;s world (bachelor thesis)</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 21 Oct 2023 15:04:21 +0800</lastBuildDate>
+    
+    <atom:link href="https://BestRun.github.io/tags/bachelor-thesis/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research about the Field of Encrypted Malicious Traffic Detection</title>
+      <link>https://BestRun.github.io/posts/encrypted-malicious-traffic-research/</link>
+      <pubDate>Sat, 21 Oct 2023 15:04:21 +0800</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/encrypted-malicious-traffic-research/</guid>
+      <description>&lt;h2 id=&#34;research-condition&#34; &gt;Research Condition
+&lt;span&gt;
+    &lt;a href=&#34;#research-condition&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Firstly, I&amp;rsquo;d like to spent some time on datasets and related papers.&lt;/p&gt;
+&lt;h3 id=&#34;paper&#34; &gt;Paper
+&lt;span&gt;
+    &lt;a href=&#34;#paper&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis&lt;/li&gt;
+&lt;li&gt;Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dataset&#34; &gt;Dataset
+&lt;span&gt;
+    &lt;a href=&#34;#dataset&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;waiting to write &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,58 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on b1ue0cean&#39;s world</title>
-    <link>https://BestRun.github.io/posts/</link>
-    <description>b1ue0cean&#39;s world (Posts)</description>
+    <title>fuzz on b1ue0cean&#39;s world</title>
+    <link>https://BestRun.github.io/tags/fuzz/</link>
+    <description>b1ue0cean&#39;s world (fuzz)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2023 17:35:46 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2023 15:03:05 +0800</lastBuildDate>
     
-    <atom:link href="https://BestRun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://BestRun.github.io/tags/fuzz/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Research on in Context Few Shot Learning</title>
-      <link>https://BestRun.github.io/posts/research-on-in-context-few-shot-learning/</link>
-      <pubDate>Sat, 21 Oct 2023 17:35:46 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/research-on-in-context-few-shot-learning/</guid>
-      <description>&lt;p&gt;waiting to write&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Research about the Field of Encrypted Malicious Traffic Detection</title>
-      <link>https://BestRun.github.io/posts/encrypted-malicious-traffic-research/</link>
-      <pubDate>Sat, 21 Oct 2023 15:04:21 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/encrypted-malicious-traffic-research/</guid>
-      <description>&lt;h2 id=&#34;research-condition&#34; &gt;Research Condition
-&lt;span&gt;
-    &lt;a href=&#34;#research-condition&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Firstly, I&amp;rsquo;d like to spent some time on datasets and related papers.&lt;/p&gt;
-&lt;h3 id=&#34;paper&#34; &gt;Paper
-&lt;span&gt;
-    &lt;a href=&#34;#paper&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis&lt;/li&gt;
-&lt;li&gt;Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;dataset&#34; &gt;Dataset
-&lt;span&gt;
-    &lt;a href=&#34;#dataset&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;waiting to write &amp;hellip;&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Paper Reading Note - CHATAFL</title>
@@ -199,75 +156,6 @@
 &lt;/span&gt;
 &lt;/h4&gt;&lt;p&gt;A complex design, let&amp;rsquo;s skip it! For have my own ideas, but they&amp;rsquo;re not suitable to share.&lt;/p&gt;
 &lt;img src=&#34;https://BestRun.github.io/pictures/20231021170616.png&#34; width=&#34;600&#34; height=&#34;1200&#34;&gt;</description>
-    </item>
-    
-    <item>
-      <title>A diary in a special time</title>
-      <link>https://BestRun.github.io/posts/a-simple-diary/</link>
-      <pubDate>Sat, 21 Oct 2023 11:15:13 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/a-simple-diary/</guid>
-      <description>&lt;h2 id=&#34;my-life-and-mental-state&#34; &gt;My life and mental state
-&lt;span&gt;
-    &lt;a href=&#34;#my-life-and-mental-state&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Today is Saturday, and I don&amp;rsquo;t want to overwhelm myself with work, even though I&amp;rsquo;m facing the most intense pressure I&amp;rsquo;ve ever experienced in my undergraduate years as I strive to secure a Master&amp;rsquo;s or PhD position.&lt;/p&gt;
-&lt;p&gt;Just yesterday, I gave a presentation for one of my courses. The teacher, an associate professor from Canada, transformed the presentation into a meaningful conversation. He offered a piece of advice that has left a lasting impact on me and provided valuable lessons. He emphasized the importance of always being prepared for a presentation and understanding the purpose at any given time. This advice is especially crucial when you&amp;rsquo;re planning to study abroad, as it&amp;rsquo;s easy to feel lost in a new environment. He humorously added, &amp;ldquo;In many years, you might forget my name and the name of the course, but you&amp;rsquo;ll remember being in a strange place, with an strange course and teacher, telling you to always be prepared and know your purpose.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;His words deeply resonated with me. Lately, I&amp;rsquo;ve been juggling various commitments, such as internships, preparing for the IELTS, and applying for Master&amp;rsquo;s programs. It&amp;rsquo;s been three months since I last wrote a blog or reflected on my life and studies.So today, I took a moment to sit down in my lab and write this blog to summarize the past few months of my work and life.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d like to share what I&amp;rsquo;ve been up to recently. Firstly, I&amp;rsquo;m still engrossed in my internship project focused on fuzzing at ISCAS. What&amp;rsquo;s more, I&amp;rsquo;m about to commence work with Professor Xing on the AIxCC competition, and I&amp;rsquo;m faced with three course projects that I must complete – it feels like quite a workload!&lt;/p&gt;
-&lt;p&gt;Additionally, this week I&amp;rsquo;ve prepared all the application materials for my UK university applications. I&amp;rsquo;m set to apply to the University of Southampton next Monday.&lt;/p&gt;
-&lt;p&gt;Furthermore, I&amp;rsquo;m in the process of deciding the direction for my bachelor&amp;rsquo;s thesis. I can use the progress I made in AIxCC competition as my bachelor&amp;rsquo;s thesis, but my school tutor also give my a direction about detecting encrypted malicious traffic.&lt;/p&gt;
-&lt;p&gt;On top of all this, my IELTS score currently stands at only 6. I need to put in the effort to improve it to 6.5 by the end of this year. And, I also have to obtain a GRE score this year! The NUS need GRE grade, cry!&lt;/p&gt;
-&lt;p&gt;Yes, there are just too many tasks on my plate.&lt;/p&gt;
-&lt;p&gt;Despite my initial intention to avoid discussing anything related to computer knowledge formally, I&amp;rsquo;ve found it difficult to do so. First, let me list all the tasks I need to complete:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Course projects
-&lt;ul&gt;
-&lt;li&gt;NLP course&lt;/li&gt;
-&lt;li&gt;CV course&lt;/li&gt;
-&lt;li&gt;AI Reach Practice&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Internship project&lt;/li&gt;
-&lt;li&gt;IELTS&lt;/li&gt;
-&lt;li&gt;GRE&lt;/li&gt;
-&lt;li&gt;AIxCC competition&lt;/li&gt;
-&lt;li&gt;School applications (Personal Statement, Reference Letter, and so on&amp;hellip;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;However, I want to make it clear that I&amp;rsquo;m not writing this blog to complain. My aim is to tackle these challenges one by one.&lt;/p&gt;
-&lt;h2 id=&#34;some-research-experiences&#34; &gt;Some Research experiences
-&lt;span&gt;
-    &lt;a href=&#34;#some-research-experiences&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;After that, I want to share some research experiences I&amp;rsquo;ve faced in the last few months. Perhaps I should list them for a clearer expression.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;You should divide your tasks into smaller, more manageable ones until you can.&lt;/li&gt;
-&lt;li&gt;Many times, you may think you&amp;rsquo;ve found a paper that could solve your problems, but most of the time, you&amp;rsquo;ll find it couldn&amp;rsquo;t after some experimentation. This is a common occurrence, so keep on reading and trying.&lt;/li&gt;
-&lt;li&gt;Writing a weekly summary, in my internship, it is called a &amp;ldquo;weekly report,&amp;rdquo; can make your project clearer, and perhaps you will get new ideas when you write it.&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t always think you should wait until you are well-prepared to start. When you&amp;rsquo;re confused, what you should do is start. You can do five or more tasks, even if they are not well-prepared, instead of one task for which you&amp;rsquo;ve prepared everything well.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Hope everything goes smoothly afterwards!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blog Intro</title>
-      <link>https://BestRun.github.io/posts/introduction/</link>
-      <pubDate>Tue, 29 Aug 2023 18:37:28 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/introduction/</guid>
-      <description>&lt;h2 id=&#34;hello-everyone&#34; &gt;Hello, everyone!
-&lt;span&gt;
-    &lt;a href=&#34;#hello-everyone&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;This website is the blog site launched from my secondary GitHub account. Its primary purpose is to migrate Chinese articles after transforming them into English versions. You can visit my original blog at: &lt;a href=&#34;https://b1ue0ceanrun.github.io/&#34;&gt;https://b1ue0ceanrun.github.io/&lt;/a&gt;&lt;/p&gt;
-</description>
     </item>
     
   </channel>

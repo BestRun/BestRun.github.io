@@ -6,10 +6,200 @@
     <description>b1ue0cean&#39;s world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2023 11:15:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2023 17:35:46 +0800</lastBuildDate>
     
     <atom:link href="https://BestRun.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research on in Context Few Shot Learning</title>
+      <link>https://BestRun.github.io/posts/research-on-in-context-few-shot-learning/</link>
+      <pubDate>Sat, 21 Oct 2023 17:35:46 +0800</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/research-on-in-context-few-shot-learning/</guid>
+      <description>&lt;p&gt;waiting to write&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Research about the Field of Encrypted Malicious Traffic Detection</title>
+      <link>https://BestRun.github.io/posts/encrypted-malicious-traffic-research/</link>
+      <pubDate>Sat, 21 Oct 2023 15:04:21 +0800</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/encrypted-malicious-traffic-research/</guid>
+      <description>&lt;h2 id=&#34;research-condition&#34; &gt;Research Condition
+&lt;span&gt;
+    &lt;a href=&#34;#research-condition&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Firstly, I&amp;rsquo;d like to spent some time on datasets and related papers.&lt;/p&gt;
+&lt;h3 id=&#34;paper&#34; &gt;Paper
+&lt;span&gt;
+    &lt;a href=&#34;#paper&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;ul&gt;
+&lt;li&gt;Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis&lt;/li&gt;
+&lt;li&gt;Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;dataset&#34; &gt;Dataset
+&lt;span&gt;
+    &lt;a href=&#34;#dataset&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;waiting to write &amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Paper Reading Note - CHATAFL</title>
+      <link>https://BestRun.github.io/posts/paper-reading-note-chatafl/</link>
+      <pubDate>Sat, 21 Oct 2023 15:03:05 +0800</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/paper-reading-note-chatafl/</guid>
+      <description>&lt;h2 id=&#34;before-reading&#34; &gt;Before Reading
+&lt;span&gt;
+    &lt;a href=&#34;#before-reading&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Actually, this work is very similar to my research direction in my internship project. I also think some ideas to use LLM to fuzz, but because my work ability and timeline, I haven&amp;rsquo;t finish my project yet. So, today I will summarize  the good idea contributed from this paper.&lt;/p&gt;
+&lt;p&gt;Before diving into it, I have a few questions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Where and how can LLM be applied to fuzzing?
+&lt;ul&gt;
+&lt;li&gt;In state transitions?&lt;/li&gt;
+&lt;li&gt;In testcase generation?&lt;/li&gt;
+&lt;li&gt;In mutation?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Regarding LLM:
+&lt;ul&gt;
+&lt;li&gt;Which LLM was used by the author?&lt;/li&gt;
+&lt;li&gt;Did the author fine-tune it?&lt;/li&gt;
+&lt;li&gt;If so, how was it fine-tuned?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Which protocol did the author research?&lt;/li&gt;
+&lt;li&gt;What are the cost and efficiency considerations?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With these questions in mind, I will begin my reading.&lt;/p&gt;
+&lt;h2 id=&#34;start-reading&#34; &gt;Start Reading
+&lt;span&gt;
+    &lt;a href=&#34;#start-reading&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;abstract&#34; &gt;Abstract
+&lt;span&gt;
+    &lt;a href=&#34;#abstract&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Our protocol fuzzer CHATAFL constructs grammars for each message type in a protocol, and then mutates messages or predicts the next messages in a message sequence via interactions with LLMs. |&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And the CHATAFL improve the coverage compare with NSFUZZ.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;CHATAFL covers 47.60% and 42.69% more state transitions, 29.55% and 25.75% more states, and 5.81% and 6.74% more code, respectively.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;introduction&#34; &gt;INTRODUCTION
+&lt;span&gt;
+    &lt;a href=&#34;#introduction&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;The concept of &amp;ldquo;LLM-guided protocol fuzzing&amp;rdquo;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;the fuzzer uses the LLM to extract a machine-readable grammar for a protocol that is used for structure-aware mutation&lt;/li&gt;
+&lt;li&gt;the fuzzer uses the LLM to increase the diversity of messages in the recorded message sequences that are used as initial seeds.&lt;/li&gt;
+&lt;li&gt;the fuzzer uses the LLM to break out of a coverage plateau, where the LLM is prompted to generate messages to reach new states.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Than the author compare the efficiency of chatafl with &lt;a href=&#34;https://github.com/profuzzbench/profuzzbench&#34;&gt;protocol fuzzer benchmark&lt;/a&gt;.&lt;/p&gt;
+&lt;h3 id=&#34;background-and-motivation&#34; &gt;BACKGROUND AND MOTIVATION
+&lt;span&gt;
+    &lt;a href=&#34;#background-and-motivation&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;Here, the author suggest some challenges&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;(C1) Dependence on initial seeds. The effectiveness of mutation-based protocol fuzzers is severely limited by the provided initial seed inputs. The pre-recorded message sequences will hardly cover the great diversity of protocol states and input structures as discussed in the protocol specification.&lt;/li&gt;
+&lt;li&gt;(C2) Unknown message structure. Without machinereadable information about the message structure, the fuzzer cannot make structurally interesting changes to the seed messages, e.g., to construct messages of unseen types or to remove, substitute, or add an entire, coherent data structure to a seed message.&lt;/li&gt;
+&lt;li&gt;(C3) Unknown state space. Without machinereadable information about the state space, the fuzzer cannot identify the current state or be directed to explore previously unseen states.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Actually, what&amp;rsquo;s most appealing here is the solution for the &amp;ldquo;state,&amp;rdquo; the rest is just so so. Regarding the &amp;ldquo;state,&amp;rdquo; I need to find out which specific state the author is referring to later.&lt;/p&gt;
+&lt;p&gt;There are three state in Fuzzing&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://BestRun.github.io/pictures/20231021161745.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Next, let&amp;rsquo;s see the Motivation, here the author introduce their solutions for the three challenges mentioned above.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Addressing seed dependence by having the LLM &lt;strong&gt;add a random message&lt;/strong&gt; to a seed message sequence, with a focus on improving message diversity and validity (C1).&lt;/li&gt;
+&lt;li&gt;Dealing with unknown message structures by &lt;strong&gt;requesting the LLM to provide machine-readable information&lt;/strong&gt; about message grammar for various message types, with a focus on assessing the quality and coverage of these grammars compared to the ground truth (C2).&lt;/li&gt;
+&lt;li&gt;Navigating the unknown state space by &lt;strong&gt;requesting the LLM to generate a message that leads to a new state&lt;/strong&gt;, with an investigation into the effectiveness of this approach (C3).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;How to tell LLM to generate, wondering to know!&lt;/p&gt;
+&lt;h3 id=&#34;case-study-testing-the-capabilities-of-llms-for-protocol-fuzzing&#34; &gt;CASE STUDY: TESTING THE CAPABILITIES OF LLMS FOR PROTOCOL FUZZING
+&lt;span&gt;
+    &lt;a href=&#34;#case-study-testing-the-capabilities-of-llms-for-protocol-fuzzing&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;Skip to the third part: Inducing Interesting State Transitions&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;We provide the LLM the message exchange between fuzzer and the protocol implementation and ask it to return a message that would lead to a new state. We evaluate how likely the message induce a transition to a new state. Specifically, we provide the LLM with existing communication history, enabling a server respectively to reach each state (i.e., INIT, READY, PLAY, and RECORD). Afterward, we query the LLM to determine the next client requests that can affect the server’s state. To mitigate the influence of the LLM’s stochastic behavior, we prompted the LLM 100 times for each state.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Actually, I had proposed the same idea before, but I hadn&amp;rsquo;t put it into practice because we selected a more complex target. Perhaps this event is educational for me. I should do some practices from the simplest target.&lt;/p&gt;
+&lt;p&gt;Perhaps considering how to minimize the LLM cost in algorithm design could also be a promising research direction?&lt;/p&gt;
+&lt;h3 id=&#34;llm-guided-protocol-fuzzing&#34; &gt;LLM-GUIDED PROTOCOL FUZZING
+&lt;span&gt;
+    &lt;a href=&#34;#llm-guided-protocol-fuzzing&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;a-grammar-guided-mutation&#34; &gt;A. Grammar-guided Mutation
+&lt;span&gt;
+    &lt;a href=&#34;#a-grammar-guided-mutation&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;&lt;h5 id=&#34;1-grammar-extraction&#34; &gt;1) Grammar Extraction
+&lt;span&gt;
+    &lt;a href=&#34;#1-grammar-extraction&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h5&gt;&lt;p&gt;Here, the author use a method to generate message grammar called &amp;ndash; in-context few-shot learning. Cool, this is a super idea!&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In-context learning serves as an effective approach to fine-tuning the model. Few-shot learning is utilized to enhance the context with a few examples of desired inputs and outputs. This enables the LLM to recognize the input prompt syntax and output patterns.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h5 id=&#34;2-mutation-based-on-grammar&#34; &gt;2) Mutation based on Grammar
+&lt;span&gt;
+    &lt;a href=&#34;#2-mutation-based-on-grammar&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h5&gt;&lt;p&gt;skip!&lt;/p&gt;
+&lt;h4 id=&#34;b-enriching-initial-seeds&#34; &gt;B. Enriching Initial Seeds
+&lt;span&gt;
+    &lt;a href=&#34;#b-enriching-initial-seeds&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;&lt;p&gt;skip!&lt;/p&gt;
+&lt;h4 id=&#34;c-surpassing-coverage-plateau&#34; &gt;C. Surpassing Coverage Plateau
+&lt;span&gt;
+    &lt;a href=&#34;#c-surpassing-coverage-plateau&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;&lt;p&gt;A complex design, let&amp;rsquo;s skip it! For have my own ideas, but they&amp;rsquo;re not suitable to share.&lt;/p&gt;
+&lt;img src=&#34;https://BestRun.github.io/pictures/20231021170616.png&#34; width=&#34;600&#34; height=&#34;1200&#34;&gt;</description>
+    </item>
     
     <item>
       <title>A diary in a special time</title>
