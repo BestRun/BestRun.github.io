@@ -48,14 +48,24 @@
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Worked on two research projects in the aforementioned lab, both related to traffic prediction. Co-authored two EI-indexed papers as a second or third author.&lt;/p&gt;
+&lt;/h2&gt;&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1084804523001650&#34;&gt;Capturing spatial–temporal correlations with Attention based Graph Convolutional Network for network traffic prediction&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10148029&#34;&gt;Network Traffic Prediction with Attention-based Spatial-Temporal Graph Network&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;h2 id=&#34;ctf-competition-experiences&#34; &gt;CTF competition experiences:
 &lt;span&gt;
     &lt;a href=&#34;#ctf-competition-experiences&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Participated in competitions with ROIS during the first and second years. Subsequently, joined r3kapig for competitions in 2022. However, limited participation in 2023 due to ongoing application procedures; expecting more time availability after the current semester.&lt;/p&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Participated in competitions with ROIS during the first and second years.&lt;/li&gt;
+&lt;li&gt;Subsequently, joined r3kapig for competitions in 2022. However, limited participation in 2023 due to ongoing application procedures; expecting more time availability after the current semester.&lt;/li&gt;
+&lt;/ul&gt;
 &lt;h2 id=&#34;personal-skills&#34; &gt;Personal skills:
 &lt;span&gt;
     &lt;a href=&#34;#personal-skills&#34;&gt;
