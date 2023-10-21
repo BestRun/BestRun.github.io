@@ -17,7 +17,27 @@
       <pubDate>Sat, 21 Oct 2023 17:35:46 +0800</pubDate>
       
       <guid>https://BestRun.github.io/posts/research-on-in-context-few-shot-learning/</guid>
-      <description>&lt;p&gt;waiting to write&amp;hellip;&lt;/p&gt;
+      <description>&lt;p&gt;OK, this title may be wried, ah&lt;/p&gt;
+&lt;p&gt;it mix two concepts,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;few shot learner&lt;/li&gt;
+&lt;li&gt;in context learning&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Here are several paper about this topic, and I will spent some time to reading all of them next week.
+Four paper mentioned in the chatafl paper&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Language models are few-shot learners&lt;/li&gt;
+&lt;li&gt;How does in-context learning help prompt tuning?&lt;/li&gt;
+&lt;li&gt;Self-consistency improves chain of thought reasoning in language models&lt;/li&gt;
+&lt;li&gt;Chain of thought prompting elicits reasoning in large language models&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And some I found,&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Skill-Based Few-Shot Selection for In-Context Learning&lt;/li&gt;
+&lt;li&gt;Language Models are Few-Shot Learners&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Language models are few-shot learners is the original paper of GPT3
+&lt;a href=&#34;https://sh-tsang.medium.com/review-gpt-3-language-models-are-few-shot-learners-ff3e63da944d&#34;&gt;https://sh-tsang.medium.com/review-gpt-3-language-models-are-few-shot-learners-ff3e63da944d&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
