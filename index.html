@@ -104,16 +104,6 @@
 
 
 
-    
-        <link rel="webmention" href="https://webmention.io/hugo-theme-anubis/webmention" />
-        
-            <link rel="pingback" href="https://webmention.io/hugo-theme-anubis/xmlrpc" />
-        
-    
-    
-        <link rel="webmention" href="https://yourdomain.com/webemntions/receive" />
-    
-
 
 
 
@@ -237,7 +227,28 @@ if (!doNotTrack) {
     </nav>
 
 
+<script>
+  MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[', '\\]']],
+      processEscapes: true,
+      processEnvironments: true
+    },
+    options: {
+      skipHtmlTags: ['script', 'noscript', 'style', 'textarea', 'pre']
+    }
+  };
 
+  window.addEventListener('load', (event) => {
+      document.querySelectorAll("mjx-container").forEach(function(x){
+        x.parentElement.classList += 'has-jax'})
+    });
+
+</script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 
 
 
@@ -305,6 +316,7 @@ if (!doNotTrack) {
     
         <div class="content post-summary p-summary">
             Hello, everyone! This website is the blog site launched from my secondary GitHub account. Its primary purpose is to migrate Chinese articles after transforming them into English versions. You can visit my original blog at: https://b1ue0ceanrun.github.io/
+A hugo tutorial is here, https://carpentries-incubator.github.io/blogging-with-hugo-and-github-pages/03-push-to-github/index.html
         </div>
     
     
