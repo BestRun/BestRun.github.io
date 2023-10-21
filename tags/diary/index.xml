@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on b1ue0cean&#39;s world</title>
-    <link>https://BestRun.github.io/posts/</link>
-    <description>b1ue0cean&#39;s world (Posts)</description>
+    <title>diary on b1ue0cean&#39;s world</title>
+    <link>https://BestRun.github.io/tags/diary/</link>
+    <description>b1ue0cean&#39;s world (diary)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 21 Oct 2023 11:15:13 +0800</lastBuildDate>
     
-    <atom:link href="https://BestRun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://BestRun.github.io/tags/diary/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -55,24 +55,6 @@
 &lt;li&gt;Don&amp;rsquo;t always think you should wait until you are well-prepared to start. When you&amp;rsquo;re confused, what you should do is start. You can do five or more tasks, even if they are not well-prepared, instead of one task for which you&amp;rsquo;ve prepared everything well.&lt;/li&gt;
 &lt;/ol&gt;
 &lt;p&gt;Hope everything goes smoothly afterwards!&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Blog Intro</title>
-      <link>https://BestRun.github.io/posts/introduction/</link>
-      <pubDate>Tue, 29 Aug 2023 18:37:28 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/introduction/</guid>
-      <description>&lt;h2 id=&#34;hello-everyone&#34; &gt;Hello, everyone!
-&lt;span&gt;
-    &lt;a href=&#34;#hello-everyone&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;This website is the blog site launched from my secondary GitHub account. Its primary purpose is to migrate Chinese articles after transforming them into English versions. You can visit my original blog at: &lt;a href=&#34;https://b1ue0ceanrun.github.io/&#34;&gt;https://b1ue0ceanrun.github.io/&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;A hugo tutorial is here,
-&lt;a href=&#34;https://carpentries-incubator.github.io/blogging-with-hugo-and-github-pages/03-push-to-github/index.html&#34;&gt;https://carpentries-incubator.github.io/blogging-with-hugo-and-github-pages/03-push-to-github/index.html&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
