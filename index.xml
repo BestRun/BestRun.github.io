@@ -6,10 +6,49 @@
     <description>b1ue0cean&#39;s world</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2023 17:35:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 23 Oct 2023 13:15:48 +0800</lastBuildDate>
     
     <atom:link href="https://BestRun.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>CV Course Design</title>
+      <link>https://BestRun.github.io/posts/cv-course-design/</link>
+      <pubDate>Mon, 23 Oct 2023 13:15:48 +0800</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/cv-course-design/</guid>
+      <description>&lt;p&gt;Today, a significant portion of my time will be dedicated to my internship work, but I&amp;rsquo;m also determined to allocate some time for selecting the theme of my CV course project.&lt;/p&gt;
+&lt;p&gt;As per the project requirements, our teacher has provided us with a broad scope – &amp;ldquo;smart school.&amp;rdquo;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Currently, computer vision technology has been widely applied in various industries. Looking to the future, there are still numerous potential applications waiting to be realized. In many natural and social settings, computer vision technology is yet to be further developed, such as:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Computer vision contributing to smart classrooms.&lt;/li&gt;
+&lt;li&gt;Computer vision supporting smart campuses.&lt;/li&gt;
+&lt;li&gt;Computer vision aiding in remote education.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;and a link, &lt;a href=&#34;https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm&#34;&gt;https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;In response to the requirements for any of the scenarios mentioned above, construct a computer vision task, design an algorithm based on computer vision technology, conduct testing, and write and submit a research report of over 2500 words. The title should be &amp;ldquo;Research Report on &amp;lsquo;Computer Vision&amp;rsquo;: xx,&amp;rdquo; where &amp;ldquo;xx&amp;rdquo; represents the specific task name, such as &amp;ldquo;Classroom Atmosphere Recognition Based on Long Short-Term Memory Networks,&amp;rdquo; &amp;ldquo;Real-time Face Recognition for Classroom Attendance,&amp;rdquo; &amp;ldquo;Deep Learning-based Remote Education Interaction Design,&amp;rdquo; and so on. Testing datasets can be obtained from the internet, such as &lt;a href=&#34;https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm&#34;&gt;https://homepages.inf.ed.ac.uk/rbf/CVonline/Imagedbase.htm&lt;/a&gt;, and existing algorithm code can be found on platforms like GitHub or the author&amp;rsquo;s website.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So, the next step is to search for a proper dataset and consider what I can work on.&lt;/p&gt;
+&lt;p&gt;Actually, what I want to do most is to apply Deep Learning and Computer Vision techniques to detect whether WeChat or QQ is being used by a user. This would involve capturing the screen and analyzing it. We can apply similar detection techniques, although this idea is somewhat unrelated to the teacher&amp;rsquo;s requirements.&lt;/p&gt;
+&lt;p&gt;Perhaps working on traffic accident detection could be a good choice?&lt;/p&gt;
+&lt;p&gt;Or I could explore cheating detection scenarios. For instance, in remote teaching situations, we can detect if students are using unrelated software during class. In remote testing, we can check whether a student is communicating with others through QQ or other chat software. Additionally, we can extract chat content using OCR techniques to prevent unnecessary human resource waste.&lt;/p&gt;
+&lt;p&gt;These approaches involve different methods, including object detection and OCR.&lt;/p&gt;
+&lt;p&gt;Using YOLO might be a suitable choice to implement this.&lt;/p&gt;
+&lt;p&gt;Perhaps we can approach the detection in two levels. The first level would involve detecting if the QQ icon is present in the screenshot, and the second level would focus on detecting whether the chat interface is open.&lt;/p&gt;
+&lt;p&gt;And I have some step to do.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Creating the Dataset.(I can download some windows screen pictures and I can use Python to overlay a WeChat interface onto those screen images.)&lt;/li&gt;
+&lt;li&gt;Research on wether Object detection can have a good performance in this scenario.&lt;/li&gt;
+&lt;li&gt;OCR, can be achieved with existing PaddleOCR models with ease.&lt;/li&gt;
+&lt;li&gt;Sensitive detection, not in this project.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ok, I will spent some time on researching on &lt;strong&gt;if Object detection can have a good performance in this scenarios&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;I will update until the project is half-down.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Research on in Context Few Shot Learning</title>
