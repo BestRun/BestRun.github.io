@@ -23,43 +23,43 @@
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;只有时常回过头看走过的路，才能更好的迈向远方。 &amp;ndash; runrunzi&lt;/p&gt;
-&lt;p&gt;不知不觉一年又过去了，此时的我一个人坐在电脑前，孤零零地写着年终总结，（😭原来大家跨年都有人陪，只有我还是一个人。&lt;/p&gt;
-&lt;p&gt;不是很想写流水账，就分成几个模块来写吧。想了想，打算这么分&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;只有时常回过头看走过的路，才能更好的迈向远方。 &amp;ndash; runrunzi
+不知不觉一年又过去了，此时的我一个人坐在电脑前，孤零零地写着年终总结，（😭原来大家跨年都有人陪，只有我还是一个人。
+不是很想写流水账，就分成几个模块来写吧。想了想，打算这么分&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;总的来说&lt;/li&gt;
 &lt;li&gt;工作&amp;amp;技术&lt;/li&gt;
 &lt;li&gt;生活&lt;/li&gt;
 &lt;li&gt;展望&amp;amp;规划&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h2 id=&#34;总的来说&#34; &gt;总的来说
+&lt;h3 id=&#34;总的来说&#34; &gt;总的来说
 &lt;span&gt;
     &lt;a href=&#34;#%e6%80%bb%e7%9a%84%e6%9d%a5%e8%af%b4&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;今年是我人生中很关键的一年，这一年会大致决定我未来的去向，未来到底要做什么。我的步调可以说是一半学，一半摆。身边的朋友有的去USA读PHD，有的去阿里这种大厂追梦，而我也在犹豫中慢慢向前摸索自己未来的路。&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;今年是我人生中很关键的一年，这一年会大致决定我未来的去向，未来到底要做什么。我的步调可以说是一半学，一半摆。身边的朋友有的去USA读PHD，有的去阿里这种大厂追梦，而我也在犹豫中慢慢向前摸索自己未来的路。&lt;/p&gt;
 &lt;p&gt;一年一瞬间就过去了，可能未来大概率是要去继续出国读个书的。今年最大的收获可能就是明白没有简单的路吧，体验了工业界和学术界后，有了些感觉，这些写在下面的段落中。&lt;/p&gt;
-&lt;h2 id=&#34;工作技术&#34; &gt;工作&amp;amp;技术
+&lt;h3 id=&#34;工作技术&#34; &gt;工作&amp;amp;技术
 &lt;span&gt;
     &lt;a href=&#34;#%e5%b7%a5%e4%bd%9c%e6%8a%80%e6%9c%af&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;今年的开始是从一份实习开始的，我十分感谢这份实习，在这次实习中我学到了很多东西，体会到了前阿里云顶级sec团队的工作氛围（吹就完了）。&lt;/p&gt;
-&lt;h3 id=&#34;工作&#34; &gt;工作
+&lt;/h3&gt;&lt;p&gt;今年的开始是从一份实习开始的，我十分感谢这份实习，在这次实习中我学到了很多东西，体会到了前阿里云顶级sec团队的工作氛围（吹就完了）。&lt;/p&gt;
+&lt;h4 id=&#34;工作&#34; &gt;工作
 &lt;span&gt;
     &lt;a href=&#34;#%e5%b7%a5%e4%bd%9c&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h3&gt;&lt;h4 id=&#34;eagle-cloud-internship&#34; &gt;Eagle Cloud Internship
+&lt;/h4&gt;&lt;h5 id=&#34;eagle-cloud-internship&#34; &gt;Eagle Cloud Internship
 &lt;span&gt;
     &lt;a href=&#34;#eagle-cloud-internship&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h4&gt;&lt;p&gt;今年过年面试了亿格云公司，感谢Y4👴的推荐，直接把我推到了叶总面前。面我的是刘师傅（诸多src前几名，传闻俩月挖洞挖了辆宝马）这次面试回想起来，我只想用灾难二字形容。&lt;/p&gt;
+&lt;/h5&gt;&lt;p&gt;今年过年面试了亿格云公司，感谢Y4👴的推荐，直接把我推到了叶总面前。面我的是刘师傅（诸多src前几名，传闻俩月挖洞挖了辆宝马）这次面试回想起来，我只想用灾难二字形容。&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;简单说几个NLP相关算法，（🤔️&lt;/li&gt;
 &lt;li&gt;简单说一次你的渗透经历，（🤔️&lt;/li&gt;
@@ -70,91 +70,45 @@
 &lt;li&gt;很多业务是你根本没接触过的，这时候就需要你快速学习的能力。
 实习了两个月，我感觉自己还是更向往学术界一些，工业界可能对我这种不安分的人来说有点boring，加上学校一堆课，就回到了学校。&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;iscas-intership&#34; &gt;ISCAS Intership
+&lt;h5 id=&#34;iscas-intership&#34; &gt;ISCAS Intership
 &lt;span&gt;
     &lt;a href=&#34;#iscas-intership&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h4&gt;&lt;p&gt;回到学校，就立刻进入到了找暑期实习的状态。三月到五月面了一堆公司，这里挂一下当时的emo推。
+&lt;/h5&gt;&lt;p&gt;回到学校，就立刻进入到了找暑期实习的状态。三月到五月面了一堆公司，这里挂一下当时的emo推。
 &lt;img src=&#34;https://BestRun.github.io/pictures/20231231162233.png&#34; width=&#34;600&#34; height=&#34;800&#34;&gt;&lt;/p&gt;
 &lt;p&gt;五月份投了ISCAS的系统安全实习生，没想到顺利的通过了之后就开启了直到今天的“科研”实习。&lt;/p&gt;
 &lt;p&gt;可以说，这段实习让我对安全，科研都有了新的认知。&lt;/p&gt;
 &lt;p&gt;七月份到十月份，疯狂的读了很多fuzz相关的论文，感觉打开了新世界（以前甚至肤浅的觉得sec的科研有点花拳绣腿的感觉，不是很实用）。现在发现，学术界才是引领sec发展的最前线。&lt;/p&gt;
 &lt;p&gt;感谢导让我自己负责一个项目，一直坐到今天，也快有了结果。&lt;/p&gt;
-&lt;h3 id=&#34;技术&#34; &gt;技术
+&lt;h4 id=&#34;技术&#34; &gt;技术
 &lt;span&gt;
     &lt;a href=&#34;#%e6%8a%80%e6%9c%af&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;今年技术感觉没啥大的进步，但由于GPT的出现，加上学校里的成，我更深入地去了解了一些NLP的相关知识，也去实践了一些AI和安全相关的东西。最大的进步还是入坑了FUZZ领域吧，还是要继续加油啊，小Hao！&lt;/p&gt;
+&lt;/h4&gt;&lt;p&gt;今年技术感觉没啥大的进步，但由于GPT的出现，加上学校里的成，我更深入地去了解了一些NLP的相关知识，也去实践了一些AI和安全相关的东西。最大的进步还是入坑了FUZZ领域吧，还是要继续加油啊，小Hao！&lt;/p&gt;
 &lt;p&gt;此外还被西北大学的xing教授拉去帮忙AIXCC比赛，希望以后有机会去USA读个PHD。&lt;/p&gt;
-&lt;h2 id=&#34;生活情感&#34; &gt;生活（情感）
+&lt;h3 id=&#34;生活情感&#34; &gt;生活（情感）
 &lt;span&gt;
     &lt;a href=&#34;#%e7%94%9f%e6%b4%bb%e6%83%85%e6%84%9f&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;今年的生活可以说是有滋有味了，从小Hao的qq空间可以看出来。&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;今年的生活可以说是有滋有味了，从小Hao的qq空间可以看出来。&lt;/p&gt;
 &lt;p&gt;此外，今年最大的突破可以说是开始了健身。自己的身体摆了两年，今年终于开始要健身了，目前已经健身了一个月，自我感觉良好，从刚开始10kg的哑铃都做不动到现在可以挑战17.5kg，进步还是肉眼可见的哈。&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;情感方面，本人目前单身，欢迎来打扰o.o&lt;/strong&gt;&lt;/p&gt;
-&lt;h2 id=&#34;展望规划&#34; &gt;展望&amp;amp;规划
+&lt;h3 id=&#34;展望规划&#34; &gt;展望&amp;amp;规划
 &lt;span&gt;
     &lt;a href=&#34;#%e5%b1%95%e6%9c%9b%e8%a7%84%e5%88%92&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;关于留学：申请ing，没啥好说的&lt;/p&gt;
+&lt;/h3&gt;&lt;p&gt;关于留学：申请ing，没啥好说的&lt;/p&gt;
 &lt;p&gt;我是想读个master当gap year然后考虑下去学术界还是工业界。如果没有合适的奥佛，我就打算做一年科研助理直接去学术界了，毕竟master对读博也没啥大用。&lt;/p&gt;
 &lt;p&gt;前两天和梁兄（一位在USA追梦的PHD）交流了一下，我跟他说，我萌生了Gap Year的想法，他也是很支持。他也赞同，花点时间搞清楚自己想要什么更加重要。&lt;/p&gt;
-&lt;p&gt;之前和西北大学的某位前辈请教，问他关于读博的问题，他告所我说sec的PHD还是更看技术一些吧，gpa不要太低就好，说我可以直接申。但是今年是来不及辣，看明年咯，希望一些顺利！&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Research about the Field of Encrypted Malicious Traffic Detection</title>
-      <link>https://BestRun.github.io/posts/encrypted-malicious-traffic-research/</link>
-      <pubDate>Sat, 21 Oct 2023 15:04:21 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/encrypted-malicious-traffic-research/</guid>
-      <description>&lt;h2 id=&#34;research-condition&#34; &gt;Research Condition
-&lt;span&gt;
-    &lt;a href=&#34;#research-condition&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Firstly, I&amp;rsquo;d like to spent some time on datasets and related papers.&lt;/p&gt;
-&lt;h3 id=&#34;paper&#34; &gt;Paper
-&lt;span&gt;
-    &lt;a href=&#34;#paper&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;Detecting Unknown Encrypted Malicious Traffic in Real Time via Flow Interaction Graph Analysis&lt;/li&gt;
-&lt;li&gt;Realtime Robust Malicious Traffic Detection via Frequency Domain Analysis&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;dataset&#34; &gt;Dataset
-&lt;span&gt;
-    &lt;a href=&#34;#dataset&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;which part of work is still space from improvement.&lt;/p&gt;
-&lt;h2 id=&#34;paper-reading&#34; &gt;Paper Reading
-&lt;span&gt;
-    &lt;a href=&#34;#paper-reading&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;real-time-via-flow-interaction-graph-analysis&#34; &gt;Real Time via Flow Interaction Graph Analysis
-&lt;span&gt;
-    &lt;a href=&#34;#real-time-via-flow-interaction-graph-analysis&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;</description>
+&lt;p&gt;之前和西北大学的某位前辈请教，问他关于读博的问题，他告所我说sec的PHD还是更看技术一些吧，gpa不要太低就好，说我可以直接申。但是今年是来不及辣，看明年咯，希望一些顺利！&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -163,14 +117,14 @@
       <pubDate>Sat, 21 Oct 2023 15:03:05 +0800</pubDate>
       
       <guid>https://BestRun.github.io/posts/paper-reading-note-chatafl/</guid>
-      <description>&lt;h2 id=&#34;before-reading&#34; &gt;Before Reading
+      <description>&lt;p&gt;Actually, this work is very similar to my research direction in my internship project. I also think some ideas to use LLM to fuzz, but because my work ability and timeline, I haven&amp;rsquo;t finish my project yet. So, today I will summarize  the good idea contributed from this paper.&lt;/p&gt;
+&lt;h2 id=&#34;before-reading&#34; &gt;Before Reading
 &lt;span&gt;
     &lt;a href=&#34;#before-reading&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Actually, this work is very similar to my research direction in my internship project. I also think some ideas to use LLM to fuzz, but because my work ability and timeline, I haven&amp;rsquo;t finish my project yet. So, today I will summarize  the good idea contributed from this paper.&lt;/p&gt;
-&lt;p&gt;Before diving into it, I have a few questions:&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;Before diving into it, I have a few questions:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Where and how can LLM be applied to fuzzing?
 &lt;ul&gt;
@@ -353,8 +307,7 @@
 &lt;li&gt;Writing a weekly summary, in my internship, it is called a &amp;ldquo;weekly report,&amp;rdquo; can make your project clearer, and perhaps you will get new ideas when you write it.&lt;/li&gt;
 &lt;li&gt;Don&amp;rsquo;t always think you should wait until you are well-prepared to start. When you&amp;rsquo;re confused, what you should do is start. You can do five or more tasks, even if they are not well-prepared, instead of one task for which you&amp;rsquo;ve prepared everything well.&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Hope everything goes smoothly afterwards!&lt;/p&gt;
-</description>
+&lt;p&gt;Hope everything goes smoothly afterwards!&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -370,13 +323,13 @@
     &lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;FZU, a 211 university in Southeast China&lt;/li&gt;
+&lt;li&gt;Bachelor: Artificial Intelligence, FZU, 211&lt;/li&gt;
+&lt;li&gt;Master: Computer Engineering, Aarhus University&lt;/li&gt;
 &lt;li&gt;a baby AI researcher and a CTF player&lt;/li&gt;
 &lt;li&gt;current CTF team: r3kapig&lt;/li&gt;
-&lt;li&gt;Lab: Key Laboratory of Network Computing and Intelligent Information Processing of Fujian Province&lt;/li&gt;
-&lt;li&gt;Research interests: FUZZ / WebSec&lt;/li&gt;
+&lt;li&gt;Research interests: Protocol FUZZ / WebSec / LLM SEC&lt;/li&gt;
 &lt;li&gt;Current status: Internship at ISCAS&lt;/li&gt;
-&lt;li&gt;Looking for a phd or master&amp;rsquo;s position in the field of cybersecurity&lt;/li&gt;
+&lt;li&gt;Looking for a phd position in the field of Software &amp;amp; LLM security&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;internship-experiences&#34; &gt;Internship experiences
 &lt;span&gt;
@@ -411,6 +364,7 @@
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Participated in competitions with ROIS during the first and second years.&lt;/li&gt;
 &lt;li&gt;Subsequently, joined r3kapig for competitions in 2022. However, limited participation in 2023 due to ongoing application procedures; expecting more time availability after the current semester.&lt;/li&gt;
+&lt;li&gt;ByteAI Security Competition 5th in the preliminaries&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;personal-skills&#34; &gt;Personal skills:
 &lt;span&gt;
@@ -428,6 +382,8 @@
 &lt;li&gt;Skilled in code auditing for JAVA and PHP.&lt;/li&gt;
 &lt;li&gt;Basic familiarity with node.js and C++.&lt;/li&gt;
 &lt;li&gt;A modest understanding of CodeQL.&lt;/li&gt;
+&lt;li&gt;Protocol Fuzzing&lt;/li&gt;
+&lt;li&gt;LLM Security&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>

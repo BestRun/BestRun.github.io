@@ -17,14 +17,14 @@
       <pubDate>Sat, 21 Oct 2023 15:03:05 +0800</pubDate>
       
       <guid>https://BestRun.github.io/posts/paper-reading-note-chatafl/</guid>
-      <description>&lt;h2 id=&#34;before-reading&#34; &gt;Before Reading
+      <description>&lt;p&gt;Actually, this work is very similar to my research direction in my internship project. I also think some ideas to use LLM to fuzz, but because my work ability and timeline, I haven&amp;rsquo;t finish my project yet. So, today I will summarize  the good idea contributed from this paper.&lt;/p&gt;
+&lt;h2 id=&#34;before-reading&#34; &gt;Before Reading
 &lt;span&gt;
     &lt;a href=&#34;#before-reading&#34;&gt;
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Actually, this work is very similar to my research direction in my internship project. I also think some ideas to use LLM to fuzz, but because my work ability and timeline, I haven&amp;rsquo;t finish my project yet. So, today I will summarize  the good idea contributed from this paper.&lt;/p&gt;
-&lt;p&gt;Before diving into it, I have a few questions:&lt;/p&gt;
+&lt;/h2&gt;&lt;p&gt;Before diving into it, I have a few questions:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Where and how can LLM be applied to fuzzing?
 &lt;ul&gt;
