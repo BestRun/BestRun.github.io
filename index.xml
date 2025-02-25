@@ -505,7 +505,7 @@ CE可以在选修时选一门CS 10ECTS的课，到时候把想上的选了就好
 &lt;/span&gt;
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Bachelor: Artificial Intelligence, FZU, 211&lt;/li&gt;
-&lt;li&gt;Master: Computer Engineering, Aarhus University&lt;/li&gt;
+&lt;li&gt;Master(Ongoing): Computer Engineering, Aarhus University&lt;/li&gt;
 &lt;li&gt;a baby AI researcher &amp;amp; CTF player&lt;/li&gt;
 &lt;li&gt;CTF team: r3kapig&lt;/li&gt;
 &lt;li&gt;Research interests: Protocol FUZZ / WebSec / LLM SEC&lt;/li&gt;
@@ -579,15 +579,23 @@ CE可以在选修时选一门CS 10ECTS的课，到时候把想上的选了就好
 &lt;/h2&gt;&lt;p&gt;Skills can be broadly categorized into two areas: machine learning and security.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Machine learning basics including SVM, clustering, etc.&lt;/li&gt;
-&lt;li&gt;Familiarity with time series analysis, RNN, and related concepts.&lt;/li&gt;
 &lt;li&gt;Some knowledge of Graph Neural Networks (GNN), GCN, GAT, etc.&lt;/li&gt;
-&lt;li&gt;Foundational understanding of NLP techniques, including BERT.&lt;/li&gt;
+&lt;li&gt;Foundational understanding of NLP techniques.&lt;/li&gt;
 &lt;li&gt;Proficient in using PyTorch and TensorFlow.&lt;/li&gt;
-&lt;li&gt;Skilled in code auditing for JAVA and PHP.&lt;/li&gt;
-&lt;li&gt;Basic familiarity with node.js and C++.&lt;/li&gt;
-&lt;li&gt;A modest understanding of CodeQL.&lt;/li&gt;
 &lt;li&gt;Protocol Fuzzing&lt;/li&gt;
 &lt;li&gt;LLM Security&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ongoing-masters-courses&#34; &gt;Ongoing master&amp;rsquo;s courses:
+&lt;span&gt;
+    &lt;a href=&#34;#ongoing-masters-courses&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;Language-based Security.&lt;/li&gt;
+&lt;li&gt;Software Correctness.&lt;/li&gt;
+&lt;li&gt;Internet of Things Technology.&lt;/li&gt;
+&lt;li&gt;Systems Engineering.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
