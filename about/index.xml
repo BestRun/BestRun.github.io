@@ -26,11 +26,10 @@
 &lt;/h2&gt;&lt;ul&gt;
 &lt;li&gt;Bachelor: Artificial Intelligence, FZU, 211&lt;/li&gt;
 &lt;li&gt;Master: Computer Engineering, Aarhus University&lt;/li&gt;
-&lt;li&gt;a baby AI researcher and a CTF player&lt;/li&gt;
-&lt;li&gt;current CTF team: r3kapig&lt;/li&gt;
+&lt;li&gt;a baby AI researcher &amp;amp; CTF player&lt;/li&gt;
+&lt;li&gt;CTF team: r3kapig&lt;/li&gt;
 &lt;li&gt;Research interests: Protocol FUZZ / WebSec / LLM SEC&lt;/li&gt;
-&lt;li&gt;Current status: Internship at ISCAS&lt;/li&gt;
-&lt;li&gt;Looking for a phd position in the field of Software &amp;amp; LLM security&lt;/li&gt;
+&lt;li&gt;Looking for a phd position in the field of Software &amp;amp; LLM security in 2027&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;internship-experiences&#34; &gt;Internship experiences
 &lt;span&gt;
@@ -48,13 +47,28 @@
         &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
     &lt;/a&gt;
 &lt;/span&gt;
-&lt;/h2&gt;&lt;ol&gt;
+&lt;/h2&gt;&lt;h3 id=&#34;published&#34; &gt;Published:
+&lt;span&gt;
+    &lt;a href=&#34;#published&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.sciencedirect.com/science/article/pii/S1084804523001650&#34;&gt;Capturing spatial–temporal correlations with Attention based Graph Convolutional Network for network traffic prediction&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;&lt;a href=&#34;https://ieeexplore.ieee.org/document/10148029&#34;&gt;Network Traffic Prediction with Attention-based Spatial-Temporal Graph Network&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;unpublished&#34; &gt;Unpublished:
+&lt;span&gt;
+    &lt;a href=&#34;#unpublished&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;ol&gt;
+&lt;li&gt;Bachelor thesis: Advanced Robust Algorithm for Detecting Encrypted Malicious Network Traffic&lt;/li&gt;
 &lt;/ol&gt;
 &lt;h2 id=&#34;ctf-competition-experiences&#34; &gt;CTF competition experiences:
 &lt;span&gt;
@@ -63,9 +77,18 @@
     &lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;Participated in competitions with ROIS during the first and second years.&lt;/li&gt;
-&lt;li&gt;Subsequently, joined r3kapig for competitions in 2022. However, limited participation in 2023 due to ongoing application procedures; expecting more time availability after the current semester.&lt;/li&gt;
-&lt;li&gt;ByteAI Security Competition 5th in the preliminaries&lt;/li&gt;
+&lt;li&gt;Participated in CTF competitions with ROIS during the first and second years.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ctftime.org/team/58979&#34;&gt;r3kapig&lt;/a&gt; for competitions from 2022 -&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;ai-competition-experiences&#34; &gt;AI competition experiences:
+&lt;span&gt;
+    &lt;a href=&#34;#ai-competition-experiences&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://x.com/b1ue0cean7/status/1850741725641482610&#34;&gt;ByteAI Security Competition&lt;/a&gt; – 3rd place in the final.(Prompt Leaking &amp;amp; Jailbreak)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/3RHiILBsAv3UzB4dAIJ5Hg&#34;&gt;Datacon 2024 AI Track&lt;/a&gt; – 3rd place in the final. (We achieved first place in LLM hallucination triggering and LLM-based threat intelligence extraction.)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;personal-skills&#34; &gt;Personal skills:
 &lt;span&gt;
