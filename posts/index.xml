@@ -174,5 +174,164 @@
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://BestRun.github.io/posts/paper-reading-note-viaduct/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/paper-reading-note-viaduct/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34; &gt;Introduction
+&lt;span&gt;
+    &lt;a href=&#34;#introduction&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;two weeks later, my teammate and I  will present a paper &amp;ndash; Viaduct
+Let&amp;rsquo;s follow the instructions given by our prof!&lt;/p&gt;
+&lt;h2 id=&#34;how-to-read-a-research-paper&#34; &gt;How to read a research paper
+&lt;span&gt;
+    &lt;a href=&#34;#how-to-read-a-research-paper&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;You may find if useful to ask yourself the following questions as you read the paper, or after you read the paper. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What problem is the paper addressing? How well do they succeed in solving the problem? &lt;/li&gt;
+&lt;li&gt;What is the contribution of the paper? How important is this contribution? &lt;/li&gt;
+&lt;li&gt;How would you have addressed the problem? &lt;/li&gt;
+&lt;li&gt;What was unclear to you? &lt;/li&gt;
+&lt;li&gt;How does the paper relate to other papers we have read or studied? &lt;/li&gt;
+&lt;li&gt;Are there any obvious or non-obvious extensions to this work? &lt;/li&gt;
+&lt;li&gt;Can you suggest a two-sentence project idea based on the ideas of this paper? &lt;/li&gt;
+&lt;li&gt;Here is a more elaborate discussion on &lt;a href=&#34;http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf&#34;&gt;how to read a research paper&lt;/a&gt; by Michael Mitzenmacher.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;paper-reading&#34; &gt;Paper Reading
+&lt;span&gt;
+    &lt;a href=&#34;#paper-reading&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Let&amp;rsquo;s solve these problems step by step!&lt;/p&gt;
+&lt;h3 id=&#34;1-what-problem-is-the-paper-addressing-how-well-do-they-succeed-in-solving-the-problem&#34; &gt;1. What problem is the paper addressing? How well do they succeed in solving the problem? 
+&lt;span&gt;
+    &lt;a href=&#34;#1-what-problem-is-the-paper-addressing-how-well-do-they-succeed-in-solving-the-problem&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;h3 id=&#34;how-would-you-have-addressed-the-problem&#34; &gt;How would you have addressed the problem? 
+&lt;span&gt;
+    &lt;a href=&#34;#how-would-you-have-addressed-the-problem&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;Using threat model is a good solution I think.&lt;/p&gt;
+&lt;p&gt;Compiled programs run across multiple hosts, each executing a single thread and communicating via secure, asynchronous message-passing, with no shared memory. Timing attacks are out of scope, and availability is not guaranteed. In Viaduct&amp;rsquo;s model, each host may consider others as potential attackers, depending on the context (e.g., Alice vs. Bob in the millionaires problem). Attacker capabilities are modeled via &lt;em&gt;labels&lt;/em&gt; that determine what data they can read (confidentiality) or modify (integrity). Full corruption of a single host is not feasible if mutual trust exists, as corruption of one’s integrity implies corruption of the other&amp;rsquo;s as well.&lt;/p&gt;
+&lt;h2 id=&#34;presenting-papers&#34; &gt;Presenting papers
+&lt;span&gt;
+    &lt;a href=&#34;#presenting-papers&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Things to think about when preparing your presentation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your primary goal is to clearly communicate the key ideas of the paper. In order to do this, you may need to read some of the related work, and you may need to present background material.&lt;/li&gt;
+&lt;li&gt;Your secondary goal is to prompt discussion about the papers.&lt;/li&gt;
+&lt;li&gt;You do not have time to cover every detail of the paper. Focus instead on the important and/or interesting aspects of the paper.&lt;/li&gt;
+&lt;li&gt;The structure of the paper is often useful as the structure of your presentation. However, this is not always the case. Make a conscious decision about how you will structure your presentation, and why.&lt;/li&gt;
+&lt;li&gt;Do not read aloud the text on your slides.&lt;/li&gt;
+&lt;li&gt;For advice on giving good presentations, see, for example, &lt;a href=&#34;http://pages.cs.wisc.edu/~markhill/conference-talk.html&#34;&gt;Mark Hill&amp;rsquo;s advice&lt;/a&gt;, &lt;a href=&#34;http://www.matthewjmiller.net/ramblings/presentation-tips/&#34;&gt;Matthew Miller&amp;rsquo;s tips&lt;/a&gt;, or Simon Peyton Jones&amp;rsquo; slides on how to give a good research talk (via Mark Leone&amp;rsquo;s advice &lt;a href=&#34;https://www.cs.cmu.edu/~mleone/how-to.html&#34;&gt;website&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;related-work--background-material&#34; &gt;related work &amp;amp; background material
+&lt;span&gt;
+    &lt;a href=&#34;#related-work--background-material&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;historical-millionaires-problem&#34; &gt;Historical Millionaires’ Problem
+&lt;span&gt;
+    &lt;a href=&#34;#historical-millionaires-problem&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;&lt;p&gt;&lt;em&gt;The Millionaire’s Problem, introduced by Andy Yao in 1982, began the study of privacy-preserving multiparty computation. Alice and Bob want to know who is the richer without revealing how much they are actually worth.&lt;/em&gt;
+&lt;a href=&#34;https://zoo.cs.yale.edu/classes/cs461/2009/lectures/ln21.pdf&#34;&gt;https://zoo.cs.yale.edu/classes/cs461/2009/lectures/ln21.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;Pasted image 20250418160430.png&#34; alt=&#34;示例图片&#34; width=&#34;500&#34; height=&#34;300&#34;&gt;
+&lt;h4 id=&#34;a-simple-introduction-for-every-protocol&#34; &gt;A simple introduction for every protocol
+&lt;span&gt;
+    &lt;a href=&#34;#a-simple-introduction-for-every-protocol&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;&lt;img src=&#34;Pasted image 20250418165358.png&#34; alt=&#34;示例图片&#34; width=&#34;500&#34; height=&#34;300&#34;&gt;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://BestRun.github.io/posts/structure-aware-fuzzing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/structure-aware-fuzzing/</guid>
+      <description>&lt;p&gt;Why I want to talk about the structure aware fuzzing today is because of a black hat video.
+&lt;a href=&#34;https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf&#34;&gt;https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;what&amp;rsquo;s the difference between structure aware and grammar fuzzing?&lt;/p&gt;
+&lt;p&gt;Recently I am working on MQTT protocol fuzzing. But MQTT protocol has some special features.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/luisgar1990/MQTTGRAM&#34;&gt;https://github.com/luisgar1990/MQTTGRAM&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mqtt-protocol&#34; &gt;MQTT Protocol
+&lt;span&gt;
+    &lt;a href=&#34;#mqtt-protocol&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;When I am fuzzing mqtt protocol, many testcases will be simplify rejected by the server for the reason:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;nni recv error!! Connection shudown&lt;/li&gt;
+&lt;li&gt;property_parse: Unknown type 7&lt;/li&gt;
+&lt;li&gt;UTF-8 check failed!&lt;/li&gt;
+&lt;li&gt;pipe id xxx is gone, pub failed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s see the description in the MQTT V5 specification:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;### 2.1.4 Remaining Length
+
+**Position:** starts at byte 2.
+
+The Remaining Length is a Variable Byte Integer that represents the number of bytes remaining within the current Control Packet, including data in the Variable Header and the Payload. The Remaining Length does not include the bytes used to encode the Remaining Length. The packet size is the total number of bytes in an MQTT Control Packet, this is equal to the length of the Fixed Header plus the Remaining Length.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Here&amp;rsquo;s a simplified valid MQTT v5 property sequence:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;0x0B   // Total properties length (var int)
+0x01   // Property ID: Payload Format Indicator
+0x00   // Value: 0 (binary data)
+0x03   // Property ID: Content Type
+0x00 0x05  // UTF-8 String Length (5)
+74 65 78 74 2F 70 6C 61 69 6E  // &amp;#34;text/plain&amp;#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;So if we do mutation randomly, like bit flipping leads to an invalid input rejected by the target API in the early stage of parsing!&lt;/p&gt;
+&lt;p&gt;Grammar:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/luisgar1990/MQTTGRAM/blob/master/generator.py&#34;&gt;https://github.com/luisgar1990/MQTTGRAM/blob/master/generator.py&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;using-libfuzzer-for-structure-aware-fuzzing&#34; &gt;Using libfuzzer for structure aware fuzzing
+&lt;span&gt;
+    &lt;a href=&#34;#using-libfuzzer-for-structure-aware-fuzzing&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md&#34;&gt;https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;structure-aware-vs-llm-generator&#34; &gt;Structure Aware VS LLM Generator
+&lt;span&gt;
+    &lt;a href=&#34;#structure-aware-vs-llm-generator&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;pass&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/MPFuzz/MPFuzz/blob/0d413ccec8855ad356aa382e1709cf28dc3d2622/executable/samples/mqtt_data.xml&#34;&gt;https://github.com/MPFuzz/MPFuzz/blob/0d413ccec8855ad356aa382e1709cf28dc3d2622/executable/samples/mqtt_data.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;mutate如何实现的&lt;/p&gt;
+&lt;h2 id=&#34;some-solution&#34; &gt;Some solution
+&lt;span&gt;
+    &lt;a href=&#34;#some-solution&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Using LLM: &lt;a href=&#34;https://arxiv.org/html/2501.19282v1&#34;&gt;https://arxiv.org/html/2501.19282v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;能猜一下 &lt;a href=&#34;https://github.com/advisories/GHSA-cwr9-w5qw-fr62&#34;&gt;https://github.com/advisories/GHSA-cwr9-w5qw-fr62&lt;/a&gt; 怎么出的吗
+&lt;a href=&#34;https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c&#34;&gt;https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
