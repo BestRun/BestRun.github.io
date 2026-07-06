@@ -908,6 +908,80 @@ CE可以在选修时选一门CS 10ECTS的课，到时候把想上的选了就好
     
     <item>
       <title></title>
+      <link>https://BestRun.github.io/posts/1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/1/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV187kjBPEqz?spm_id_from=333.788.videopod.sections&amp;amp;vd_source=a2c222cd47523aaf38b1191c9089cd79&#34;&gt;https://www.bilibili.com/video/BV187kjBPEqz?spm_id_from=333.788.videopod.sections&amp;amp;vd_source=a2c222cd47523aaf38b1191c9089cd79&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;reasoning&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/</guid>
+      <description>&lt;p&gt;这篇文章出现的原因是因为我最近处于一个比较关键的转折点。
+接下来要跟未来潜在的导师合作3个月。
+可能要做一些LLM&amp;amp;SEC的工作。
+因为最近在学校做了一些静态分析的工作，反而错过了一些AI的发展？
+而接下来的工作需要我快速的建立我在AI领域的知识体系。&lt;/p&gt;
+&lt;h2 id=&#34;对于ai体系的思考&#34; &gt;对于AI体系的思考
+&lt;span&gt;
+    &lt;a href=&#34;#%e5%af%b9%e4%ba%8eai%e4%bd%93%e7%b3%bb%e7%9a%84%e6%80%9d%e8%80%83&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;我之前的AI知识体系还停留在两年前，错过了LLM蓬勃发展的两年。
+所以如何快速构建一个适应当下的LLM知识体系尤为重要。&lt;/p&gt;
+&lt;p&gt;首先是一些名词的层出不穷，LLM distilling, DPO,  agentic RL &amp;hellip;
+如何有体系的学习，快速的学习成为了我这几天要思考的问题，因为下周就要上手项目了。&lt;/p&gt;
+&lt;h3 id=&#34;自顶向下的学习&#34; &gt;自顶向下的学习
+&lt;span&gt;
+    &lt;a href=&#34;#%e8%87%aa%e9%a1%b6%e5%90%91%e4%b8%8b%e7%9a%84%e5%ad%a6%e4%b9%a0&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;如果从自顶向下的学习的角度，以论文 &lt;a href=&#34;https://arxiv.org/pdf/2512.07533&#34;&gt;VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection&lt;/a&gt; 为例。&lt;/p&gt;
+&lt;p&gt;论文的目标：将漏洞检测建模为一个&lt;strong&gt;推理任务（reasoning task）&lt;/strong&gt;，而不是分类任务。&lt;/p&gt;
+&lt;p&gt;论文原话直接拿来：
+train a small reasoning model that can correctly identify the vulnerabilities in input functions or projects, even when the vulnerability belongs to OOD CWEs. We further design the model to not only detect the vulnerability but label it with the correct CWE, which is valuable context for triage and patching.&lt;/p&gt;
+&lt;p&gt;训练一个专业领域的LLM的步骤大概有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Dataset constructions&lt;/li&gt;
+&lt;li&gt;Reasoning data generation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20260131160116.png]]&lt;/p&gt;
+&lt;h2 id=&#34;现有的llm体系&#34; &gt;现有的LLM体系
+&lt;span&gt;
+    &lt;a href=&#34;#%e7%8e%b0%e6%9c%89%e7%9a%84llm%e4%bd%93%e7%b3%bb&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;知识蒸馏&lt;/p&gt;
+&lt;p&gt;什么是 reduced reasoning&lt;/p&gt;
+&lt;h2 id=&#34;llm的架构&#34; &gt;LLM的架构
+&lt;span&gt;
+    &lt;a href=&#34;#llm%e7%9a%84%e6%9e%b6%e6%9e%84&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;MOE&lt;/p&gt;
+&lt;p&gt;老师想看到的 一个成熟的训练计划
+训练的细节 每一个步骤都要了解&lt;/p&gt;
+&lt;p&gt;多问问Why
+数据集构建的细节，
+提供的数据集有两个
+两个分别是什么？
+reasoning从哪来？是直接从 DeepSeek 推理来的吗
+确实要考虑，因为其实reasoning是没有正确答案的。（如何评估或者改进这一部分比较重要，收集writeup？但是数据集又没有这种writeup）&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://BestRun.github.io/posts/paper-reading-note-viaduct/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -999,6 +1073,15 @@ Let&amp;rsquo;s follow the instructions given by our prof!&lt;/p&gt;
     
     <item>
       <title></title>
+      <link>https://BestRun.github.io/posts/sft-dpo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/sft-dpo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://BestRun.github.io/posts/structure-aware-fuzzing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1062,6 +1145,115 @@ The Remaining Length is a Variable Byte Integer that represents the number of by
 &lt;/h2&gt;&lt;p&gt;Using LLM: &lt;a href=&#34;https://arxiv.org/html/2501.19282v1&#34;&gt;https://arxiv.org/html/2501.19282v1&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;能猜一下 &lt;a href=&#34;https://github.com/advisories/GHSA-cwr9-w5qw-fr62&#34;&gt;https://github.com/advisories/GHSA-cwr9-w5qw-fr62&lt;/a&gt; 怎么出的吗
 &lt;a href=&#34;https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c&#34;&gt;https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://BestRun.github.io/posts/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F/</guid>
+      <description>&lt;p&gt;蒸馏的原理
+蒸馏的代码&lt;/p&gt;
+&lt;p&gt;蒸馏如何确保reasoning的质量&lt;/p&gt;
+&lt;p&gt;推理模型的架构是什么&lt;/p&gt;
+&lt;p&gt;PPO&lt;/p&gt;
+&lt;p&gt;ToT&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>2026年中的一些思考</title>
+      <link>https://BestRun.github.io/life/2026%E5%B9%B4%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://BestRun.github.io/life/2026%E5%B9%B4%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
+      <description>&lt;p&gt;随手写一写，好久没写文字了。
+感觉时间过的好快，似乎昨天还在停留在国内过年，马上就快要结束慕尼黑的交换生活了。&lt;/p&gt;
+&lt;p&gt;这段交换生活，其实很精彩。&lt;/p&gt;
+&lt;h2 id=&#34;改变和维持&#34; &gt;改变和维持
+&lt;span&gt;
+    &lt;a href=&#34;#%e6%94%b9%e5%8f%98%e5%92%8c%e7%bb%b4%e6%8c%81&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;要说有什么改变的，可能是自己的身心健康有在恢复。
+每到周末，我都在阿尔卑斯的山里。
+坐上火车，有时在去往主火的火车上还在想目的地。
+之后，放空自己，开始徒步。&lt;/p&gt;
+&lt;p&gt;没有了自己的 studio，转而住到了一个house里，有了很多很好的室友，我们一起烧烤，玩牌，生活中似乎也有了一些意想不到的惊喜。&lt;/p&gt;
+&lt;p&gt;维持的，便是繁忙的状态。上学期被学校的 project 压的喘不过气来，这学期又开始了新的合作。
+有时候就在想，如果把追求放低一些，自己是不是会更快乐一些。&lt;/p&gt;
+&lt;h2 id=&#34;消极和积极&#34; &gt;消极和积极
+&lt;span&gt;
+    &lt;a href=&#34;#%e6%b6%88%e6%9e%81%e5%92%8c%e7%a7%af%e6%9e%81&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;什么是消极，什么是积极？
+我自以为是一个拥有积极心态的人。
+感觉在这个微妙的年纪，却很容易迷失。
+有时候甚至会觉得，活着也就这样。
+没有什么能让我提起兴趣的事。
+说是要为自己而活，但感觉终究要活在社会和他人的期待下，感觉很无奈。
+一想到这，就很难积极起来了。&lt;/p&gt;
+&lt;h2 id=&#34;专注和分心&#34; &gt;专注和分心
+&lt;span&gt;
+    &lt;a href=&#34;#%e4%b8%93%e6%b3%a8%e5%92%8c%e5%88%86%e5%bf%83&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;什么是专注？
+每天，每周，时时刻刻在工作，在想着工作，算专注吗？
+社交，娱乐，追逐一些虚无缥缈的东西算分心吗？
+显然这学期相比于上学期是没有那么专注的。
+但是无论专注还是分心，似乎都没找到让自己很满意的状态。&lt;/p&gt;
+&lt;h2 id=&#34;虚假和真实&#34; &gt;虚假和真实
+&lt;span&gt;
+    &lt;a href=&#34;#%e8%99%9a%e5%81%87%e5%92%8c%e7%9c%9f%e5%ae%9e&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;什么是虚假，什么是真实。
+最近感觉有些不真实，或许是压力很大，所以总想要抓住些什么。
+什么是真实的，paper，reputation，money是真实的吗？
+什么是虚假的，爱情，友情是虚假的吗？
+痛苦是真实的吗？
+快乐是虚假的吗？&lt;/p&gt;
+&lt;p&gt;感觉已经渐渐分不清了，似乎自己曾经想追求的东西，现在也渐渐变得模糊。&lt;/p&gt;
+&lt;h2 id=&#34;输和赢&#34; &gt;输和赢
+&lt;span&gt;
+    &lt;a href=&#34;#%e8%be%93%e5%92%8c%e8%b5%a2&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;感觉随着年龄的增长，如何定义输和赢也变得越来越模糊。
+年轻时，一场比赛，一次胜利，都是能很满足。
+但是现在，感觉似乎没有什么那么值得我开心。
+做学术本来就是正反馈比较少的一条路，走下去我真的会开心吗。&lt;/p&gt;
+&lt;h2 id=&#34;缘分与现实&#34; &gt;缘分与现实
+&lt;span&gt;
+    &lt;a href=&#34;#%e7%bc%98%e5%88%86%e4%b8%8e%e7%8e%b0%e5%ae%9e&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;其实这里主要想说一说感情。
+感觉自己相比于去年对待感情成熟了很多。
+但也觉得对于自己的另一半会是怎样依然很模糊。&lt;/p&gt;
+&lt;p&gt;像我这样的人，注定是要流浪的吧。
+所以感情对于我来说，似乎成了奢侈的东西。&lt;/p&gt;
+&lt;p&gt;喜欢，心动，最终似乎都要回归到现实。
+在没安定的年纪，追求爱情，显得那么的无力。
+就算真的真的很喜欢，又能怎样呢。&lt;/p&gt;
+&lt;p&gt;不应该轻易许诺未来，
+但我做不到单纯享受当下。
+什么是正缘，什么是萍水相逢。
+我分不清。
+也许，有些问题不总是有答案的吧。&lt;/p&gt;
+&lt;p&gt;总有人跟我说，你就是还没遇到对的人。
+那如果总是默许错过，是不是有一天会后悔。&lt;/p&gt;
+&lt;p&gt;如果生活中有个人可以牵动自己那已经死了的心，似乎也还不错。&lt;/p&gt;
 </description>
     </item>
     

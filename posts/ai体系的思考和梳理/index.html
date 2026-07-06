@@ -10,15 +10,19 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 
-<title>Abouts - b1ue0cean&rsquo;s world</title>
+<title>b1ue0cean&rsquo;s world</title>
 
-<meta name="description" content="">
+<meta name="description" content="这篇文章出现的原因是因为我最近处于一个比较关键的转折点。 接下来要跟未来潜在的导师合作3个月。 可能要做一些LLM&amp;SEC的工作。 因为最近在学校做了一些静态分析的工作，反而错过了一些AI的发展？ 而接下来的工作需要我快速的建立我在AI领域的知识体系。
+对于AI体系的思考 我之前的AI知识体系还停留在两年前，错过了LLM蓬勃发展的两年。 所以如何快速构建一个适应当下的LLM知识体系尤为重要。
+首先是一些名词的层出不穷，LLM distilling, DPO, agentic RL &hellip; 如何有体系的学习，快速的学习成为了我这几天要思考的问题，因为下周就要上手项目了。
+自顶向下的学习 如果从自顶向下的学习的角度，以论文 VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection 为例。
+论文的目标：将漏洞检测建模为一个推理任务（reasoning task），而不是分类任务。
+论文原话直接拿来： train a small reasoning model that can correctly identify the vulnerabilities in input functions or projects, even when the vulnerability belongs to OOD CWEs. We further design the model to not only detect the vulnerability but label it with the correct CWE, which is valuable context for triage and patching.">
 
 
 
 
 
-<link rel="alternate" type="application/rss+xml" href="https://BestRun.github.io/about/index.xml" title="b1ue0cean's world" />
 <link rel="icon" type="image/x-icon" href="https://BestRun.github.io/favicon.ico">
 <link rel="apple-touch-icon-precomposed" href="https://BestRun.github.io/favicon.png">
 
@@ -92,14 +96,26 @@
 
 
 
-<meta property="og:title" content="Abouts" />
-<meta property="og:description" content="" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://BestRun.github.io/about/" />
+<meta property="og:title" content="" />
+<meta property="og:description" content="这篇文章出现的原因是因为我最近处于一个比较关键的转折点。 接下来要跟未来潜在的导师合作3个月。 可能要做一些LLM&amp;SEC的工作。 因为最近在学校做了一些静态分析的工作，反而错过了一些AI的发展？ 而接下来的工作需要我快速的建立我在AI领域的知识体系。
+对于AI体系的思考 我之前的AI知识体系还停留在两年前，错过了LLM蓬勃发展的两年。 所以如何快速构建一个适应当下的LLM知识体系尤为重要。
+首先是一些名词的层出不穷，LLM distilling, DPO, agentic RL &hellip; 如何有体系的学习，快速的学习成为了我这几天要思考的问题，因为下周就要上手项目了。
+自顶向下的学习 如果从自顶向下的学习的角度，以论文 VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection 为例。
+论文的目标：将漏洞检测建模为一个推理任务（reasoning task），而不是分类任务。
+论文原话直接拿来： train a small reasoning model that can correctly identify the vulnerabilities in input functions or projects, even when the vulnerability belongs to OOD CWEs. We further design the model to not only detect the vulnerability but label it with the correct CWE, which is valuable context for triage and patching." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/" /><meta property="article:section" content="posts" />
+
+
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Abouts"/>
-<meta name="twitter:description" content=""/>
+<meta name="twitter:title" content=""/>
+<meta name="twitter:description" content="这篇文章出现的原因是因为我最近处于一个比较关键的转折点。 接下来要跟未来潜在的导师合作3个月。 可能要做一些LLM&amp;SEC的工作。 因为最近在学校做了一些静态分析的工作，反而错过了一些AI的发展？ 而接下来的工作需要我快速的建立我在AI领域的知识体系。
+对于AI体系的思考 我之前的AI知识体系还停留在两年前，错过了LLM蓬勃发展的两年。 所以如何快速构建一个适应当下的LLM知识体系尤为重要。
+首先是一些名词的层出不穷，LLM distilling, DPO, agentic RL &hellip; 如何有体系的学习，快速的学习成为了我这几天要思考的问题，因为下周就要上手项目了。
+自顶向下的学习 如果从自顶向下的学习的角度，以论文 VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection 为例。
+论文的目标：将漏洞检测建模为一个推理任务（reasoning task），而不是分类任务。
+论文原话直接拿来： train a small reasoning model that can correctly identify the vulnerabilities in input functions or projects, even when the vulnerability belongs to OOD CWEs. We further design the model to not only detect the vulnerability but label it with the correct CWE, which is valuable context for triage and patching."/>
 
 
 
@@ -257,28 +273,91 @@ if (!doNotTrack) {
         </header>
         <main id="main" tabindex="-1"> 
             
-    <div class="index-content">
-        
-    </div>
+    
 
-    <div class="articles h-feed">
-        <h1 class="post-title"></h1>
-        
-        
+    <article class="post h-entry">
+        <div class="post-header">
+            <header>
+                <h1 class="p-name post-title"></h1>
 
-        
-        
-
-        
-            <div class="post-short-list h-entry">
-                <div class="post-header">
-                    <header>
-                        <h2 class="p-name post-title"><a class="u-url" href="/about/about/">about &amp; CV</a></h2>
-                        
-                    </header>
-                </div>
                 
-                
+            </header>
+        </div>
+        
+
+
+
+
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#对于ai体系的思考">对于AI体系的思考</a>
+      <ul>
+        <li><a href="#自顶向下的学习">自顶向下的学习</a></li>
+      </ul>
+    </li>
+    <li><a href="#现有的llm体系">现有的LLM体系</a></li>
+    <li><a href="#llm的架构">LLM的架构</a></li>
+  </ul>
+</nav>
+
+        <div class="content e-content">
+            <p>这篇文章出现的原因是因为我最近处于一个比较关键的转折点。
+接下来要跟未来潜在的导师合作3个月。
+可能要做一些LLM&amp;SEC的工作。
+因为最近在学校做了一些静态分析的工作，反而错过了一些AI的发展？
+而接下来的工作需要我快速的建立我在AI领域的知识体系。</p>
+<h2 id="对于ai体系的思考" >对于AI体系的思考
+<span>
+    <a href="#%e5%af%b9%e4%ba%8eai%e4%bd%93%e7%b3%bb%e7%9a%84%e6%80%9d%e8%80%83">
+        <svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/></svg>
+    </a>
+</span>
+</h2><p>我之前的AI知识体系还停留在两年前，错过了LLM蓬勃发展的两年。
+所以如何快速构建一个适应当下的LLM知识体系尤为重要。</p>
+<p>首先是一些名词的层出不穷，LLM distilling, DPO,  agentic RL &hellip;
+如何有体系的学习，快速的学习成为了我这几天要思考的问题，因为下周就要上手项目了。</p>
+<h3 id="自顶向下的学习" >自顶向下的学习
+<span>
+    <a href="#%e8%87%aa%e9%a1%b6%e5%90%91%e4%b8%8b%e7%9a%84%e5%ad%a6%e4%b9%a0">
+        <svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/></svg>
+    </a>
+</span>
+</h3><p>如果从自顶向下的学习的角度，以论文 <a href="https://arxiv.org/pdf/2512.07533">VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection</a> 为例。</p>
+<p>论文的目标：将漏洞检测建模为一个<strong>推理任务（reasoning task）</strong>，而不是分类任务。</p>
+<p>论文原话直接拿来：
+train a small reasoning model that can correctly identify the vulnerabilities in input functions or projects, even when the vulnerability belongs to OOD CWEs. We further design the model to not only detect the vulnerability but label it with the correct CWE, which is valuable context for triage and patching.</p>
+<p>训练一个专业领域的LLM的步骤大概有：</p>
+<ol>
+<li>Dataset constructions</li>
+<li>Reasoning data generation</li>
+</ol>
+<p>![[Pasted image 20260131160116.png]]</p>
+<h2 id="现有的llm体系" >现有的LLM体系
+<span>
+    <a href="#%e7%8e%b0%e6%9c%89%e7%9a%84llm%e4%bd%93%e7%b3%bb">
+        <svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/></svg>
+    </a>
+</span>
+</h2><p>知识蒸馏</p>
+<p>什么是 reduced reasoning</p>
+<h2 id="llm的架构" >LLM的架构
+<span>
+    <a href="#llm%e7%9a%84%e6%9e%b6%e6%9e%84">
+        <svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/></svg>
+    </a>
+</span>
+</h2><p>MOE</p>
+<p>老师想看到的 一个成熟的训练计划
+训练的细节 每一个步骤都要了解</p>
+<p>多问问Why
+数据集构建的细节，
+提供的数据集有两个
+两个分别是什么？
+reasoning从哪来？是直接从 DeepSeek 推理来的吗
+确实要考虑，因为其实reasoning是没有正确答案的。（如何评估或者改进这一部分比较重要，收集writeup？但是数据集又没有这种writeup）</p>
+
+        </div>
+        
 
     
 
@@ -286,13 +365,8 @@ if (!doNotTrack) {
 
 <div class="post-info">
     
-        <div class="post-date dt-published">
-            <a class="u-url" href="/about/about/"><time datetime="2025-12-21">2025-12-21</time></a>
-            
-        </div>
-    
 
-    <a class="post-hidden-url u-url" href="https://BestRun.github.io/about/about/">https://BestRun.github.io/about/about/</a>
+    <a class="post-hidden-url u-url" href="https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/">https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/</a>
     <a href="https://BestRun.github.io" class="p-name p-author post-hidden-author h-card" rel="me">b1ue0cean</a>
 
 
@@ -303,11 +377,43 @@ if (!doNotTrack) {
     </div>
 </div>
 
-            </div>
+    </article>
+
+    
+
+    
         
-        
+    
+    
+    <div class="pagination post-pagination">
+        <div class="left pagination-item ">
+            
+                <a href="/posts/1/">to new post</a>
+            
+        </div>
+        <div class="right pagination-item ">
+            
+                <a href="/posts/paper-reading-note-viaduct/">to old post</a>
+            
+        </div>
     </div>
 
+
+
+
+    
+
+    
+        
+
+
+
+
+
+
+
+
+    
 
         </main>
         
