@@ -6,10 +6,101 @@
     <description>b1ue0cean&#39;s world (Paper Reading)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2023 15:03:05 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 18 Apr 2025 15:41:53 +0200</lastBuildDate>
     
     <atom:link href="https://BestRun.github.io/tags/paper-reading/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Paper Reading Note - Viaduct</title>
+      <link>https://BestRun.github.io/posts/paper-reading-note-viaduct/</link>
+      <pubDate>Fri, 18 Apr 2025 15:41:53 +0200</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/paper-reading-note-viaduct/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34; &gt;Introduction
+&lt;span&gt;
+    &lt;a href=&#34;#introduction&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;two weeks later, my teammate and I  will present a paper &amp;ndash; Viaduct
+Let&amp;rsquo;s follow the instructions given by our prof!&lt;/p&gt;
+&lt;h2 id=&#34;how-to-read-a-research-paper&#34; &gt;How to read a research paper
+&lt;span&gt;
+    &lt;a href=&#34;#how-to-read-a-research-paper&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;You may find if useful to ask yourself the following questions as you read the paper, or after you read the paper. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What problem is the paper addressing? How well do they succeed in solving the problem? &lt;/li&gt;
+&lt;li&gt;What is the contribution of the paper? How important is this contribution? &lt;/li&gt;
+&lt;li&gt;How would you have addressed the problem? &lt;/li&gt;
+&lt;li&gt;What was unclear to you? &lt;/li&gt;
+&lt;li&gt;How does the paper relate to other papers we have read or studied? &lt;/li&gt;
+&lt;li&gt;Are there any obvious or non-obvious extensions to this work? &lt;/li&gt;
+&lt;li&gt;Can you suggest a two-sentence project idea based on the ideas of this paper? &lt;/li&gt;
+&lt;li&gt;Here is a more elaborate discussion on &lt;a href=&#34;http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf&#34;&gt;how to read a research paper&lt;/a&gt; by Michael Mitzenmacher.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;paper-reading&#34; &gt;Paper Reading
+&lt;span&gt;
+    &lt;a href=&#34;#paper-reading&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Let&amp;rsquo;s solve these problems step by step!&lt;/p&gt;
+&lt;h3 id=&#34;1-what-problem-is-the-paper-addressing-how-well-do-they-succeed-in-solving-the-problem&#34; &gt;1. What problem is the paper addressing? How well do they succeed in solving the problem? 
+&lt;span&gt;
+    &lt;a href=&#34;#1-what-problem-is-the-paper-addressing-how-well-do-they-succeed-in-solving-the-problem&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;h3 id=&#34;how-would-you-have-addressed-the-problem&#34; &gt;How would you have addressed the problem? 
+&lt;span&gt;
+    &lt;a href=&#34;#how-would-you-have-addressed-the-problem&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;Using threat model is a good solution I think.&lt;/p&gt;
+&lt;p&gt;Compiled programs run across multiple hosts, each executing a single thread and communicating via secure, asynchronous message-passing, with no shared memory. Timing attacks are out of scope, and availability is not guaranteed. In Viaduct&amp;rsquo;s model, each host may consider others as potential attackers, depending on the context (e.g., Alice vs. Bob in the millionaires problem). Attacker capabilities are modeled via &lt;em&gt;labels&lt;/em&gt; that determine what data they can read (confidentiality) or modify (integrity). Full corruption of a single host is not feasible if mutual trust exists, as corruption of one’s integrity implies corruption of the other&amp;rsquo;s as well.&lt;/p&gt;
+&lt;h2 id=&#34;presenting-papers&#34; &gt;Presenting papers
+&lt;span&gt;
+    &lt;a href=&#34;#presenting-papers&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Things to think about when preparing your presentation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your primary goal is to clearly communicate the key ideas of the paper. In order to do this, you may need to read some of the related work, and you may need to present background material.&lt;/li&gt;
+&lt;li&gt;Your secondary goal is to prompt discussion about the papers.&lt;/li&gt;
+&lt;li&gt;You do not have time to cover every detail of the paper. Focus instead on the important and/or interesting aspects of the paper.&lt;/li&gt;
+&lt;li&gt;The structure of the paper is often useful as the structure of your presentation. However, this is not always the case. Make a conscious decision about how you will structure your presentation, and why.&lt;/li&gt;
+&lt;li&gt;Do not read aloud the text on your slides.&lt;/li&gt;
+&lt;li&gt;For advice on giving good presentations, see, for example, &lt;a href=&#34;http://pages.cs.wisc.edu/~markhill/conference-talk.html&#34;&gt;Mark Hill&amp;rsquo;s advice&lt;/a&gt;, &lt;a href=&#34;http://www.matthewjmiller.net/ramblings/presentation-tips/&#34;&gt;Matthew Miller&amp;rsquo;s tips&lt;/a&gt;, or Simon Peyton Jones&amp;rsquo; slides on how to give a good research talk (via Mark Leone&amp;rsquo;s advice &lt;a href=&#34;https://www.cs.cmu.edu/~mleone/how-to.html&#34;&gt;website&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;related-work--background-material&#34; &gt;related work &amp;amp; background material
+&lt;span&gt;
+    &lt;a href=&#34;#related-work--background-material&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;historical-millionaires-problem&#34; &gt;Historical Millionaires’ Problem
+&lt;span&gt;
+    &lt;a href=&#34;#historical-millionaires-problem&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;&lt;p&gt;&lt;em&gt;The Millionaire’s Problem, introduced by Andy Yao in 1982, began the study of privacy-preserving multiparty computation. Alice and Bob want to know who is the richer without revealing how much they are actually worth.&lt;/em&gt;
+&lt;a href=&#34;https://zoo.cs.yale.edu/classes/cs461/2009/lectures/ln21.pdf&#34;&gt;https://zoo.cs.yale.edu/classes/cs461/2009/lectures/ln21.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;Pasted image 20250418160430.png&#34; alt=&#34;示例图片&#34; width=&#34;500&#34; height=&#34;300&#34;&gt;
+&lt;h4 id=&#34;a-simple-introduction-for-every-protocol&#34; &gt;A simple introduction for every protocol
+&lt;span&gt;
+    &lt;a href=&#34;#a-simple-introduction-for-every-protocol&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;&lt;img src=&#34;Pasted image 20250418165358.png&#34; alt=&#34;示例图片&#34; width=&#34;500&#34; height=&#34;300&#34;&gt;</description>
+    </item>
     
     <item>
       <title>Paper Reading Note - CHATAFL</title>

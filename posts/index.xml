@@ -6,10 +6,255 @@
     <description>b1ue0cean&#39;s world (Posts)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 21 Oct 2023 15:03:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:00:00 +0200</lastBuildDate>
     
     <atom:link href="https://BestRun.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>对AI安全的一些思考</title>
+      <link>https://BestRun.github.io/posts/%E5%AF%B9ai%E5%AE%89%E5%85%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 +0200</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/%E5%AF%B9ai%E5%AE%89%E5%85%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
+      <description>&lt;p&gt;好久没冒泡了，简单解释一下我现在的状态。
+在TUM交换快乐玩耍，下学期要去 CISPA 做毕设。
+但是最近 CISPA 出了点状况（危），导致我不得不考虑重新审视一下未来。
+与其说是对AI和安全的一些思考，不如说是对自己的一个深度探索。&lt;/p&gt;
+&lt;p&gt;最近在cispa做了一项 benchmark 的工作，（本来说是为博士的研究提前做数据集，现在看来也可能就只是一篇benchmark文章了）。&lt;/p&gt;
+&lt;p&gt;AI安全，最近非常热门的一个方向。无论是学术界还是工业届都有越来越多的人涌入。可能最近经常有各种新闻，claude的xxx模型，挖出了xxx个firefox漏洞，等等等等。所以，AI在安全上的能力到底发展成什么样子呢？我觉得我还是有资格可以讲一讲的。&lt;/p&gt;
+&lt;p&gt;但细分的话AI安全，可以分为两个方面: AI for security 和 AI security.
+AI security 本质上就是 AI 自己的安全，在学术界，早期就是各种测 prompt injection（早就被玩烂了），现在可能焦距到 agent 的 security 和如何做防护上。在工业界，大家关注的更多还是业务中 AI 服务的安全性（这里我没有太多发言权）。&lt;/p&gt;
+&lt;p&gt;更想说一说的是 AI for security, 我们从 AI 能够解一些数学题，在各种 reasoning benchmark 上得分越来越高，可以看出 AI 在 security 领域有着巨大的潜力。于是相应的安全方面的 benchmark 诞生了，UCB团队做了 cybergym, exploitgym 用于测试 agent 在安全领域的能力。但是模型和agent的能力越来越模糊，（跑偏了，不是来讲现有研究的limitation的）。&lt;/p&gt;
+&lt;p&gt;至少我觉得 AI for security 是有无限可能的，虽然有些朋友并不看好这块。那么在学术界还是工业界做成了我最近一直在思考的问题。学术界，计算资源会紧缺一些，但是胜在自由度高，你想研究的课题比较自由。工业界胜在资源丰富，但缺点是总要为业务服务，很难去做自己想做的的研究。&lt;/p&gt;
+&lt;p&gt;我觉得去工业界需要考虑以下几个维度：
+入场时机 x 发展前景 x 自身&lt;/p&gt;
+&lt;p&gt;总入场时机的角度：现在无疑是最好的入场时机，LLM 的 reasoning 能力飞速提升（这学期选了一个reasoning相关的seminar，读了很多相关领域的论文，其实这块还有很大的提升空间），缺的是数据和垂直的训练方法。如果现在入场，无疑是很好的的一个时机，能在该领域积累经验。&lt;/p&gt;
+&lt;p&gt;发展前景：首先，“钱”景肯定是不错的，但是会不会有天花板的存在，这个还不好说。因为没有接受博士的训练，可能工程能力和科研能力无法balance。&lt;/p&gt;
+&lt;p&gt;自身的角度：这个我觉得是最重要的，那就是我究竟适合哪条道路。其实相比于长期无正反馈，我喜欢那种短期的刺激感。可能是因为，我是安全竞赛的走出来的半学院派，而非传统的科研人。所以我迟疑了，博士能带给我的，真的值得吗，如果这三年我花在业界，也许已经可以攒一部分名气。&lt;/p&gt;
+&lt;p&gt;不管了，下学期就边做毕设，边找业界的机会吧，如果cispa的风波过了，再观望一下。&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AI体系的思考和梳理</title>
+      <link>https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/</link>
+      <pubDate>Sat, 31 Jan 2026 15:37:51 +0100</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/</guid>
+      <description>&lt;p&gt;这篇文章出现的原因是因为我最近处于一个比较关键的转折点。
+接下来要跟未来潜在的导师合作3个月。
+可能要做一些LLM&amp;amp;SEC的工作。
+因为最近在学校做了一些静态分析的工作，反而错过了一些AI的发展？
+而接下来的工作需要我快速的建立我在AI领域的知识体系。&lt;/p&gt;
+&lt;h2 id=&#34;对于ai体系的思考&#34; &gt;对于AI体系的思考
+&lt;span&gt;
+    &lt;a href=&#34;#%e5%af%b9%e4%ba%8eai%e4%bd%93%e7%b3%bb%e7%9a%84%e6%80%9d%e8%80%83&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;我之前的AI知识体系还停留在两年前，错过了LLM蓬勃发展的两年。
+所以如何快速构建一个适应当下的LLM知识体系尤为重要。&lt;/p&gt;
+&lt;p&gt;首先是一些名词的层出不穷，LLM distilling, DPO,  agentic RL &amp;hellip;
+如何有体系的学习，快速的学习成为了我这几天要思考的问题，因为下周就要上手项目了。&lt;/p&gt;
+&lt;h3 id=&#34;自顶向下的学习&#34; &gt;自顶向下的学习
+&lt;span&gt;
+    &lt;a href=&#34;#%e8%87%aa%e9%a1%b6%e5%90%91%e4%b8%8b%e7%9a%84%e5%ad%a6%e4%b9%a0&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;如果从自顶向下的学习的角度，以论文 &lt;a href=&#34;https://arxiv.org/pdf/2512.07533&#34;&gt;VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection&lt;/a&gt; 为例。&lt;/p&gt;
+&lt;p&gt;论文的目标：将漏洞检测建模为一个&lt;strong&gt;推理任务（reasoning task）&lt;/strong&gt;，而不是分类任务。&lt;/p&gt;
+&lt;p&gt;论文原话直接拿来：
+train a small reasoning model that can correctly identify the vulnerabilities in input functions or projects, even when the vulnerability belongs to OOD CWEs. We further design the model to not only detect the vulnerability but label it with the correct CWE, which is valuable context for triage and patching.&lt;/p&gt;
+&lt;p&gt;训练一个专业领域的LLM的步骤大概有：&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Dataset constructions&lt;/li&gt;
+&lt;li&gt;Reasoning data generation&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;![[Pasted image 20260131160116.png]]&lt;/p&gt;
+&lt;h2 id=&#34;现有的llm体系&#34; &gt;现有的LLM体系
+&lt;span&gt;
+    &lt;a href=&#34;#%e7%8e%b0%e6%9c%89%e7%9a%84llm%e4%bd%93%e7%b3%bb&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;知识蒸馏&lt;/p&gt;
+&lt;p&gt;什么是 reduced reasoning&lt;/p&gt;
+&lt;h2 id=&#34;llm的架构&#34; &gt;LLM的架构
+&lt;span&gt;
+    &lt;a href=&#34;#llm%e7%9a%84%e6%9e%b6%e6%9e%84&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;MOE&lt;/p&gt;
+&lt;p&gt;老师想看到的 一个成熟的训练计划
+训练的细节 每一个步骤都要了解&lt;/p&gt;
+&lt;p&gt;多问问Why
+数据集构建的细节，
+提供的数据集有两个
+两个分别是什么？
+reasoning从哪来？是直接从 DeepSeek 推理来的吗
+确实要考虑，因为其实reasoning是没有正确答案的。（如何评估或者改进这一部分比较重要，收集writeup？但是数据集又没有这种writeup）&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Structure-Aware Fuzzing</title>
+      <link>https://BestRun.github.io/posts/structure-aware-fuzzing/</link>
+      <pubDate>Sun, 20 Apr 2025 19:49:50 +0200</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/structure-aware-fuzzing/</guid>
+      <description>&lt;p&gt;Why I want to talk about the structure aware fuzzing today is because of a black hat video.
+&lt;a href=&#34;https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf&#34;&gt;https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;what&amp;rsquo;s the difference between structure aware and grammar fuzzing?&lt;/p&gt;
+&lt;p&gt;Recently I am working on MQTT protocol fuzzing. But MQTT protocol has some special features.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/luisgar1990/MQTTGRAM&#34;&gt;https://github.com/luisgar1990/MQTTGRAM&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mqtt-protocol&#34; &gt;MQTT Protocol
+&lt;span&gt;
+    &lt;a href=&#34;#mqtt-protocol&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;When I am fuzzing mqtt protocol, many testcases will be simplify rejected by the server for the reason:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;nni recv error!! Connection shudown&lt;/li&gt;
+&lt;li&gt;property_parse: Unknown type 7&lt;/li&gt;
+&lt;li&gt;UTF-8 check failed!&lt;/li&gt;
+&lt;li&gt;pipe id xxx is gone, pub failed&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Let&amp;rsquo;s see the description in the MQTT V5 specification:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;### 2.1.4 Remaining Length
+
+**Position:** starts at byte 2.
+
+The Remaining Length is a Variable Byte Integer that represents the number of bytes remaining within the current Control Packet, including data in the Variable Header and the Payload. The Remaining Length does not include the bytes used to encode the Remaining Length. The packet size is the total number of bytes in an MQTT Control Packet, this is equal to the length of the Fixed Header plus the Remaining Length.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Here&amp;rsquo;s a simplified valid MQTT v5 property sequence:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;0x0B   // Total properties length (var int)
+0x01   // Property ID: Payload Format Indicator
+0x00   // Value: 0 (binary data)
+0x03   // Property ID: Content Type
+0x00 0x05  // UTF-8 String Length (5)
+74 65 78 74 2F 70 6C 61 69 6E  // &amp;#34;text/plain&amp;#34;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;So if we do mutation randomly, like bit flipping leads to an invalid input rejected by the target API in the early stage of parsing!&lt;/p&gt;
+&lt;p&gt;Grammar:&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/luisgar1990/MQTTGRAM/blob/master/generator.py&#34;&gt;https://github.com/luisgar1990/MQTTGRAM/blob/master/generator.py&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;using-libfuzzer-for-structure-aware-fuzzing&#34; &gt;Using libfuzzer for structure aware fuzzing
+&lt;span&gt;
+    &lt;a href=&#34;#using-libfuzzer-for-structure-aware-fuzzing&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md&#34;&gt;https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;structure-aware-vs-llm-generator&#34; &gt;Structure Aware VS LLM Generator
+&lt;span&gt;
+    &lt;a href=&#34;#structure-aware-vs-llm-generator&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;pass&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/MPFuzz/MPFuzz/blob/0d413ccec8855ad356aa382e1709cf28dc3d2622/executable/samples/mqtt_data.xml&#34;&gt;https://github.com/MPFuzz/MPFuzz/blob/0d413ccec8855ad356aa382e1709cf28dc3d2622/executable/samples/mqtt_data.xml&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;mutate如何实现的&lt;/p&gt;
+&lt;h2 id=&#34;some-solution&#34; &gt;Some solution
+&lt;span&gt;
+    &lt;a href=&#34;#some-solution&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Using LLM: &lt;a href=&#34;https://arxiv.org/html/2501.19282v1&#34;&gt;https://arxiv.org/html/2501.19282v1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;能猜一下 &lt;a href=&#34;https://github.com/advisories/GHSA-cwr9-w5qw-fr62&#34;&gt;https://github.com/advisories/GHSA-cwr9-w5qw-fr62&lt;/a&gt; 怎么出的吗
+&lt;a href=&#34;https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c&#34;&gt;https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Paper Reading Note - Viaduct</title>
+      <link>https://BestRun.github.io/posts/paper-reading-note-viaduct/</link>
+      <pubDate>Fri, 18 Apr 2025 15:41:53 +0200</pubDate>
+      
+      <guid>https://BestRun.github.io/posts/paper-reading-note-viaduct/</guid>
+      <description>&lt;h2 id=&#34;introduction&#34; &gt;Introduction
+&lt;span&gt;
+    &lt;a href=&#34;#introduction&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;two weeks later, my teammate and I  will present a paper &amp;ndash; Viaduct
+Let&amp;rsquo;s follow the instructions given by our prof!&lt;/p&gt;
+&lt;h2 id=&#34;how-to-read-a-research-paper&#34; &gt;How to read a research paper
+&lt;span&gt;
+    &lt;a href=&#34;#how-to-read-a-research-paper&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;You may find if useful to ask yourself the following questions as you read the paper, or after you read the paper. &lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;What problem is the paper addressing? How well do they succeed in solving the problem? &lt;/li&gt;
+&lt;li&gt;What is the contribution of the paper? How important is this contribution? &lt;/li&gt;
+&lt;li&gt;How would you have addressed the problem? &lt;/li&gt;
+&lt;li&gt;What was unclear to you? &lt;/li&gt;
+&lt;li&gt;How does the paper relate to other papers we have read or studied? &lt;/li&gt;
+&lt;li&gt;Are there any obvious or non-obvious extensions to this work? &lt;/li&gt;
+&lt;li&gt;Can you suggest a two-sentence project idea based on the ideas of this paper? &lt;/li&gt;
+&lt;li&gt;Here is a more elaborate discussion on &lt;a href=&#34;http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf&#34;&gt;how to read a research paper&lt;/a&gt; by Michael Mitzenmacher.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;paper-reading&#34; &gt;Paper Reading
+&lt;span&gt;
+    &lt;a href=&#34;#paper-reading&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Let&amp;rsquo;s solve these problems step by step!&lt;/p&gt;
+&lt;h3 id=&#34;1-what-problem-is-the-paper-addressing-how-well-do-they-succeed-in-solving-the-problem&#34; &gt;1. What problem is the paper addressing? How well do they succeed in solving the problem? 
+&lt;span&gt;
+    &lt;a href=&#34;#1-what-problem-is-the-paper-addressing-how-well-do-they-succeed-in-solving-the-problem&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;h3 id=&#34;how-would-you-have-addressed-the-problem&#34; &gt;How would you have addressed the problem? 
+&lt;span&gt;
+    &lt;a href=&#34;#how-would-you-have-addressed-the-problem&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;p&gt;Using threat model is a good solution I think.&lt;/p&gt;
+&lt;p&gt;Compiled programs run across multiple hosts, each executing a single thread and communicating via secure, asynchronous message-passing, with no shared memory. Timing attacks are out of scope, and availability is not guaranteed. In Viaduct&amp;rsquo;s model, each host may consider others as potential attackers, depending on the context (e.g., Alice vs. Bob in the millionaires problem). Attacker capabilities are modeled via &lt;em&gt;labels&lt;/em&gt; that determine what data they can read (confidentiality) or modify (integrity). Full corruption of a single host is not feasible if mutual trust exists, as corruption of one’s integrity implies corruption of the other&amp;rsquo;s as well.&lt;/p&gt;
+&lt;h2 id=&#34;presenting-papers&#34; &gt;Presenting papers
+&lt;span&gt;
+    &lt;a href=&#34;#presenting-papers&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h2&gt;&lt;p&gt;Things to think about when preparing your presentation:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Your primary goal is to clearly communicate the key ideas of the paper. In order to do this, you may need to read some of the related work, and you may need to present background material.&lt;/li&gt;
+&lt;li&gt;Your secondary goal is to prompt discussion about the papers.&lt;/li&gt;
+&lt;li&gt;You do not have time to cover every detail of the paper. Focus instead on the important and/or interesting aspects of the paper.&lt;/li&gt;
+&lt;li&gt;The structure of the paper is often useful as the structure of your presentation. However, this is not always the case. Make a conscious decision about how you will structure your presentation, and why.&lt;/li&gt;
+&lt;li&gt;Do not read aloud the text on your slides.&lt;/li&gt;
+&lt;li&gt;For advice on giving good presentations, see, for example, &lt;a href=&#34;http://pages.cs.wisc.edu/~markhill/conference-talk.html&#34;&gt;Mark Hill&amp;rsquo;s advice&lt;/a&gt;, &lt;a href=&#34;http://www.matthewjmiller.net/ramblings/presentation-tips/&#34;&gt;Matthew Miller&amp;rsquo;s tips&lt;/a&gt;, or Simon Peyton Jones&amp;rsquo; slides on how to give a good research talk (via Mark Leone&amp;rsquo;s advice &lt;a href=&#34;https://www.cs.cmu.edu/~mleone/how-to.html&#34;&gt;website&lt;/a&gt;).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;related-work--background-material&#34; &gt;related work &amp;amp; background material
+&lt;span&gt;
+    &lt;a href=&#34;#related-work--background-material&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h3&gt;&lt;h4 id=&#34;historical-millionaires-problem&#34; &gt;Historical Millionaires’ Problem
+&lt;span&gt;
+    &lt;a href=&#34;#historical-millionaires-problem&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;&lt;p&gt;&lt;em&gt;The Millionaire’s Problem, introduced by Andy Yao in 1982, began the study of privacy-preserving multiparty computation. Alice and Bob want to know who is the richer without revealing how much they are actually worth.&lt;/em&gt;
+&lt;a href=&#34;https://zoo.cs.yale.edu/classes/cs461/2009/lectures/ln21.pdf&#34;&gt;https://zoo.cs.yale.edu/classes/cs461/2009/lectures/ln21.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;img src=&#34;Pasted image 20250418160430.png&#34; alt=&#34;示例图片&#34; width=&#34;500&#34; height=&#34;300&#34;&gt;
+&lt;h4 id=&#34;a-simple-introduction-for-every-protocol&#34; &gt;A simple introduction for every protocol
+&lt;span&gt;
+    &lt;a href=&#34;#a-simple-introduction-for-every-protocol&#34;&gt;
+        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
+    &lt;/a&gt;
+&lt;/span&gt;
+&lt;/h4&gt;&lt;img src=&#34;Pasted image 20250418165358.png&#34; alt=&#34;示例图片&#34; width=&#34;500&#34; height=&#34;300&#34;&gt;</description>
+    </item>
     
     <item>
       <title>Paper Reading Note - CHATAFL</title>
@@ -171,263 +416,6 @@
     &lt;/a&gt;
 &lt;/span&gt;
 &lt;/h2&gt;&lt;p&gt;This website is the blog site launched from my secondary GitHub account. Its primary purpose is to migrate Chinese articles after transforming them into English versions. You can visit my original blog at: &lt;a href=&#34;https://b1ue0ceanrun.github.io/&#34;&gt;https://b1ue0ceanrun.github.io/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://BestRun.github.io/posts/1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/1/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://www.bilibili.com/video/BV187kjBPEqz?spm_id_from=333.788.videopod.sections&amp;amp;vd_source=a2c222cd47523aaf38b1191c9089cd79&#34;&gt;https://www.bilibili.com/video/BV187kjBPEqz?spm_id_from=333.788.videopod.sections&amp;amp;vd_source=a2c222cd47523aaf38b1191c9089cd79&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;reasoning&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/</guid>
-      <description>&lt;p&gt;这篇文章出现的原因是因为我最近处于一个比较关键的转折点。
-接下来要跟未来潜在的导师合作3个月。
-可能要做一些LLM&amp;amp;SEC的工作。
-因为最近在学校做了一些静态分析的工作，反而错过了一些AI的发展？
-而接下来的工作需要我快速的建立我在AI领域的知识体系。&lt;/p&gt;
-&lt;h2 id=&#34;对于ai体系的思考&#34; &gt;对于AI体系的思考
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%af%b9%e4%ba%8eai%e4%bd%93%e7%b3%bb%e7%9a%84%e6%80%9d%e8%80%83&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;我之前的AI知识体系还停留在两年前，错过了LLM蓬勃发展的两年。
-所以如何快速构建一个适应当下的LLM知识体系尤为重要。&lt;/p&gt;
-&lt;p&gt;首先是一些名词的层出不穷，LLM distilling, DPO,  agentic RL &amp;hellip;
-如何有体系的学习，快速的学习成为了我这几天要思考的问题，因为下周就要上手项目了。&lt;/p&gt;
-&lt;h3 id=&#34;自顶向下的学习&#34; &gt;自顶向下的学习
-&lt;span&gt;
-    &lt;a href=&#34;#%e8%87%aa%e9%a1%b6%e5%90%91%e4%b8%8b%e7%9a%84%e5%ad%a6%e4%b9%a0&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;如果从自顶向下的学习的角度，以论文 &lt;a href=&#34;https://arxiv.org/pdf/2512.07533&#34;&gt;VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection&lt;/a&gt; 为例。&lt;/p&gt;
-&lt;p&gt;论文的目标：将漏洞检测建模为一个&lt;strong&gt;推理任务（reasoning task）&lt;/strong&gt;，而不是分类任务。&lt;/p&gt;
-&lt;p&gt;论文原话直接拿来：
-train a small reasoning model that can correctly identify the vulnerabilities in input functions or projects, even when the vulnerability belongs to OOD CWEs. We further design the model to not only detect the vulnerability but label it with the correct CWE, which is valuable context for triage and patching.&lt;/p&gt;
-&lt;p&gt;训练一个专业领域的LLM的步骤大概有：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Dataset constructions&lt;/li&gt;
-&lt;li&gt;Reasoning data generation&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;![[Pasted image 20260131160116.png]]&lt;/p&gt;
-&lt;h2 id=&#34;现有的llm体系&#34; &gt;现有的LLM体系
-&lt;span&gt;
-    &lt;a href=&#34;#%e7%8e%b0%e6%9c%89%e7%9a%84llm%e4%bd%93%e7%b3%bb&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;知识蒸馏&lt;/p&gt;
-&lt;p&gt;什么是 reduced reasoning&lt;/p&gt;
-&lt;h2 id=&#34;llm的架构&#34; &gt;LLM的架构
-&lt;span&gt;
-    &lt;a href=&#34;#llm%e7%9a%84%e6%9e%b6%e6%9e%84&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;MOE&lt;/p&gt;
-&lt;p&gt;老师想看到的 一个成熟的训练计划
-训练的细节 每一个步骤都要了解&lt;/p&gt;
-&lt;p&gt;多问问Why
-数据集构建的细节，
-提供的数据集有两个
-两个分别是什么？
-reasoning从哪来？是直接从 DeepSeek 推理来的吗
-确实要考虑，因为其实reasoning是没有正确答案的。（如何评估或者改进这一部分比较重要，收集writeup？但是数据集又没有这种writeup）&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://BestRun.github.io/posts/paper-reading-note-viaduct/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/paper-reading-note-viaduct/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34; &gt;Introduction
-&lt;span&gt;
-    &lt;a href=&#34;#introduction&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;two weeks later, my teammate and I  will present a paper &amp;ndash; Viaduct
-Let&amp;rsquo;s follow the instructions given by our prof!&lt;/p&gt;
-&lt;h2 id=&#34;how-to-read-a-research-paper&#34; &gt;How to read a research paper
-&lt;span&gt;
-    &lt;a href=&#34;#how-to-read-a-research-paper&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;You may find if useful to ask yourself the following questions as you read the paper, or after you read the paper. &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;What problem is the paper addressing? How well do they succeed in solving the problem? &lt;/li&gt;
-&lt;li&gt;What is the contribution of the paper? How important is this contribution? &lt;/li&gt;
-&lt;li&gt;How would you have addressed the problem? &lt;/li&gt;
-&lt;li&gt;What was unclear to you? &lt;/li&gt;
-&lt;li&gt;How does the paper relate to other papers we have read or studied? &lt;/li&gt;
-&lt;li&gt;Are there any obvious or non-obvious extensions to this work? &lt;/li&gt;
-&lt;li&gt;Can you suggest a two-sentence project idea based on the ideas of this paper? &lt;/li&gt;
-&lt;li&gt;Here is a more elaborate discussion on &lt;a href=&#34;http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf&#34;&gt;how to read a research paper&lt;/a&gt; by Michael Mitzenmacher.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;paper-reading&#34; &gt;Paper Reading
-&lt;span&gt;
-    &lt;a href=&#34;#paper-reading&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Let&amp;rsquo;s solve these problems step by step!&lt;/p&gt;
-&lt;h3 id=&#34;1-what-problem-is-the-paper-addressing-how-well-do-they-succeed-in-solving-the-problem&#34; &gt;1. What problem is the paper addressing? How well do they succeed in solving the problem? 
-&lt;span&gt;
-    &lt;a href=&#34;#1-what-problem-is-the-paper-addressing-how-well-do-they-succeed-in-solving-the-problem&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;h3 id=&#34;how-would-you-have-addressed-the-problem&#34; &gt;How would you have addressed the problem? 
-&lt;span&gt;
-    &lt;a href=&#34;#how-would-you-have-addressed-the-problem&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;Using threat model is a good solution I think.&lt;/p&gt;
-&lt;p&gt;Compiled programs run across multiple hosts, each executing a single thread and communicating via secure, asynchronous message-passing, with no shared memory. Timing attacks are out of scope, and availability is not guaranteed. In Viaduct&amp;rsquo;s model, each host may consider others as potential attackers, depending on the context (e.g., Alice vs. Bob in the millionaires problem). Attacker capabilities are modeled via &lt;em&gt;labels&lt;/em&gt; that determine what data they can read (confidentiality) or modify (integrity). Full corruption of a single host is not feasible if mutual trust exists, as corruption of one’s integrity implies corruption of the other&amp;rsquo;s as well.&lt;/p&gt;
-&lt;h2 id=&#34;presenting-papers&#34; &gt;Presenting papers
-&lt;span&gt;
-    &lt;a href=&#34;#presenting-papers&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Things to think about when preparing your presentation:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Your primary goal is to clearly communicate the key ideas of the paper. In order to do this, you may need to read some of the related work, and you may need to present background material.&lt;/li&gt;
-&lt;li&gt;Your secondary goal is to prompt discussion about the papers.&lt;/li&gt;
-&lt;li&gt;You do not have time to cover every detail of the paper. Focus instead on the important and/or interesting aspects of the paper.&lt;/li&gt;
-&lt;li&gt;The structure of the paper is often useful as the structure of your presentation. However, this is not always the case. Make a conscious decision about how you will structure your presentation, and why.&lt;/li&gt;
-&lt;li&gt;Do not read aloud the text on your slides.&lt;/li&gt;
-&lt;li&gt;For advice on giving good presentations, see, for example, &lt;a href=&#34;http://pages.cs.wisc.edu/~markhill/conference-talk.html&#34;&gt;Mark Hill&amp;rsquo;s advice&lt;/a&gt;, &lt;a href=&#34;http://www.matthewjmiller.net/ramblings/presentation-tips/&#34;&gt;Matthew Miller&amp;rsquo;s tips&lt;/a&gt;, or Simon Peyton Jones&amp;rsquo; slides on how to give a good research talk (via Mark Leone&amp;rsquo;s advice &lt;a href=&#34;https://www.cs.cmu.edu/~mleone/how-to.html&#34;&gt;website&lt;/a&gt;).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;related-work--background-material&#34; &gt;related work &amp;amp; background material
-&lt;span&gt;
-    &lt;a href=&#34;#related-work--background-material&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;h4 id=&#34;historical-millionaires-problem&#34; &gt;Historical Millionaires’ Problem
-&lt;span&gt;
-    &lt;a href=&#34;#historical-millionaires-problem&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;&lt;p&gt;&lt;em&gt;The Millionaire’s Problem, introduced by Andy Yao in 1982, began the study of privacy-preserving multiparty computation. Alice and Bob want to know who is the richer without revealing how much they are actually worth.&lt;/em&gt;
-&lt;a href=&#34;https://zoo.cs.yale.edu/classes/cs461/2009/lectures/ln21.pdf&#34;&gt;https://zoo.cs.yale.edu/classes/cs461/2009/lectures/ln21.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;img src=&#34;Pasted image 20250418160430.png&#34; alt=&#34;示例图片&#34; width=&#34;500&#34; height=&#34;300&#34;&gt;
-&lt;h4 id=&#34;a-simple-introduction-for-every-protocol&#34; &gt;A simple introduction for every protocol
-&lt;span&gt;
-    &lt;a href=&#34;#a-simple-introduction-for-every-protocol&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;&lt;img src=&#34;Pasted image 20250418165358.png&#34; alt=&#34;示例图片&#34; width=&#34;500&#34; height=&#34;300&#34;&gt;</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://BestRun.github.io/posts/sft-dpo/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/sft-dpo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://BestRun.github.io/posts/structure-aware-fuzzing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/structure-aware-fuzzing/</guid>
-      <description>&lt;p&gt;Why I want to talk about the structure aware fuzzing today is because of a black hat video.
-&lt;a href=&#34;https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf&#34;&gt;https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;what&amp;rsquo;s the difference between structure aware and grammar fuzzing?&lt;/p&gt;
-&lt;p&gt;Recently I am working on MQTT protocol fuzzing. But MQTT protocol has some special features.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/luisgar1990/MQTTGRAM&#34;&gt;https://github.com/luisgar1990/MQTTGRAM&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;mqtt-protocol&#34; &gt;MQTT Protocol
-&lt;span&gt;
-    &lt;a href=&#34;#mqtt-protocol&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;When I am fuzzing mqtt protocol, many testcases will be simplify rejected by the server for the reason:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;nni recv error!! Connection shudown&lt;/li&gt;
-&lt;li&gt;property_parse: Unknown type 7&lt;/li&gt;
-&lt;li&gt;UTF-8 check failed!&lt;/li&gt;
-&lt;li&gt;pipe id xxx is gone, pub failed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Let&amp;rsquo;s see the description in the MQTT V5 specification:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;### 2.1.4 Remaining Length
-
-**Position:** starts at byte 2.
-
-The Remaining Length is a Variable Byte Integer that represents the number of bytes remaining within the current Control Packet, including data in the Variable Header and the Payload. The Remaining Length does not include the bytes used to encode the Remaining Length. The packet size is the total number of bytes in an MQTT Control Packet, this is equal to the length of the Fixed Header plus the Remaining Length.
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Here&amp;rsquo;s a simplified valid MQTT v5 property sequence:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;0x0B   // Total properties length (var int)
-0x01   // Property ID: Payload Format Indicator
-0x00   // Value: 0 (binary data)
-0x03   // Property ID: Content Type
-0x00 0x05  // UTF-8 String Length (5)
-74 65 78 74 2F 70 6C 61 69 6E  // &amp;#34;text/plain&amp;#34;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;So if we do mutation randomly, like bit flipping leads to an invalid input rejected by the target API in the early stage of parsing!&lt;/p&gt;
-&lt;p&gt;Grammar:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/luisgar1990/MQTTGRAM/blob/master/generator.py&#34;&gt;https://github.com/luisgar1990/MQTTGRAM/blob/master/generator.py&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;using-libfuzzer-for-structure-aware-fuzzing&#34; &gt;Using libfuzzer for structure aware fuzzing
-&lt;span&gt;
-    &lt;a href=&#34;#using-libfuzzer-for-structure-aware-fuzzing&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md&#34;&gt;https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;structure-aware-vs-llm-generator&#34; &gt;Structure Aware VS LLM Generator
-&lt;span&gt;
-    &lt;a href=&#34;#structure-aware-vs-llm-generator&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;pass&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/MPFuzz/MPFuzz/blob/0d413ccec8855ad356aa382e1709cf28dc3d2622/executable/samples/mqtt_data.xml&#34;&gt;https://github.com/MPFuzz/MPFuzz/blob/0d413ccec8855ad356aa382e1709cf28dc3d2622/executable/samples/mqtt_data.xml&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;mutate如何实现的&lt;/p&gt;
-&lt;h2 id=&#34;some-solution&#34; &gt;Some solution
-&lt;span&gt;
-    &lt;a href=&#34;#some-solution&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Using LLM: &lt;a href=&#34;https://arxiv.org/html/2501.19282v1&#34;&gt;https://arxiv.org/html/2501.19282v1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;能猜一下 &lt;a href=&#34;https://github.com/advisories/GHSA-cwr9-w5qw-fr62&#34;&gt;https://github.com/advisories/GHSA-cwr9-w5qw-fr62&lt;/a&gt; 怎么出的吗
-&lt;a href=&#34;https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c&#34;&gt;https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://BestRun.github.io/posts/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F/</guid>
-      <description>&lt;p&gt;蒸馏的原理
-蒸馏的代码&lt;/p&gt;
-&lt;p&gt;蒸馏如何确保reasoning的质量&lt;/p&gt;
-&lt;p&gt;推理模型的架构是什么&lt;/p&gt;
-&lt;p&gt;PPO&lt;/p&gt;
-&lt;p&gt;ToT&lt;/p&gt;
 </description>
     </item>
     

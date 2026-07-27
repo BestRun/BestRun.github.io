@@ -10,14 +10,11 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="referrer" content="no-referrer-when-downgrade">
 
-<title>b1ue0cean&rsquo;s world</title>
+<title>Structure-Aware Fuzzing - b1ue0cean&rsquo;s world</title>
 
-<meta name="description" content="Why I want to talk about the structure aware fuzzing today is because of a black hat video. https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf
-what&rsquo;s the difference between structure aware and grammar fuzzing?
-Recently I am working on MQTT protocol fuzzing. But MQTT protocol has some special features.
-https://github.com/luisgar1990/MQTTGRAM
-MQTT Protocol When I am fuzzing mqtt protocol, many testcases will be simplify rejected by the server for the reason:
-nni recv error!! Connection shudown property_parse: Unknown type 7 UTF-8 check failed!">
+<meta name="description" content="Why I want to talk about the structure aware fuzzing today is because of a black hat video.
+https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf
+what&rsquo;s the difference between structure aware and grammar fuzzing?">
 
 
 
@@ -96,26 +93,20 @@ nni recv error!! Connection shudown property_parse: Unknown type 7 UTF-8 check f
 
 
 
-<meta property="og:title" content="" />
-<meta property="og:description" content="Why I want to talk about the structure aware fuzzing today is because of a black hat video. https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf
-what&rsquo;s the difference between structure aware and grammar fuzzing?
-Recently I am working on MQTT protocol fuzzing. But MQTT protocol has some special features.
-https://github.com/luisgar1990/MQTTGRAM
-MQTT Protocol When I am fuzzing mqtt protocol, many testcases will be simplify rejected by the server for the reason:
-nni recv error!! Connection shudown property_parse: Unknown type 7 UTF-8 check failed!" />
+<meta property="og:title" content="Structure-Aware Fuzzing" />
+<meta property="og:description" content="Why I want to talk about the structure aware fuzzing today is because of a black hat video.
+https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf
+what&rsquo;s the difference between structure aware and grammar fuzzing?" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://BestRun.github.io/posts/structure-aware-fuzzing/" /><meta property="article:section" content="posts" />
-
-
+<meta property="article:published_time" content="2025-04-20T19:49:50+02:00" />
+<meta property="article:modified_time" content="2025-04-20T19:49:50+02:00" />
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content=""/>
-<meta name="twitter:description" content="Why I want to talk about the structure aware fuzzing today is because of a black hat video. https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf
-what&rsquo;s the difference between structure aware and grammar fuzzing?
-Recently I am working on MQTT protocol fuzzing. But MQTT protocol has some special features.
-https://github.com/luisgar1990/MQTTGRAM
-MQTT Protocol When I am fuzzing mqtt protocol, many testcases will be simplify rejected by the server for the reason:
-nni recv error!! Connection shudown property_parse: Unknown type 7 UTF-8 check failed!"/>
+<meta name="twitter:title" content="Structure-Aware Fuzzing"/>
+<meta name="twitter:description" content="Why I want to talk about the structure aware fuzzing today is because of a black hat video.
+https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf
+what&rsquo;s the difference between structure aware and grammar fuzzing?"/>
 
 
 
@@ -235,7 +226,7 @@ if (!doNotTrack) {
     <nav>
         
         
-        <a class="" href="https://BestRun.github.io/about/about" title="About">About</a>
+        <a class="" href="https://BestRun.github.io/about/about/" title="About">About</a>
         
         <a class="" href="https://BestRun.github.io/posts/" title="Archive">Archive</a>
         
@@ -278,7 +269,7 @@ if (!doNotTrack) {
     <article class="post h-entry">
         <div class="post-header">
             <header>
-                <h1 class="p-name post-title"></h1>
+                <h1 class="p-name post-title">Structure-Aware Fuzzing</h1>
 
                 
             </header>
@@ -357,7 +348,6 @@ The Remaining Length is a Variable Byte Integer that represents the number of by
 </h2><p>Using LLM: <a href="https://arxiv.org/html/2501.19282v1">https://arxiv.org/html/2501.19282v1</a></p>
 <p>能猜一下 <a href="https://github.com/advisories/GHSA-cwr9-w5qw-fr62">https://github.com/advisories/GHSA-cwr9-w5qw-fr62</a> 怎么出的吗
 <a href="https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c">https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c</a></p>
-
         </div>
         
 
@@ -367,13 +357,25 @@ The Remaining Length is a Variable Byte Integer that represents the number of by
 
 <div class="post-info">
     
+        <div class="post-date dt-published">
+            <a class="u-url" href="/posts/structure-aware-fuzzing/"><time datetime="2025-04-20">2025-04-20</time></a>
+            
+        </div>
+    
 
     <a class="post-hidden-url u-url" href="https://BestRun.github.io/posts/structure-aware-fuzzing/">https://BestRun.github.io/posts/structure-aware-fuzzing/</a>
-    <a href="https://BestRun.github.io" class="p-name p-author post-hidden-author h-card" rel="me">b1ue0cean</a>
+    <a href="https://BestRun.github.io/" class="p-name p-author post-hidden-author h-card" rel="me">b1ue0cean</a>
 
 
     <div class="post-taxonomies">
         
+        
+            <ul class="post-tags">
+                
+                    
+                    <li><a href="https://BestRun.github.io/tags/fuzz/">#fuzz</a></li>
+                
+            </ul>
         
         
     </div>
@@ -390,12 +392,12 @@ The Remaining Length is a Variable Byte Integer that represents the number of by
     <div class="pagination post-pagination">
         <div class="left pagination-item ">
             
-                <a href="/posts/sft-dpo/">to new post</a>
+                <a href="/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/">AI体系的思考和梳理</a>
             
         </div>
         <div class="right pagination-item ">
             
-                <a href="/posts/%E7%9F%A5%E8%AF%86%E8%92%B8%E9%A6%8F/">to old post</a>
+                <a href="/posts/paper-reading-note-viaduct/">Paper Reading Note - Viaduct</a>
             
         </div>
     </div>
@@ -526,7 +528,7 @@ function showContent() {
 
     <p class="h-card vcard">
 
-    <a href=https://BestRun.github.io class="p-name u-url url fn" rel="me">b1ue0cean</a> 
+    <a href=https://BestRun.github.io/ class="p-name u-url url fn" rel="me">b1ue0cean</a> 
 
      
         /
