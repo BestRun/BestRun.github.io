@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paper Reading on b1ue0cean&#39;s world</title>
-    <link>https://b1ue0ceanrun.github.io/BestRun.github.io/tags/paper-reading/</link>
+    <link>https://BestRun.github.io/tags/paper-reading/</link>
     <description>b1ue0cean&#39;s world (Paper Reading)</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 18 Apr 2025 15:41:53 +0200</lastBuildDate>
     
-    <atom:link href="https://b1ue0ceanrun.github.io/BestRun.github.io/tags/paper-reading/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://BestRun.github.io/tags/paper-reading/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Paper Reading Note - Viaduct</title>
-      <link>https://b1ue0ceanrun.github.io/BestRun.github.io/posts/paper-reading-note-viaduct/</link>
+      <link>https://BestRun.github.io/posts/paper-reading-note-viaduct/</link>
       <pubDate>Fri, 18 Apr 2025 15:41:53 +0200</pubDate>
       
-      <guid>https://b1ue0ceanrun.github.io/BestRun.github.io/posts/paper-reading-note-viaduct/</guid>
+      <guid>https://BestRun.github.io/posts/paper-reading-note-viaduct/</guid>
       <description>&lt;h2 id=&#34;introduction&#34; &gt;Introduction
 &lt;span&gt;
     &lt;a href=&#34;#introduction&#34;&gt;
@@ -104,10 +104,10 @@ Let&amp;rsquo;s follow the instructions given by our prof!&lt;/p&gt;
     
     <item>
       <title>Paper Reading Note - CHATAFL</title>
-      <link>https://b1ue0ceanrun.github.io/BestRun.github.io/posts/paper-reading-note-chatafl/</link>
+      <link>https://BestRun.github.io/posts/paper-reading-note-chatafl/</link>
       <pubDate>Sat, 21 Oct 2023 15:03:05 +0800</pubDate>
       
-      <guid>https://b1ue0ceanrun.github.io/BestRun.github.io/posts/paper-reading-note-chatafl/</guid>
+      <guid>https://BestRun.github.io/posts/paper-reading-note-chatafl/</guid>
       <description>&lt;p&gt;Actually, this work is very similar to my research direction in my internship project. I also think some ideas to use LLM to fuzz, but because my work ability and timeline, I haven&amp;rsquo;t finish my project yet. So, today I will summarize  the good idea contributed from this paper.&lt;/p&gt;
 &lt;h2 id=&#34;before-reading&#34; &gt;Before Reading
 &lt;span&gt;
@@ -183,7 +183,7 @@ Let&amp;rsquo;s follow the instructions given by our prof!&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Actually, what&amp;rsquo;s most appealing here is the solution for the &amp;ldquo;state,&amp;rdquo; the rest is just so so. Regarding the &amp;ldquo;state,&amp;rdquo; I need to find out which specific state the author is referring to later.&lt;/p&gt;
 &lt;p&gt;There are three state in Fuzzing&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://b1ue0ceanrun.github.io/BestRun.github.io/pictures/20231021161745.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://BestRun.github.io/pictures/20231021161745.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Next, let&amp;rsquo;s see the Motivation, here the author introduce their solutions for the three challenges mentioned above.&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Addressing seed dependence by having the LLM &lt;strong&gt;add a random message&lt;/strong&gt; to a seed message sequence, with a focus on improving message diversity and validity (C1).&lt;/li&gt;
@@ -246,7 +246,7 @@ Let&amp;rsquo;s follow the instructions given by our prof!&lt;/p&gt;
     &lt;/a&gt;
 &lt;/span&gt;
 &lt;/h4&gt;&lt;p&gt;A complex design, let&amp;rsquo;s skip it! For have my own ideas, but they&amp;rsquo;re not suitable to share.&lt;/p&gt;
-&lt;img src=&#34;https://b1ue0ceanrun.github.io/BestRun.github.io/pictures/20231021170616.png&#34; width=&#34;600&#34; height=&#34;1200&#34;&gt;</description>
+&lt;img src=&#34;https://BestRun.github.io/pictures/20231021170616.png&#34; width=&#34;600&#34; height=&#34;1200&#34;&gt;</description>
     </item>
     
   </channel>
