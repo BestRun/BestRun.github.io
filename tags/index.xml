@@ -1,15 +1,1 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tags on b1ue0cean&#39;s world</title>
-    <link>https://BestRun.github.io/tags/</link>
-    <description>b1ue0cean&#39;s world (Tags)</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 31 Jan 2026 15:37:51 +0100</lastBuildDate>
-    
-    <atom:link href="https://BestRun.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on b1ue0cean's world</title><link>https://BestRun.github.io/tags/</link><description>b1ue0cean's world (Tags)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Dec 2025 13:49:27 +0800</lastBuildDate><atom:link href="https://BestRun.github.io/tags/index.xml" rel="self" type="application/rss+xml"/></channel></rss>

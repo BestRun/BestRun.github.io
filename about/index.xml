@@ -1,140 +1,116 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Abouts on b1ue0cean&#39;s world</title>
-    <link>https://BestRun.github.io/about/</link>
-    <description>b1ue0cean&#39;s world (Abouts)</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 21 Dec 2025 18:37:28 +0800</lastBuildDate>
-    
-    <atom:link href="https://BestRun.github.io/about/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>about &amp; CV</title>
-      <link>https://BestRun.github.io/about/about/</link>
-      <pubDate>Sun, 21 Dec 2025 18:37:28 +0800</pubDate>
-      
-      <guid>https://BestRun.github.io/about/about/</guid>
-      <description>&lt;h2 id=&#34;whoami&#34; &gt;WHOAMI
-&lt;span&gt;
-    &lt;a href=&#34;#whoami&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;ul&gt;
-&lt;li&gt;I spent four rewarding years at Fuzhou University, majoring in Artificial Intelligence.&lt;/li&gt;
-&lt;li&gt;I interned at the Institute of Software, Chinese Academy of Sciences, under Prof. Xiang Ling (&lt;a href=&#34;https://ryderling.github.io/&#34;&gt;https://ryderling.github.io/&lt;/a&gt;).&lt;/li&gt;
-&lt;li&gt;I am currently pursuing an M.S. in Computer Engineering at Aarhus University.&lt;/li&gt;
-&lt;li&gt;I worked with Prof. Anders Møller (&lt;a href=&#34;https://cs.au.dk/~amoeller/&#34;&gt;https://cs.au.dk/~amoeller/&lt;/a&gt;) on taint analysis.&lt;/li&gt;
-&lt;li&gt;I am currently an exchange student at the Technical University of Munich (TUM).&lt;/li&gt;
-&lt;li&gt;I will conduct my master’s thesis at CISPA Helmholtz Center for Information Security in collaboration with &lt;a href=&#34;https://mengrj.github.io/&#34;&gt;Ruijie Meng&lt;/a&gt;.&lt;/li&gt;
-&lt;li&gt;I am deeply interested in the intersection of artificial intelligence and cybersecurity and plan to pursue a Ph.D. in this area.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;internship-experiences&#34; &gt;Internship experiences
-&lt;span&gt;
-    &lt;a href=&#34;#internship-experiences&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;ol&gt;
-&lt;li&gt;Yigeyun (Jan 2023 - Mar 2023)&lt;/li&gt;
-&lt;li&gt;ISCAS (Jul 2023 - Mar 2025)&lt;/li&gt;
-&lt;/ol&gt;
-&lt;h2 id=&#34;research-experiences&#34; &gt;Research experiences:
-&lt;span&gt;
-    &lt;a href=&#34;#research-experiences&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;p&gt;&lt;a href=&#34;https://scholar.google.com/citations?hl=zh-TW&amp;amp;user=F3-nuQkAAAAJ&#34;&gt;Google Scholar&lt;/a&gt;&lt;/p&gt;
-&lt;h2 id=&#34;some-awards&#34; &gt;Some awards
-&lt;span&gt;
-    &lt;a href=&#34;#some-awards&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h2&gt;&lt;h3 id=&#34;ai-competition&#34; &gt;AI competition
-&lt;span&gt;
-    &lt;a href=&#34;#ai-competition&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;CVPR 2025 Workshop – Jailbreaking Attacks on Multimodal Foundation Models&lt;/strong&gt; — 1st place, Team Leader (May 2025)
-&lt;ul&gt;
-&lt;li&gt;Jailbroke two provided multimodal models plus one black-box model; achieved the top score of 93.56.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;AIGC Adversarial Detection Competition, Image Attack Track (Tencent Zhuque Lab)&lt;/strong&gt; — 1st place, Team Leader (May 2025)
-&lt;ul&gt;
-&lt;li&gt;Built an automated prompt generator to make V2I outputs evade the Zhuque AIGC detector; &lt;a href=&#34;https://arxiv.org/abs/2505.23192&#34;&gt;writeup&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;Datacon 2024 AI Security Track&lt;/strong&gt; — Top 3 / First Prize (Team Leader, Dec 2024)
-&lt;ul&gt;
-&lt;li&gt;Led LLM hallucination triggering and LLM-based threat intelligence extraction; delivered a graph-based RAG threat-intel extractor.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://www.datacon.org.cn/competition/competitions/91/introduction&#34;&gt;Competition link&lt;/a&gt; | &lt;a href=&#34;https://mp.weixin.qq.com/s/3RHiILBsAv3UzB4dAIJ5Hg&#34;&gt;Recap&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;ByteDance / ByteAI AI Security Competition&lt;/strong&gt; — 3rd place, Team Leader (Nov 2024)
-&lt;ul&gt;
-&lt;li&gt;Built an automated jailbreak tool bypassing LLM defenses; focused on prompt leaking &amp;amp; jailbreak challenges.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://security.bytedance.com/news/2024-security-style-challenge-launch&#34;&gt;Competition link&lt;/a&gt; | &lt;a href=&#34;https://x.com/b1ue0cean7/status/1850741725641482610&#34;&gt;Recap&lt;/a&gt;.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id=&#34;ctf&#34; &gt;CTF
-&lt;span&gt;
-    &lt;a href=&#34;#ctf&#34;&gt;
-        &lt;svg viewBox=&#34;0 0 28 23&#34; height=&#34;100%&#34; width=&#34;19&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;&lt;path d=&#34;M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;path d=&#34;M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71&#34; fill=&#34;none&#34; stroke-linecap=&#34;round&#34; stroke-miterlimit=&#34;10&#34; stroke-width=&#34;2&#34;/&gt;&lt;/svg&gt;
-    &lt;/a&gt;
-&lt;/span&gt;
-&lt;/h3&gt;&lt;p&gt;Previously competed in several CTFs with ROIS and r3kapig teams.&lt;/p&gt;
-&lt;table&gt;
-&lt;thead&gt;
-&lt;tr&gt;
-&lt;th&gt;Rank&lt;/th&gt;
-&lt;th&gt;Event/Competition&lt;/th&gt;
-&lt;th&gt;Date&lt;/th&gt;
-&lt;/tr&gt;
-&lt;/thead&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;5th Place&lt;/td&gt;
-&lt;td&gt;DownUnderCTF 2022, Australia&amp;rsquo;s largest CTF competition&lt;/td&gt;
-&lt;td&gt;09/2022&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12th Place&lt;/td&gt;
-&lt;td&gt;0CTF, Academic team Shanghai Jiao Tong University&lt;/td&gt;
-&lt;td&gt;09/2022&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;12th Place&lt;/td&gt;
-&lt;td&gt;Defcon CTF, Nautilus Institute&lt;/td&gt;
-&lt;td&gt;08/2022&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;3rd Place&lt;/td&gt;
-&lt;td&gt;Defcamp CTF, Cyber Security Research Center from Romania&lt;/td&gt;
-&lt;td&gt;02/2022&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;Third Prize&lt;/td&gt;
-&lt;td&gt;2nd Tianyi Cup Cybersecurity Competition, National Engineering Lab of Mobile Network System and Application Security&lt;/td&gt;
-&lt;td&gt;10/2021&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;7th Place&lt;/td&gt;
-&lt;td&gt;Tencent Information Security New Star Invitation, Shenzhen Tencent Computer Technology Co.&lt;/td&gt;
-&lt;td&gt;09/2021&lt;/td&gt;
-&lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;/table&gt;
-</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Abouts on b1ue0cean's world</title><link>https://BestRun.github.io/about/</link><description>b1ue0cean's world (Abouts)</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><lastBuildDate>Sun, 21 Dec 2025 18:37:28 +0800</lastBuildDate><atom:link href="https://BestRun.github.io/about/index.xml" rel="self" type="application/rss+xml"/><item><title>about &amp; CV</title><link>https://BestRun.github.io/about/about/</link><pubDate>Sun, 21 Dec 2025 18:37:28 +0800</pubDate><guid>https://BestRun.github.io/about/about/</guid><description>&lt;h2 id="whoami" >WHOAMI
+&lt;span>
+&lt;a href="#whoami">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ul>
+&lt;li>I spent four rewarding years at Fuzhou University, majoring in Artificial Intelligence.&lt;/li>
+&lt;li>I interned at the Institute of Software, Chinese Academy of Sciences, under Prof. Xiang Ling (&lt;a href="https://ryderling.github.io/">https://ryderling.github.io/&lt;/a>).&lt;/li>
+&lt;li>I am currently pursuing an M.S. in Computer Engineering at Aarhus University.&lt;/li>
+&lt;li>I worked with Prof. Anders Møller (&lt;a href="https://cs.au.dk/~amoeller/">https://cs.au.dk/~amoeller/&lt;/a>) on taint analysis.&lt;/li>
+&lt;li>I am currently an exchange student at the Technical University of Munich (TUM).&lt;/li>
+&lt;li>I will conduct my master’s thesis at CISPA Helmholtz Center for Information Security in collaboration with &lt;a href="https://mengrj.github.io/">Ruijie Meng&lt;/a>.&lt;/li>
+&lt;li>I am deeply interested in the intersection of artificial intelligence and cybersecurity and plan to pursue a Ph.D. in this area.&lt;/li>
+&lt;/ul>
+&lt;h2 id="internship-experiences" >Internship experiences
+&lt;span>
+&lt;a href="#internship-experiences">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;ol>
+&lt;li>Yigeyun (Jan 2023 - Mar 2023)&lt;/li>
+&lt;li>ISCAS (Jul 2023 - Mar 2025)&lt;/li>
+&lt;/ol>
+&lt;h2 id="research-experiences" >Research experiences:
+&lt;span>
+&lt;a href="#research-experiences">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;p>&lt;a href="https://scholar.google.com/citations?hl=zh-TW&amp;amp;user=F3-nuQkAAAAJ">Google Scholar&lt;/a>&lt;/p>
+&lt;h2 id="some-awards" >Some awards
+&lt;span>
+&lt;a href="#some-awards">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h2>&lt;h3 id="ai-competition" >AI competition
+&lt;span>
+&lt;a href="#ai-competition">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;ul>
+&lt;li>&lt;strong>CVPR 2025 Workshop – Jailbreaking Attacks on Multimodal Foundation Models&lt;/strong> — 1st place, Team Leader (May 2025)
+&lt;ul>
+&lt;li>Jailbroke two provided multimodal models plus one black-box model; achieved the top score of 93.56.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>AIGC Adversarial Detection Competition, Image Attack Track (Tencent Zhuque Lab)&lt;/strong> — 1st place, Team Leader (May 2025)
+&lt;ul>
+&lt;li>Built an automated prompt generator to make V2I outputs evade the Zhuque AIGC detector; &lt;a href="https://arxiv.org/abs/2505.23192">writeup&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>Datacon 2024 AI Security Track&lt;/strong> — Top 3 / First Prize (Team Leader, Dec 2024)
+&lt;ul>
+&lt;li>Led LLM hallucination triggering and LLM-based threat intelligence extraction; delivered a graph-based RAG threat-intel extractor.&lt;/li>
+&lt;li>&lt;a href="https://www.datacon.org.cn/competition/competitions/91/introduction">Competition link&lt;/a> | &lt;a href="https://mp.weixin.qq.com/s/3RHiILBsAv3UzB4dAIJ5Hg">Recap&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;li>&lt;strong>ByteDance / ByteAI AI Security Competition&lt;/strong> — 3rd place, Team Leader (Nov 2024)
+&lt;ul>
+&lt;li>Built an automated jailbreak tool bypassing LLM defenses; focused on prompt leaking &amp;amp; jailbreak challenges.&lt;/li>
+&lt;li>&lt;a href="https://security.bytedance.com/news/2024-security-style-challenge-launch">Competition link&lt;/a> | &lt;a href="https://x.com/b1ue0cean7/status/1850741725641482610">Recap&lt;/a>.&lt;/li>
+&lt;/ul>
+&lt;/li>
+&lt;/ul>
+&lt;h3 id="ctf" >CTF
+&lt;span>
+&lt;a href="#ctf">
+&lt;svg viewBox="0 0 28 23" height="100%" width="19" xmlns="http://www.w3.org/2000/svg">&lt;path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71" fill="none" stroke-linecap="round" stroke-miterlimit="10" stroke-width="2"/>&lt;/svg>
+&lt;/a>
+&lt;/span>
+&lt;/h3>&lt;p>Previously competed in several CTFs with ROIS and r3kapig teams.&lt;/p>
+&lt;table>
+&lt;thead>
+&lt;tr>
+&lt;th>Rank&lt;/th>
+&lt;th>Event/Competition&lt;/th>
+&lt;th>Date&lt;/th>
+&lt;/tr>
+&lt;/thead>
+&lt;tbody>
+&lt;tr>
+&lt;td>5th Place&lt;/td>
+&lt;td>DownUnderCTF 2022, Australia&amp;rsquo;s largest CTF competition&lt;/td>
+&lt;td>09/2022&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12th Place&lt;/td>
+&lt;td>0CTF, Academic team Shanghai Jiao Tong University&lt;/td>
+&lt;td>09/2022&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>12th Place&lt;/td>
+&lt;td>Defcon CTF, Nautilus Institute&lt;/td>
+&lt;td>08/2022&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>3rd Place&lt;/td>
+&lt;td>Defcamp CTF, Cyber Security Research Center from Romania&lt;/td>
+&lt;td>02/2022&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>Third Prize&lt;/td>
+&lt;td>2nd Tianyi Cup Cybersecurity Competition, National Engineering Lab of Mobile Network System and Application Security&lt;/td>
+&lt;td>10/2021&lt;/td>
+&lt;/tr>
+&lt;tr>
+&lt;td>7th Place&lt;/td>
+&lt;td>Tencent Information Security New Star Invitation, Shenzhen Tencent Computer Technology Co.&lt;/td>
+&lt;td>09/2021&lt;/td>
+&lt;/tr>
+&lt;/tbody>
+&lt;/table></description></item></channel></rss>
